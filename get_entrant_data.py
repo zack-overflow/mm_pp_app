@@ -19,7 +19,7 @@ def get_entrant_data(entrant_name):
     with open(JSON_FILE_PATH, 'r') as f:
         player_data = json.load(f)
     
-    pp_players = pd.read_excel('pp_players_form2025.xlsx')
+    pp_players = pd.read_csv('pp_players_form2025.csv')
     pp_players = pp_players[['firstName', 'lastName', 'playin']]
     # combine first and last name to create full player name
     pp_players['player'] = pp_players['firstName'].str.upper() + ' ' + pp_players['lastName'].str.upper()
