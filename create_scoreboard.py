@@ -17,4 +17,11 @@ def create_scoreboard(pikap):
         combined_data = {}
         combined_data['gotti'] = get_entrant_data('gotti', pikap=False)
 
+    # Sum the points for each player
+    for entrant, player_data in combined_data.items():
+        total_points = 0
+        for player, data in player_data.items():
+            total_points += data['pts_mult']
+        combined_data[entrant]['score'] = total_points
+
     return combined_data
