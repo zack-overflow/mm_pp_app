@@ -43,12 +43,15 @@ def create_scoreboard(pikap):
         # Sum the number of players alive for each entrant
         alive_count = 0
         for player, data in player_data.items():
-            if data['team'] in TEAMS_ALIVE_MASK:
-                if TEAMS_ALIVE_MASK[data['team']] == 1:
-                    alive_count += 1
-            else:
-                print(f"Warning: {data['team']} not found in TEAMS_ALIVE_MASK")
+            print(f"Checking player: {player}, data: {data}")
+            if player != 'score' and player != 'sum_multiplier' and data['team'] in TEAMS_ALIVE_MASK and TEAMS_ALIVE_MASK[data['team']] == 1:
+                alive_count += 1
 
         combined_data[entrant]['alive_count'] = alive_count
 
     return combined_data
+
+if __name__ == "__main__":
+    # Example usage
+    scoreboard = create_scoreboard(pikap=True)
+    print(json.dumps(scoreboard, indent=2))

@@ -60,7 +60,11 @@ def get_entrant_data(entrant_name, pikap=False):
             
             print(f"XXXXXXXXXXXX {entrant_player} not found in bookkeeping dict")
         else:
-            entrant_results[entrant_player] = res
+            pp_player = pp_players[pp_players['player'] == entrant_player]
+            if not pp_player.empty:
+                team = pp_player['team'].values[0]
+                res['team'] = team
+                entrant_results[entrant_player] = res
     
     return entrant_results
 
