@@ -21,8 +21,8 @@ def scoreboard():
     except FileNotFoundError:
         return jsonify("error: scoreboard not found"), 404
 
-@app.route("/update_scoreboard", methods=["POST"])
-def update_scoreboard():
+@app.route("/update_bk", methods=["POST"])
+def update_bk():
     """
     Accepts a JSON payload via POST and overwrites the scoreboard.json file.
     Example of expected JSON payload in the request body:
