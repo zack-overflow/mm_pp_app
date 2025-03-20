@@ -1,10 +1,10 @@
 import json
 import pandas as pd
-from match_players import get_player_data_from_entry_player
+from get_player_data_from_entry_player import get_player_data_from_entry_player
 from constants import JSON_FILE_PATH
 
 
-def get_entrant_data(entrant_name):
+def get_entrant_data(entrant_name, pikap=False):
     """
     Get the data for a specific entrant.
     
@@ -26,16 +26,32 @@ def get_entrant_data(entrant_name):
     # make names uppercase and remove punctuation
     pp_players['player'] = pp_players['player'].str.replace(r'[^A-Z\s]', '', regex=True)
 
-    # PLACEHOLDER: PICK RANDOM ROWS FROM pp_players where playin == 1
-    playins = pp_players[pp_players['playin'] == 1]
-    # Sort by the pts_std column
-    playins = playins.sort_values(by='pts_std', ascending=False)
-    # Select the top 15 players
-    sample = playins.head(15)
-    # random_player_sample = playins.sample(15, random_state=36)
+    if pikap:
+        pikap_df = pd.read_csv('combined_players.csv') # columns are entrants
+        entrant_players = pikap_df[entrant_name].tolist()
+        print(entrant_players)
+    else:
+        entrant_players = pd.read_csv('combined_players.csv') ['gotti'].tolist()
 
-    data = {}
-    for player in sample['player']:
-        data[player] = get_player_data_from_entry_player(player, player_data)
+    # Grab data for the enrant's players
+    entrant_results = {}
+    for entrant_player in entrant_players:
+        res = get_player_data_from_entry_player(entrant_player, player_data)
+        # if result is None, put a false entry in the dict
+        if res is None:
+            # entrant_results[entrant_player] = {
+            #     'pts': False,
+            #     'pts_mult': False,
+            #     seed: 
+            # }
+            print(f"XXXXXXXXXXXX {entrant_player} not found in bookkeeping dict")
+        else:
+            entrant_results[entrant_player] = res
     
-    return data
+    return entrant_results
+
+if __name__ == "__main__":
+    # Test the function
+    entrant_name = "gotti"
+    data = get_entrant_data(entrant_name)
+    print(data)

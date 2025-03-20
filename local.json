@@ -1,674 +1,562 @@
 {
-  "Ven-Allen Lubin": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      12
-    ],
-    "pts_mult": 24
-  },
-  "Jae'Lyn Withers": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      10
-    ],
-    "pts_mult": 20
-  },
-  "Drake Powell": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
+  "ABDOULAYE THIAM": {
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 18,
+    "seed": "13",
+    "team": "High Point Panthers"
   },
-  "Elliot Cadeau": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      9
-    ],
-    "pts_mult": 18
-  },
-  "RJ Davis": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      26
-    ],
-    "pts_mult": 52
-  },
-  "John Holbrook": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "James Brown": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      2
-    ],
-    "pts_mult": 4
-  },
-  "Ty Claude": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Jalen Washington": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      2
-    ],
-    "pts_mult": 4
-  },
-  "Dante Mayo Jr.": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      3
-    ],
-    "pts_mult": 6
-  },
-  "Russell Hawkins": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Cade Tyson": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Ian Jackson": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      9
-    ],
-    "pts_mult": 18
-  },
-  "Seth Trimble": {
-    "team": "North Carolina Tar Heels",
-    "seed": "11",
-    "pts": [
-      16
-    ],
-    "pts_mult": 32
-  },
-  "Magoon Gwath": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      9
-    ],
-    "pts_mult": 18
-  },
-  "Jared Coleman-Jones": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      6
-    ],
-    "pts_mult": 12
-  },
-  "BJ Davis": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      9
-    ],
-    "pts_mult": 18
-  },
-  "Miles Byrd": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
+  "ABOUBACAR TRAORE": {
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "seed": "8",
+    "team": "Louisville Cardinals"
   },
-  "Nick Boyd": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      12
-    ],
-    "pts_mult": 24
-  },
-  "Miles Heide": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      6
-    ],
-    "pts_mult": 12
-  },
-  "Pharaoh Compton": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
+  "ARNAS SAKENIS": {
     "pts": [
       5
     ],
-    "pts_mult": 10
-  },
-  "Demarshay Johnson Jr.": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Desai Lopez": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Ryan Schwarz": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Cam Lawin": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      3
-    ],
-    "pts_mult": 6
-  },
-  "Wayne McKinney III": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      12
-    ],
-    "pts_mult": 24
-  },
-  "Taj DeGourville": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Kimo Ferrari": {
-    "team": "San Diego State Aztecs",
-    "seed": "11",
-    "pts": [
-      2
-    ],
-    "pts_mult": 4
-  },
-  "Valentino Pinedo": {
-    "team": "St. Francis (PA) Red Flash",
+    "pts_mult": 15,
     "seed": "16",
-    "pts": [
-      17
-    ],
-    "pts_mult": 51
+    "team": "SIU Edwardsville Cougars"
   },
-  "Riley Parker": {
-    "team": "St. Francis (PA) Red Flash",
-    "seed": "16",
+  "AUSTIN PATTERSON": {
     "pts": [
-      12
+      0
     ],
-    "pts_mult": 36
+    "pts_mult": 0,
+    "seed": "14",
+    "team": "Montana Grizzlies"
   },
-  "Juan Cranford Jr.": {
-    "team": "St. Francis (PA) Red Flash",
-    "seed": "16",
+  "BOBBY PETTIFORD": {
+    "pts": [
+      5
+    ],
+    "pts_mult": 15,
+    "seed": "13",
+    "team": "High Point Panthers"
+  },
+  "BRADEN SMITH": {
     "pts": [
       18
     ],
-    "pts_mult": 54
+    "pts_mult": 18,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
   },
-  "Daemar Kelly": {
-    "team": "St. Francis (PA) Red Flash",
-    "seed": "16",
-    "pts": [
-      7
-    ],
-    "pts_mult": 21
-  },
-  "Chris Moncrief": {
-    "team": "St. Francis (PA) Red Flash",
-    "seed": "16",
-    "pts": [
-      7
-    ],
-    "pts_mult": 21
-  },
-  "Aidan Harris": {
-    "team": "St. Francis (PA) Red Flash",
-    "seed": "16",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Jeremy Clayville": {
-    "team": "St. Francis (PA) Red Flash",
-    "seed": "16",
-    "pts": [
-      5
-    ],
-    "pts_mult": 15
-  },
-  "Bobby Rosenberger III": {
-    "team": "St. Francis (PA) Red Flash",
-    "seed": "16",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Wisler Sanon II": {
-    "team": "St. Francis (PA) Red Flash",
-    "seed": "16",
+  "BRANDON WHITNEY": {
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "seed": "14",
+    "team": "Montana Grizzlies"
   },
-  "Jasteven Walker": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
+  "BRIAN TAYLOR II": {
     "pts": [
-      4
+      2
     ],
-    "pts_mult": 12
-  },
-  "Micah Octave": {
-    "team": "Alabama State Hornets",
+    "pts_mult": 6,
     "seed": "16",
+    "team": "SIU Edwardsville Cougars"
+  },
+  "CALEB FURST": {
     "pts": [
-      4
+      2
     ],
-    "pts_mult": 12
+    "pts_mult": 2,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
   },
-  "CJ Hines": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
-    "pts": [
-      10
-    ],
-    "pts_mult": 30
-  },
-  "TJ Madlock": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
-    "pts": [
-      11
-    ],
-    "pts_mult": 33
-  },
-  "Amarr Knox": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
-    "pts": [
-      16
-    ],
-    "pts_mult": 48
-  },
-  "D'Ante Bass": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
+  "CAMDEN HEIDE": {
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 8,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
   },
-  "Ubong Okon": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Micah Simpson": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
-    "pts": [
-      9
-    ],
-    "pts_mult": 27
-  },
-  "Tyler Mack": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
-    "pts": [
-      3
-    ],
-    "pts_mult": 9
-  },
-  "Shawn Fulcher": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
-    "pts": [
-      5
-    ],
-    "pts_mult": 15
-  },
-  "Jedy Cordilia": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
-    "pts": [
-      22
-    ],
-    "pts_mult": 66
-  },
-  "Dola Adebayo": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
-    "pts": [
-      22
-    ],
-    "pts_mult": 66
-  },
-  "Javon Ervin": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
+  "CARTER GILMORE": {
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 2,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
   },
-  "Dallas Hobbs": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
-    "pts": [
-      17
-    ],
-    "pts_mult": 51
-  },
-  "Xavier Lipscomb": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
-    "pts": [
-      7
-    ],
-    "pts_mult": 21
-  },
-  "Trey Wilson": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Arlandus Keyes": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
-    "pts": [
-      10
-    ],
-    "pts_mult": 30
-  },
-  "Patrick Haigh": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Malcolm Dread": {
-    "team": "Mount St. Mary's Mountaineers",
-    "seed": "16",
+  "CHASE JOHNSTON": {
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "seed": "13",
+    "team": "High Point Panthers"
   },
-  "Greg Jones": {
-    "team": "American University Eagles",
+  "CHUCKY HEPBURN": {
+    "pts": [
+      22
+    ],
+    "pts_mult": 44,
+    "seed": "8",
+    "team": "Louisville Cardinals"
+  },
+  "CJ COX": {
+    "pts": [
+      2
+    ],
+    "pts_mult": 2,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
+  },
+  "DECLAN DILLON": {
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
     "seed": "16",
+    "team": "SIU Edwardsville Cougars"
+  },
+  "DESMOND POLK": {
+    "pts": [
+      3
+    ],
+    "pts_mult": 9,
+    "seed": "16",
+    "team": "SIU Edwardsville Cougars"
+  },
+  "DMAURIAN WILLIAMS": {
     "pts": [
       9
     ],
-    "pts_mult": 27
+    "pts_mult": 27,
+    "seed": "13",
+    "team": "High Point Panthers"
   },
-  "Matt Rogers": {
-    "team": "American University Eagles",
-    "seed": "16",
+  "EMANUEL SHARP": {
+    "pts": [
+      6
+    ],
+    "pts_mult": 6,
+    "seed": "1",
+    "team": "Houston Cougars"
+  },
+  "FEDOR ZUGIC": {
+    "pts": [
+      4
+    ],
+    "pts_mult": 8,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "FLETCHER LOYER": {
+    "pts": [
+      4
+    ],
+    "pts_mult": 4,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
+  },
+  "FREDRICK KING": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "GICARRI HARRIS": {
+    "pts": [
+      3
+    ],
+    "pts_mult": 3,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
+  },
+  "ISAAC TRAUDT": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "JACK JANICKI": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
+  },
+  "JACKSON MCANDREW": {
+    "pts": [
+      11
+    ],
+    "pts_mult": 22,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "JAMES SCOTT": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "8",
+    "team": "Louisville Cardinals"
+  },
+  "JAMIYA NEAL": {
+    "pts": [
+      29
+    ],
+    "pts_mult": 58,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "JASEN GREEN": {
+    "pts": [
+      9
+    ],
+    "pts_mult": 18,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "JAVIER FRANCIS": {
+    "pts": [
+      9
+    ],
+    "pts_mult": 9,
+    "seed": "1",
+    "team": "Houston Cougars"
+  },
+  "JENSEN BRADTKE": {
+    "pts": [
+      3
+    ],
+    "pts_mult": 9,
+    "seed": "14",
+    "team": "Montana Grizzlies"
+  },
+  "JOE PRIDGEN": {
+    "pts": [
+      10
+    ],
+    "pts_mult": 30,
+    "seed": "14",
+    "team": "Montana Grizzlies"
+  },
+  "JOHN BLACKWELL": {
+    "pts": [
+      11
+    ],
+    "pts_mult": 11,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
+  },
+  "JOHN TONJE": {
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 7,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
   },
-  "Elijah Stephens": {
-    "team": "American University Eagles",
+  "JORDAN PICKETT": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
     "seed": "16",
+    "team": "SIU Edwardsville Cougars"
+  },
+  "JOSEPH TUGLER": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "1",
+    "team": "Houston Cougars"
+  },
+  "JUSLIN BODO BODO": {
+    "pts": [
+      8
+    ],
+    "pts_mult": 24,
+    "seed": "13",
+    "team": "High Point Panthers"
+  },
+  "JVONNE HADLEY": {
+    "pts": [
+      13
+    ],
+    "pts_mult": 26,
+    "seed": "8",
+    "team": "Louisville Cardinals"
+  },
+  "JWAN ROBERTS": {
+    "pts": [
+      4
+    ],
+    "pts_mult": 4,
+    "seed": "1",
+    "team": "Houston Cougars"
+  },
+  "KAI JOHNSON": {
+    "pts": [
+      8
+    ],
+    "pts_mult": 24,
+    "seed": "14",
+    "team": "Montana Grizzlies"
+  },
+  "KAMARI MCGEE": {
+    "pts": [
+      2
+    ],
+    "pts_mult": 2,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
+  },
+  "KEZZA GIFFA": {
+    "pts": [
+      8
+    ],
+    "pts_mult": 24,
+    "seed": "13",
+    "team": "High Point Panthers"
+  },
+  "KHANI ROOTHS": {
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "seed": "8",
+    "team": "Louisville Cardinals"
+  },
+  "KIMANI HAMILTON": {
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "seed": "13",
+    "team": "High Point Panthers"
+  },
+  "KYLE THOMAS": {
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "seed": "16",
+    "team": "SIU Edwardsville Cougars"
+  },
+  "LJ CRYER": {
+    "pts": [
+      9
+    ],
+    "pts_mult": 9,
+    "seed": "1",
+    "team": "Houston Cougars"
+  },
+  "MALIK MOORE": {
+    "pts": [
+      5
+    ],
+    "pts_mult": 15,
+    "seed": "14",
+    "team": "Montana Grizzlies"
+  },
+  "MAX KLESMIT": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
+  },
+  "MILOS UZAN": {
+    "pts": [
+      14
+    ],
+    "pts_mult": 14,
+    "seed": "1",
+    "team": "Houston Cougars"
+  },
+  "MONEY WILLIAMS": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "14",
+    "team": "Montana Grizzlies"
+  },
+  "MYLES COLVIN": {
+    "pts": [
+      4
+    ],
+    "pts_mult": 4,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
+  },
+  "MYLES THOMPSON": {
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "seed": "16",
+    "team": "SIU Edwardsville Cougars"
+  },
+  "MYLIK WILSON": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "1",
+    "team": "Houston Cougars"
+  },
+  "NOAH WATERMAN": {
+    "pts": [
+      8
+    ],
+    "pts_mult": 16,
+    "seed": "8",
+    "team": "Louisville Cardinals"
+  },
+  "NOLAN WINTER": {
+    "pts": [
+      7
+    ],
+    "pts_mult": 7,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
+  },
+  "RAYSEAN TAYLOR": {
+    "pts": [
+      4
+    ],
+    "pts_mult": 12,
+    "seed": "16",
+    "team": "SIU Edwardsville Cougars"
+  },
+  "REYNE SMITH": {
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "seed": "8",
+    "team": "Louisville Cardinals"
+  },
+  "RING MALITH": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "16",
+    "team": "SIU Edwardsville Cougars"
+  },
+  "RYAN KALKBRENNER": {
+    "pts": [
+      14
+    ],
+    "pts_mult": 28,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "SHANE THOMAS": {
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "SIMON HILDEBRANDT": {
+    "pts": [
+      3
+    ],
+    "pts_mult": 9,
+    "seed": "13",
+    "team": "High Point Panthers"
+  },
+  "STEVEN ASHWORTH": {
+    "pts": [
+      22
+    ],
+    "pts_mult": 44,
+    "seed": "9",
+    "team": "Creighton Bluejays"
+  },
+  "STEVEN CROWL": {
     "pts": [
       12
     ],
-    "pts_mult": 36
+    "pts_mult": 12,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
   },
-  "Lincoln Ball": {
-    "team": "American University Eagles",
-    "seed": "16",
-    "pts": [
-      4
-    ],
-    "pts_mult": 12
-  },
-  "Colin Smalls": {
-    "team": "American University Eagles",
-    "seed": "16",
-    "pts": [
-      9
-    ],
-    "pts_mult": 27
-  },
-  "Julen Iturbe": {
-    "team": "American University Eagles",
-    "seed": "16",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Eric Michaels": {
-    "team": "American University Eagles",
-    "seed": "16",
-    "pts": [
-      4
-    ],
-    "pts_mult": 12
-  },
-  "Matt Mayock": {
-    "team": "American University Eagles",
-    "seed": "16",
-    "pts": [
-      9
-    ],
-    "pts_mult": 27
-  },
-  "Mason Whittaker": {
-    "team": "American University Eagles",
-    "seed": "16",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Wyatt Nausadis": {
-    "team": "American University Eagles",
-    "seed": "16",
-    "pts": [
-      0
-    ],
-    "pts_mult": 0
-  },
-  "Geoff Sprouse": {
-    "team": "American University Eagles",
-    "seed": "16",
-    "pts": [
-      18
-    ],
-    "pts_mult": 54
-  },
-  "Zach Freemantle": {
-    "team": "Xavier Musketeers",
-    "seed": "11",
-    "pts": [
-      15
-    ],
-    "pts_mult": 30
-  },
-  "Ryan Conwell": {
-    "team": "Xavier Musketeers",
-    "seed": "11",
-    "pts": [
-      11
-    ],
-    "pts_mult": 22
-  },
-  "Dailyn Swain": {
-    "team": "Xavier Musketeers",
-    "seed": "11",
-    "pts": [
-      11
-    ],
-    "pts_mult": 22
-  },
-  "Dayvion McKnight": {
-    "team": "Xavier Musketeers",
-    "seed": "11",
-    "pts": [
-      5
-    ],
-    "pts_mult": 10
-  },
-  "Marcus Foster": {
-    "team": "Xavier Musketeers",
-    "seed": "11",
-    "pts": [
-      22
-    ],
-    "pts_mult": 44
-  },
-  "John Hugley IV": {
-    "team": "Xavier Musketeers",
-    "seed": "11",
-    "pts": [
-      3
-    ],
-    "pts_mult": 6
-  },
-  "Jerome Hunter": {
-    "team": "Xavier Musketeers",
-    "seed": "11",
-    "pts": [
-      9
-    ],
-    "pts_mult": 18
-  },
-  "Dante Maddox Jr.": {
-    "team": "Xavier Musketeers",
-    "seed": "11",
+  "TEJON SAWYER": {
     "pts": [
       10
     ],
-    "pts_mult": 20
+    "pts_mult": 30,
+    "seed": "14",
+    "team": "Montana Grizzlies"
   },
-  "Arthur Kaluma": {
-    "team": "Texas Longhorns",
-    "seed": "11",
-    "pts": [
-      8
-    ],
-    "pts_mult": 16
-  },
-  "Kadin Shedrick": {
-    "team": "Texas Longhorns",
-    "seed": "11",
-    "pts": [
-      11
-    ],
-    "pts_mult": 22
-  },
-  "Tre Johnson": {
-    "team": "Texas Longhorns",
-    "seed": "11",
-    "pts": [
-      23
-    ],
-    "pts_mult": 46
-  },
-  "Jordan Pope": {
-    "team": "Texas Longhorns",
-    "seed": "11",
-    "pts": [
-      3
-    ],
-    "pts_mult": 6
-  },
-  "Tramon Mark": {
-    "team": "Texas Longhorns",
-    "seed": "11",
-    "pts": [
-      16
-    ],
-    "pts_mult": 32
-  },
-  "Jayson Kent": {
-    "team": "Texas Longhorns",
-    "seed": "11",
-    "pts": [
-      8
-    ],
-    "pts_mult": 16
-  },
-  "Ze'Rik Onyema": {
-    "team": "Texas Longhorns",
-    "seed": "11",
-    "pts": [
-      4
-    ],
-    "pts_mult": 8
-  },
-  "Chendall Weaver": {
-    "team": "Texas Longhorns",
-    "seed": "11",
-    "pts": [
-      7
-    ],
-    "pts_mult": 14
-  },
-  "Julian Larry": {
-    "team": "Texas Longhorns",
-    "seed": "11",
+  "TERRANCE ARCENEAUX": {
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "seed": "1",
+    "team": "Houston Cougars"
+  },
+  "TERRENCE EDWARDS JR": {
+    "pts": [
+      21
+    ],
+    "pts_mult": 42,
+    "seed": "8",
+    "team": "Louisville Cardinals"
+  },
+  "TERRY ANDERSON": {
+    "pts": [
+      3
+    ],
+    "pts_mult": 9,
+    "seed": "13",
+    "team": "High Point Panthers"
+  },
+  "TRAE BENHAM": {
+    "pts": [
+      11
+    ],
+    "pts_mult": 33,
+    "seed": "13",
+    "team": "High Point Panthers"
+  },
+  "TREY KAUFMANRENN": {
+    "pts": [
+      21
+    ],
+    "pts_mult": 21,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
+  },
+  "WILL BERG": {
+    "pts": [
+      4
+    ],
+    "pts_mult": 4,
+    "seed": "4",
+    "team": "Purdue Boilermakers"
+  },
+  "XAVIER AMOS": {
+    "pts": [
+      6
+    ],
+    "pts_mult": 6,
+    "seed": "3",
+    "team": "Wisconsin Badgers"
   }
 }

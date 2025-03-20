@@ -13,9 +13,10 @@ def get_player_data_from_entry_player(entry_player, bk_dict):
         player = player.upper()  # Ensure player names are uppercase
         # Remove punctuation from player names
         player = re.sub(r'[^A-Z\s]', '', player)
-        print(player)
 
         if player == entry_player:
             return data
     
-    raise ValueError(f"Player {entry_player} not found in bookkeeping dict")
+    # raise ValueError(f"Player {entry_player} not found in bookkeeping dict")
+    print(f"XXXXXXXXXXXX {entry_player} not found in bookkeeping dict")
+    return None
