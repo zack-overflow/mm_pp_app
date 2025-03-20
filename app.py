@@ -46,6 +46,9 @@ def update_bk():
         # 2. Write/overwrite the file
         with open(JSON_FILE_PATH, "w") as f:
             json.dump(data, f, indent=2)
+        
+        # 3. Log that it was updated
+        print(f"Updated {JSON_FILE_PATH} with new data: {data}")
 
         return jsonify({"status": "success"}), 200
 
