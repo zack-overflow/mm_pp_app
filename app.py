@@ -22,7 +22,7 @@ def scoreboard():
         return jsonify("error: scoreboard not found"), 404
 
 @app.route('/pk/scoreboard')
-def scoreboard():
+def scoreboard_pk():
     try:
         data = create_scoreboard(pikap=True)
         return jsonify(data)
