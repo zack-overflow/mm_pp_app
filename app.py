@@ -54,7 +54,7 @@ def get_entrant(entrant_name):
     except FileNotFoundError:
         return jsonify("error: player data not found"), 404
     
-@app.route("pk/entrant/<entrant_name>")
+@app.route("/pk/entrant/<entrant_name>")
 def get_entrant(entrant_name):
     try:
         data = get_entrant_data(entrant_name, pikap=True)
