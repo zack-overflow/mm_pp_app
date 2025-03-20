@@ -43,7 +43,7 @@ def get_entrant_data(entrant_name, pikap=False):
             # get seed from pp_players
             pp_player = pp_players[pp_players['player'] == entrant_player]
             if not pp_player.empty:
-                seed = pp_player['seed'].values[0]
+                seed = int(pp_player['seed'].values[0])
                 pts_std = pp_player['pts_std'].values[0]
             else:
                 seed = 'Not found'
