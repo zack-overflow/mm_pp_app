@@ -20,7 +20,7 @@ def get_entrant_data(entrant_name, pikap=False):
         player_data = json.load(f)
     
     pp_players = pd.read_csv('pp_players_form2025.csv')
-    pp_players = pp_players[['firstName', 'lastName', 'pts_std', 'seed']]
+    pp_players = pp_players[['firstName', 'lastName', 'pts_std', 'seed', 'team']]
     # combine first and last name to create full player name
     pp_players['player'] = pp_players['firstName'].str.upper() + ' ' + pp_players['lastName'].str.upper()
     # make names uppercase and remove punctuation
@@ -44,16 +44,18 @@ def get_entrant_data(entrant_name, pikap=False):
             pp_player = pp_players[pp_players['player'] == entrant_player]
             if not pp_player.empty:
                 seed = int(pp_player['seed'].values[0])
+                team = pp_player['team'].values[0]
                 pts_std = pp_player['pts_std'].values[0]
             else:
                 seed = 'Not found'
+                team = 'Not found'
                 pts_std = 'Not found'
             
             entrant_results[entrant_player] = {
                 'pts': 'Not played yet',
                 'pts_mult': 'Not played yet',
                 'seed': seed,
-                'team': 'Not played yet',
+                'team': team,
             }
             
             print(f"XXXXXXXXXXXX {entrant_player} not found in bookkeeping dict")
