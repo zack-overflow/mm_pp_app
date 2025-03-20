@@ -1,0 +1,674 @@
+{
+  "Ven-Allen Lubin": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      12
+    ],
+    "pts_mult": 24
+  },
+  "Jae'Lyn Withers": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      10
+    ],
+    "pts_mult": 20
+  },
+  "Drake Powell": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      6
+    ],
+    "pts_mult": 12
+  },
+  "Elliot Cadeau": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18
+  },
+  "RJ Davis": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      26
+    ],
+    "pts_mult": 52
+  },
+  "John Holbrook": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "James Brown": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4
+  },
+  "Ty Claude": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Jalen Washington": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4
+  },
+  "Dante Mayo Jr.": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6
+  },
+  "Russell Hawkins": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Cade Tyson": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Ian Jackson": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18
+  },
+  "Seth Trimble": {
+    "team": "North Carolina Tar Heels",
+    "seed": "11",
+    "pts": [
+      16
+    ],
+    "pts_mult": 32
+  },
+  "Magoon Gwath": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18
+  },
+  "Jared Coleman-Jones": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      6
+    ],
+    "pts_mult": 12
+  },
+  "BJ Davis": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18
+  },
+  "Miles Byrd": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8
+  },
+  "Nick Boyd": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      12
+    ],
+    "pts_mult": 24
+  },
+  "Miles Heide": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      6
+    ],
+    "pts_mult": 12
+  },
+  "Pharaoh Compton": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10
+  },
+  "Demarshay Johnson Jr.": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Desai Lopez": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Ryan Schwarz": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Cam Lawin": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6
+  },
+  "Wayne McKinney III": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      12
+    ],
+    "pts_mult": 24
+  },
+  "Taj DeGourville": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Kimo Ferrari": {
+    "team": "San Diego State Aztecs",
+    "seed": "11",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4
+  },
+  "Valentino Pinedo": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      17
+    ],
+    "pts_mult": 51
+  },
+  "Riley Parker": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      12
+    ],
+    "pts_mult": 36
+  },
+  "Juan Cranford Jr.": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      18
+    ],
+    "pts_mult": 54
+  },
+  "Daemar Kelly": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      7
+    ],
+    "pts_mult": 21
+  },
+  "Chris Moncrief": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      7
+    ],
+    "pts_mult": 21
+  },
+  "Aidan Harris": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Jeremy Clayville": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      5
+    ],
+    "pts_mult": 15
+  },
+  "Bobby Rosenberger III": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Wisler Sanon II": {
+    "team": "St. Francis (PA) Red Flash",
+    "seed": "16",
+    "pts": [
+      2
+    ],
+    "pts_mult": 6
+  },
+  "Jasteven Walker": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      4
+    ],
+    "pts_mult": 12
+  },
+  "Micah Octave": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      4
+    ],
+    "pts_mult": 12
+  },
+  "CJ Hines": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      10
+    ],
+    "pts_mult": 30
+  },
+  "TJ Madlock": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      11
+    ],
+    "pts_mult": 33
+  },
+  "Amarr Knox": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      16
+    ],
+    "pts_mult": 48
+  },
+  "D'Ante Bass": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      8
+    ],
+    "pts_mult": 24
+  },
+  "Ubong Okon": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Micah Simpson": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      9
+    ],
+    "pts_mult": 27
+  },
+  "Tyler Mack": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      3
+    ],
+    "pts_mult": 9
+  },
+  "Shawn Fulcher": {
+    "team": "Alabama State Hornets",
+    "seed": "16",
+    "pts": [
+      5
+    ],
+    "pts_mult": 15
+  },
+  "Jedy Cordilia": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      22
+    ],
+    "pts_mult": 66
+  },
+  "Dola Adebayo": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      22
+    ],
+    "pts_mult": 66
+  },
+  "Javon Ervin": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      2
+    ],
+    "pts_mult": 6
+  },
+  "Dallas Hobbs": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      17
+    ],
+    "pts_mult": 51
+  },
+  "Xavier Lipscomb": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      7
+    ],
+    "pts_mult": 21
+  },
+  "Trey Wilson": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Arlandus Keyes": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      10
+    ],
+    "pts_mult": 30
+  },
+  "Patrick Haigh": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Malcolm Dread": {
+    "team": "Mount St. Mary's Mountaineers",
+    "seed": "16",
+    "pts": [
+      3
+    ],
+    "pts_mult": 9
+  },
+  "Greg Jones": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      9
+    ],
+    "pts_mult": 27
+  },
+  "Matt Rogers": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      7
+    ],
+    "pts_mult": 21
+  },
+  "Elijah Stephens": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      12
+    ],
+    "pts_mult": 36
+  },
+  "Lincoln Ball": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      4
+    ],
+    "pts_mult": 12
+  },
+  "Colin Smalls": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      9
+    ],
+    "pts_mult": 27
+  },
+  "Julen Iturbe": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Eric Michaels": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      4
+    ],
+    "pts_mult": 12
+  },
+  "Matt Mayock": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      9
+    ],
+    "pts_mult": 27
+  },
+  "Mason Whittaker": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Wyatt Nausadis": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  },
+  "Geoff Sprouse": {
+    "team": "American University Eagles",
+    "seed": "16",
+    "pts": [
+      18
+    ],
+    "pts_mult": 54
+  },
+  "Zach Freemantle": {
+    "team": "Xavier Musketeers",
+    "seed": "11",
+    "pts": [
+      15
+    ],
+    "pts_mult": 30
+  },
+  "Ryan Conwell": {
+    "team": "Xavier Musketeers",
+    "seed": "11",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22
+  },
+  "Dailyn Swain": {
+    "team": "Xavier Musketeers",
+    "seed": "11",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22
+  },
+  "Dayvion McKnight": {
+    "team": "Xavier Musketeers",
+    "seed": "11",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10
+  },
+  "Marcus Foster": {
+    "team": "Xavier Musketeers",
+    "seed": "11",
+    "pts": [
+      22
+    ],
+    "pts_mult": 44
+  },
+  "John Hugley IV": {
+    "team": "Xavier Musketeers",
+    "seed": "11",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6
+  },
+  "Jerome Hunter": {
+    "team": "Xavier Musketeers",
+    "seed": "11",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18
+  },
+  "Dante Maddox Jr.": {
+    "team": "Xavier Musketeers",
+    "seed": "11",
+    "pts": [
+      10
+    ],
+    "pts_mult": 20
+  },
+  "Arthur Kaluma": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      8
+    ],
+    "pts_mult": 16
+  },
+  "Kadin Shedrick": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22
+  },
+  "Tre Johnson": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      23
+    ],
+    "pts_mult": 46
+  },
+  "Jordan Pope": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6
+  },
+  "Tramon Mark": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      16
+    ],
+    "pts_mult": 32
+  },
+  "Jayson Kent": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      8
+    ],
+    "pts_mult": 16
+  },
+  "Ze'Rik Onyema": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8
+  },
+  "Chendall Weaver": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      7
+    ],
+    "pts_mult": 14
+  },
+  "Julian Larry": {
+    "team": "Texas Longhorns",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0
+  }
+}

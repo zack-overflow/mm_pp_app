@@ -1,8 +1,8 @@
 import json
 import pandas as pd
 from match_players import get_player_data_from_entry_player
+from constants import JSON_FILE_PATH
 
-JSON_FILE_PATH = "/var/data/scoreboard.json"
 
 def get_entrant_data(entrant_name):
     """
@@ -20,7 +20,7 @@ def get_entrant_data(entrant_name):
         player_data = json.load(f)
     
     pp_players = pd.read_csv('pp_players_form2025.csv')
-    pp_players = pp_players[['firstName', 'lastName', 'playin']]
+    pp_players = pp_players[['firstName', 'lastName', 'playin', 'pts_std']]
     # combine first and last name to create full player name
     pp_players['player'] = pp_players['firstName'].str.upper() + ' ' + pp_players['lastName'].str.upper()
     # make names uppercase and remove punctuation
@@ -28,10 +28,14 @@ def get_entrant_data(entrant_name):
 
     # PLACEHOLDER: PICK RANDOM ROWS FROM pp_players where playin == 1
     playins = pp_players[pp_players['playin'] == 1]
-    random_player_sample = playins.sample(15)
+    # Sort by the pts_std column
+    playins = playins.sort_values(by='pts_std', ascending=False)
+    # Select the top 15 players
+    sample = playins.head(15)
+    # random_player_sample = playins.sample(15, random_state=36)
 
     data = {}
-    for player in random_player_sample['player']:
+    for player in sample['player']:
         data[player] = get_player_data_from_entry_player(player, player_data)
     
     return data

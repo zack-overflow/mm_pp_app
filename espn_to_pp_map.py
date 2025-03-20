@@ -1,6 +1,6 @@
-espn_to_pp_map = {
-        "TY CLAUDE": "Tyzhaun Claude",
-        "BOBBY ROSENBERGER III": "BOBBY ROSENBERGER",
-        "WISLER SANON II": "WISLER SANON",
-        "TJ MADLOCK": "ANTONIO TJ MADLOCK",
+pp_to_espn_map = {
+  'Tyzhaun Claude': 'TY CLAUDE',
+  'BOBBY ROSENBERGER': 'BOBBY ROSENBERGER III',
+  'WISLER SANON': 'WISLER SANON II',
+  'ANTONIO TJ MADLOCK': 'TJ MADLOCK'
 }

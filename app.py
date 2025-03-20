@@ -2,11 +2,11 @@ from flask import Flask, jsonify, request
 import json
 import os
 from get_entrant_data import get_entrant_data
-
-# Path to the file you want to overwrite
-JSON_FILE_PATH = "/var/data/scoreboard.json"
+from constants import JSON_FILE_PATH
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)  # Enable CORS for all routes
 
 @app.route('/')
 def hello_world():
@@ -52,4 +52,6 @@ def get_entrant(entrant_name):
         data = get_entrant_data(entrant_name)
         return jsonify(data)
     except FileNotFoundError:
-        return jsonify("error: scoreboard not found"), 404
+        return jsonify("error: player data not found"), 404
+    
+
