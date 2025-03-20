@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 import json
 import os
 from get_entrant_data import get_entrant_data
+from create_scoreboard import create_scoreboard
 from constants import JSON_FILE_PATH
 from flask_cors import CORS
 
@@ -15,8 +16,15 @@ def hello_world():
 @app.route('/scoreboard')
 def scoreboard():
     try:
-        with open(JSON_FILE_PATH, 'r') as f:
-            data = json.load(f)
+        data = create_scoreboard(pikap=False)
+        return jsonify(data)
+    except FileNotFoundError:
+        return jsonify("error: scoreboard not found"), 404
+
+@app.route('/pk/scoreboard')
+def scoreboard():
+    try:
+        data = create_scoreboard(pikap=True)
         return jsonify(data)
     except FileNotFoundError:
         return jsonify("error: scoreboard not found"), 404
@@ -55,7 +63,7 @@ def get_entrant(entrant_name):
         return jsonify("error: player data not found"), 404
     
 @app.route("/pk/entrant/<entrant_name>")
-def get_entrant(entrant_name):
+def get_entrant_pk(entrant_name):
     try:
         data = get_entrant_data(entrant_name, pikap=True)
         return jsonify(data)

@@ -19,4 +19,9 @@ def get_player_data_from_entry_player(entry_player, bk_dict):
     
     # raise ValueError(f"Player {entry_player} not found in bookkeeping dict")
     print(f"XXXXXXXXXXXX {entry_player} not found in bookkeeping dict")
-    return None
+    return {
+        'pts': 0,
+        'pts_mult': 0,
+        'seed': 'Not played yet',
+        'team': 'Not played yet',
+    }
