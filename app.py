@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request
 import json
 import os
+from get_entrant_data import get_entrant_data
 
 # Path to the file you want to overwrite
 JSON_FILE_PATH = "/var/data/scoreboard.json"
@@ -43,3 +44,12 @@ def update_scoreboard():
     except Exception as e:
         # Handle any error (JSON parse error, file write error, etc.)
         return jsonify({"status": "error", "message": str(e)}), 400
+    
+# Get page from a specific entrant
+@app.route("/entrant/<entrant_name>")
+def get_entrant(entrant_name):
+    try:
+        data = get_entrant_data(entrant_name)
+        return jsonify(data)
+    except FileNotFoundError:
+        return jsonify("error: scoreboard not found"), 404
