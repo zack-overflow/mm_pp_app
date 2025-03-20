@@ -21,7 +21,9 @@ def create_scoreboard(pikap):
     for entrant, player_data in combined_data.items():
         total_points = 0
         for player, data in player_data.items():
-            total_points += data['pts_mult']
+            # Check if the pts_mult is a number
+            if isinstance(data['pts_mult'], (int, float)):
+                total_points += data['pts_mult']
         combined_data[entrant]['score'] = total_points
 
     return combined_data
