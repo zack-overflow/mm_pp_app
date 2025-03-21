@@ -1,10 +1,13 @@
 from flask import Flask, jsonify, request
 import json
 import os
-from get_entrant_data import get_entrant_data
-from create_scoreboard import create_scoreboard
+import pandas as pd
 from constants import JSON_FILE_PATH
 from flask_cors import CORS
+from get_entrant_data import get_entrant_data
+from create_scoreboard import create_scoreboard
+# Import with a different name to avoid conflicts
+from perfect_bracket import perfect_bracket
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -72,5 +75,20 @@ def get_entrant_pk(entrant_name):
         return jsonify(data)
     except FileNotFoundError:
         return jsonify("error: player data not found"), 404
-    
 
+@app.route("/perfect_bracket", methods=["GET"])
+def perfect_bracket_endpoint():
+    """
+    Returns the top 15 players in the competition and how many entrants picked them
+    """
+    try:
+        # Get data from the perfect_bracket function (renamed to get_perfect_bracket_data)
+        perfect_bracket_data = perfect_bracket()
+        return jsonify(perfect_bracket_data)
+    except Exception as e:
+        # More detailed error handling
+        print(f"Error in perfect_bracket_endpoint: {str(e)}")
+        return jsonify({"error": str(e)}), 500
+
+if __name__ == '__main__':
+    app.run(debug=True)
