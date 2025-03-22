@@ -1,12 +1,17 @@
-JSON_FILE_PATH = "local.json"
-# JSON_FILE_PATH = "/var/data/data.json"
+import os
+
+# Use /var/data/data.json if it exists, otherwise use local.json
+if os.path.exists("/var/data/data.json"):
+    JSON_FILE_PATH = "/var/data/data.json"
+else:
+    JSON_FILE_PATH = "local.json"
 
 TEAMS_ALIVE_MASK = {
     "Memphis": 0,
     "New Mexico": 1,
     "Purdue": 1,
     "Lipscomb": 0,
-    "Texas": 1,
+    "Texas": 0,
     "UC San Diego": 0,
     "Creighton": 1,
     "Marquette": 0,
@@ -31,7 +36,7 @@ TEAMS_ALIVE_MASK = {
     "Iowa St.": 1,
     "Gonzaga": 1,
     "North Carolina": 0,
-    "American": 1,
+    "American": 0,
     "Vanderbilt": 0,
     "Utah St.": 0,
     "Oklahoma": 0,
@@ -66,7 +71,7 @@ TEAMS_ALIVE_MASK = {
     "Liberty": 0,
     "Montana": 0,
     "San Diego St.": 0,
-    "St. Fran.-Pa.": 1,
+    "St. Fran.-Pa.": 0,
     "Mt St Mary's": 0,
     "McNeese": 1,
     "Mich. St.": 1
