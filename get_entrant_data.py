@@ -31,7 +31,9 @@ def get_entrant_data(entrant_name, pikap=False):
         entrant_players = pikap_df[entrant_name].tolist()
         print(entrant_players)
     else:
-        entrant_players = pd.read_csv('combined_players.csv') ['gotti'].tolist()
+        nk_df = pd.read_csv('null_kaval_cleaned.csv') # columns are entrants
+        entrant_players = nk_df[entrant_name].tolist()
+        print(entrant_players)
 
     # Grab data for the enrant's players
     entrant_results = {}
@@ -70,6 +72,6 @@ def get_entrant_data(entrant_name, pikap=False):
 
 if __name__ == "__main__":
     # Test the function
-    entrant_name = "gotti"
+    entrant_name = "Alex Popof"
     data = get_entrant_data(entrant_name)
     print(data)

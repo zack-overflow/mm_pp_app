@@ -22,8 +22,14 @@ def create_scoreboard(pikap):
             combined_data[entrant] = entrant_data
         
     else:
+        nk_df = pd.read_csv('null_kaval_cleaned.csv') # columns are entrants
+        entrants = nk_df.columns.tolist()
+        
+        # Get the player data for each entrant
         combined_data = {}
-        combined_data['gotti'] = get_entrant_data('gotti', pikap=False)
+        for entrant in entrants:
+            entrant_data = get_entrant_data(entrant, pikap=False)
+            combined_data[entrant] = entrant_data
 
     # Sum the points for each player
     for entrant, player_data in combined_data.items():
@@ -53,5 +59,5 @@ def create_scoreboard(pikap):
 
 if __name__ == "__main__":
     # Example usage
-    scoreboard = create_scoreboard(pikap=True)
+    scoreboard = create_scoreboard(pikap=False)
     print(json.dumps(scoreboard, indent=2))

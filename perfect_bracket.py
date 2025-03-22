@@ -31,11 +31,11 @@ def find_top_players(N=15):
 
     return top_players.reset_index(drop=True)
 
-def perfect_bracket():
+def perfect_bracket(pikap=True):
     """
     Returns a dataframe with the top N players in the competition and the entrants that picked them
     """
-    N = 15
+    N = 30
 
     # :pad the top players list
     top_players_df = find_top_players(N)
@@ -43,7 +43,11 @@ def perfect_bracket():
     # Add column for entrants
     top_players_df['entrants'] = ''
 
-    df = pd.read_csv('combined_players.csv') # columns are entrants
+    if pikap:
+        df = pd.read_csv('combined_players.csv') # columns are entrants
+    else:
+        df = pd.read_csv('null_kaval_cleaned.csv')
+    
     pp_players = pd.read_csv('pp_players_form2025.csv')
     pp_players = pp_players[['firstName', 'lastName', 'pts_std', 'seed', 'team']]
     # combine first and last name to create full player name

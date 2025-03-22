@@ -90,5 +90,19 @@ def perfect_bracket_endpoint():
         print(f"Error in perfect_bracket_endpoint: {str(e)}")
         return jsonify({"error": str(e)}), 500
 
+@app.route("/nk/perfect_bracket", methods=["GET"])
+def perfect_bracket_nk_endpoint():
+    """
+    Returns the top 15 players in the competition and how many entrants picked them
+    """
+    try:
+        # Get data from the perfect_bracket function (renamed to get_perfect_bracket_data)
+        perfect_bracket_data = perfect_bracket(pikap=False)
+        return jsonify(perfect_bracket_data)
+    except Exception as e:
+        # More detailed error handling
+        print(f"Error in perfect_bracket_endpoint: {str(e)}")
+        return jsonify({"error": str(e)}), 500
+
 if __name__ == '__main__':
     app.run(debug=True)
