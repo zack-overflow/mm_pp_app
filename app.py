@@ -105,6 +105,7 @@ def perfect_bracket_nk_endpoint():
         return jsonify({"error": str(e)}), 500
     
 @app.route("/player/<player_name>")
+@app.route("/pk/player/<player_name>")
 def get_player(player_name):
     """
     Returns the player data for a specific player.
