@@ -54,7 +54,23 @@ def create_scoreboard(pikap):
             if player != 'score' and player != 'sum_multiplier' and data['team'] in TEAMS_ALIVE_MASK and TEAMS_ALIVE_MASK[data['team']] == 1:
                 alive_count += 1
 
+        # Sum estimated games left for each player's team times multiplier
+        team_games_projection_df = pd.read_csv('team_games_played_r32_projection.csv')
+        sum_games_projected = 0
+        sum_games_projected_multiplier = 0
+        for player, data in player_data.items():
+            if player != 'score' and player != 'sum_multiplier' and data['team'] in TEAMS_ALIVE_MASK and TEAMS_ALIVE_MASK[data['team']] == 1:
+                team = data['team']
+                seed = int(data['seed'])
+                games_played_proj = team_games_projection_df.loc[team_games_projection_df['team'] == team, 'Games Played'].values[0]
+                games_played_proj_multiplier = get_multiplier(seed) * games_played_proj
+                sum_games_projected += games_played_proj
+                sum_games_projected_multiplier += games_played_proj_multiplier
+                print(f"Team: {team}, Seed: {seed}, Games Played Projection: {games_played_proj}, Multiplier: {get_multiplier(seed)}, Sum Games Projected: {sum_games_projected}")
+
         combined_data[entrant]['alive_count'] = alive_count
+        combined_data[entrant]['sum_games_projected'] = sum_games_projected
+        combined_data[entrant]['sum_games_projected_multiplier'] = sum_games_projected_multiplier
 
     return combined_data
 

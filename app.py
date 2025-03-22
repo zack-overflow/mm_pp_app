@@ -109,8 +109,7 @@ def get_player(player_name):
     Returns the player data for a specific player.
     """
     try:
-        pass
-        player_data = None
+        player_data = get_player_data(player_name)
         
         if player_data:
             return jsonify(player_data)
