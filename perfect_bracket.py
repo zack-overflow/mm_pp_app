@@ -55,8 +55,7 @@ def perfect_bracket(pikap=True):
     # make names uppercase and remove punctuation
     pp_players['player'] = pp_players['player'].str.replace(r'[^A-Z\s]', '', regex=True)
 
-    df_pikap = pd.read_csv('combined_players.csv') # columns are entrants
-    for entrant_name in df_pikap.columns:
+    for entrant_name in df.columns:
         entrant_players = df[entrant_name].tolist()
         # If the entrant players are in the top players df, add them to a column that lists that
         for i, row in top_players_df.iterrows():
