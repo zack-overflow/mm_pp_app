@@ -7,6 +7,7 @@ from flask_cors import CORS
 from get_entrant_data import get_entrant_data
 from create_scoreboard import create_scoreboard
 from perfect_bracket import perfect_bracket
+from get_player_data import get_player_data
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
