@@ -62,7 +62,7 @@ def create_scoreboard(pikap):
             if player != 'score' and player != 'sum_multiplier' and data['team'] in TEAMS_ALIVE_MASK and TEAMS_ALIVE_MASK[data['team']] == 1:
                 team = data['team']
                 seed = int(data['seed'])
-                games_played_proj = team_games_projection_df.loc[team_games_projection_df['team'] == team, 'Games Played'].values[0]
+                games_played_proj = float(team_games_projection_df.loc[team_games_projection_df['Team'] == team, 'Games Played'].values[0])
                 games_played_proj_multiplier = get_multiplier(seed) * games_played_proj
                 sum_games_projected += games_played_proj
                 sum_games_projected_multiplier += games_played_proj_multiplier
