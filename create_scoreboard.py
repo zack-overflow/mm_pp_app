@@ -40,8 +40,9 @@ def create_scoreboard(pikap):
             if isinstance(data['pts_mult'], (int, float)):
                 total_points += data['pts_mult']
             
-            # Add up the multiplier points based on the seeds
-            sum_multiplier += get_multiplier(int(data['seed']))
+            # Add up the multiplier points based on the seeds if the team is alive
+            if player != 'score' and player != 'sum_multiplier' and data['team'] in TEAMS_ALIVE_MASK and TEAMS_ALIVE_MASK[data['team']] == 1:
+                sum_multiplier += get_multiplier(int(data['seed']))
                 
         combined_data[entrant]['score'] = total_points
         combined_data[entrant]['sum_multiplier'] = sum_multiplier
@@ -59,5 +60,5 @@ def create_scoreboard(pikap):
 
 if __name__ == "__main__":
     # Example usage
-    scoreboard = create_scoreboard(pikap=False)
+    scoreboard = create_scoreboard(pikap=True)['weintraub']
     print(json.dumps(scoreboard, indent=2))

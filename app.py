@@ -6,7 +6,6 @@ from constants import JSON_FILE_PATH
 from flask_cors import CORS
 from get_entrant_data import get_entrant_data
 from create_scoreboard import create_scoreboard
-# Import with a different name to avoid conflicts
 from perfect_bracket import perfect_bracket
 
 app = Flask(__name__)
@@ -102,6 +101,23 @@ def perfect_bracket_nk_endpoint():
     except Exception as e:
         # More detailed error handling
         print(f"Error in perfect_bracket_endpoint: {str(e)}")
+        return jsonify({"error": str(e)}), 500
+    
+@app.route("/player/<player_name>")
+def get_player(player_name):
+    """
+    Returns the player data for a specific player.
+    """
+    try:
+        pass
+        player_data = None
+        
+        if player_data:
+            return jsonify(player_data)
+        else:
+            return jsonify({"error": "Player not found"}), 404
+    except Exception as e:
+        print(f"Error in get_player: {str(e)}")
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
