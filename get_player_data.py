@@ -1,5 +1,5 @@
 import json
-from constants import JSON_FILE_PATH, TEAMS_ALIVE_MASK
+from constants import JSON_FILE_PATH, TEAMS_ALIVE_MASK, ESPN_TO_PP_MAP
 
 def get_player_data(player_name):
     """
@@ -20,6 +20,8 @@ def get_player_data(player_name):
     # Check if the player exists in the data
     if player_name not in data:
         return None
+    
+    print(f"Getting data for player: {player_name}")
 
     player_data = data[player_name]
 
@@ -30,12 +32,9 @@ def get_player_data(player_name):
         "seed": player_data["seed"],
         "pts": player_data["pts"],
         "pts_mult": player_data["pts_mult"],
-        "alive": TEAMS_ALIVE_MASK[player_data["team"]],
+        "pts_mult_round": player_data["pts_mult_rounds"],
+        "alive": TEAMS_ALIVE_MASK[ESPN_TO_PP_MAP[player_data["team"]]],
     }
-
-    # Add points for each round
-    for round_name, points in player_data["points"].items():
-        response["points"][round_name] = points
 
     return response
     

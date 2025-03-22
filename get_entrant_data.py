@@ -1,7 +1,7 @@
 import json
 import pandas as pd
 from get_player_data_from_entry_player import get_player_data_from_entry_player
-from constants import JSON_FILE_PATH
+from constants import JSON_FILE_PATH, TEAMS_ALIVE_MASK
 
 
 def get_entrant_data(entrant_name, pikap=False):
@@ -67,6 +67,11 @@ def get_entrant_data(entrant_name, pikap=False):
                 team = pp_player['team'].values[0]
                 res['team'] = team
                 entrant_results[entrant_player] = res
+                # check if player's team is alive
+                if TEAMS_ALIVE_MASK[team] == 1:
+                    res['alive'] = True
+                else:
+                    res['alive'] = False
     
     return entrant_results
 

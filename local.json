@@ -5,7 +5,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "MICAH OCTAVE": {
     "team": "Alabama State Hornets",
@@ -13,7 +16,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "CJ HINES": {
     "team": "Alabama State Hornets",
@@ -21,7 +27,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 27
+    "pts_mult": 27,
+    "pts_mult_rounds": [
+      27
+    ]
   },
   "TJ MADLOCK": {
     "team": "Alabama State Hornets",
@@ -29,7 +38,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 33
+    "pts_mult": 33,
+    "pts_mult_rounds": [
+      33
+    ]
   },
   "AMARR KNOX": {
     "team": "Alabama State Hornets",
@@ -37,7 +49,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 54
+    "pts_mult": 54,
+    "pts_mult_rounds": [
+      54
+    ]
   },
   "DANTE BASS": {
     "team": "Alabama State Hornets",
@@ -45,7 +60,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "UBONG OKON": {
     "team": "Alabama State Hornets",
@@ -53,7 +71,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "MICAH SIMPSON": {
     "team": "Alabama State Hornets",
@@ -61,7 +82,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "TYLER MACK": {
     "team": "Alabama State Hornets",
@@ -69,7 +93,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "SHAWN FULCHER": {
     "team": "Alabama State Hornets",
@@ -77,7 +104,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "JOHNI BROOME": {
     "team": "Auburn Tigers",
@@ -85,7 +115,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "DYLAN CARDWELL": {
     "team": "Auburn Tigers",
@@ -93,7 +126,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "CHAD BAKERMAZARA": {
     "team": "Auburn Tigers",
@@ -101,7 +137,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "DENVER JONES": {
     "team": "Auburn Tigers",
@@ -109,7 +148,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "MILES KELLY": {
     "team": "Auburn Tigers",
@@ -117,7 +159,10 @@
     "pts": [
       23
     ],
-    "pts_mult": 23
+    "pts_mult": 23,
+    "pts_mult_rounds": [
+      23
+    ]
   },
   "CHANEY JOHNSON": {
     "team": "Auburn Tigers",
@@ -125,7 +170,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "JAHEIM HUDSON": {
     "team": "Auburn Tigers",
@@ -133,7 +181,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JAHKI HOWARD": {
     "team": "Auburn Tigers",
@@ -141,7 +192,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CHRIS MOORE": {
     "team": "Auburn Tigers",
@@ -149,7 +203,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BLAKE MUSCHALEK": {
     "team": "Auburn Tigers",
@@ -157,7 +214,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 1
+    "pts_mult": 1,
+    "pts_mult_rounds": [
+      1
+    ]
   },
   "TAHAAD PETTIFORD": {
     "team": "Auburn Tigers",
@@ -165,7 +225,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "JASEN GREEN": {
     "team": "Creighton Bluejays",
@@ -173,7 +236,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "JACKSON MCANDREW": {
     "team": "Creighton Bluejays",
@@ -181,7 +247,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 22
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
   },
   "RYAN KALKBRENNER": {
     "team": "Creighton Bluejays",
@@ -189,7 +258,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "JAMIYA NEAL": {
     "team": "Creighton Bluejays",
@@ -197,7 +269,10 @@
     "pts": [
       29
     ],
-    "pts_mult": 58
+    "pts_mult": 58,
+    "pts_mult_rounds": [
+      58
+    ]
   },
   "STEVEN ASHWORTH": {
     "team": "Creighton Bluejays",
@@ -205,7 +280,10 @@
     "pts": [
       22
     ],
-    "pts_mult": 44
+    "pts_mult": 44,
+    "pts_mult_rounds": [
+      44
+    ]
   },
   "ISAAC TRAUDT": {
     "team": "Creighton Bluejays",
@@ -213,7 +291,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "FREDRICK KING": {
     "team": "Creighton Bluejays",
@@ -221,7 +302,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "FEDOR ZUGIC": {
     "team": "Creighton Bluejays",
@@ -229,7 +313,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "SHANE THOMAS": {
     "team": "Creighton Bluejays",
@@ -237,7 +324,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JAMES SCOTT": {
     "team": "Louisville Cardinals",
@@ -245,7 +335,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "NOAH WATERMAN": {
     "team": "Louisville Cardinals",
@@ -253,7 +346,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "JVONNE HADLEY": {
     "team": "Louisville Cardinals",
@@ -261,7 +357,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 26
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
   },
   "TERRENCE EDWARDS JR": {
     "team": "Louisville Cardinals",
@@ -269,7 +368,10 @@
     "pts": [
       21
     ],
-    "pts_mult": 42
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
   },
   "CHUCKY HEPBURN": {
     "team": "Louisville Cardinals",
@@ -277,7 +379,10 @@
     "pts": [
       22
     ],
-    "pts_mult": 44
+    "pts_mult": 44,
+    "pts_mult_rounds": [
+      44
+    ]
   },
   "ABOUBACAR TRAORE": {
     "team": "Louisville Cardinals",
@@ -285,7 +390,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "KHANI ROOTHS": {
     "team": "Louisville Cardinals",
@@ -293,7 +401,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "REYNE SMITH": {
     "team": "Louisville Cardinals",
@@ -301,7 +412,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "NORDIN KAPIC": {
     "team": "UC San Diego Tritons",
@@ -309,7 +423,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "HAYDEN GRAY": {
     "team": "UC San Diego Tritons",
@@ -317,7 +434,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "ANIWANIWA TAITJONES": {
     "team": "UC San Diego Tritons",
@@ -325,7 +445,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "TYLER MCGHIE": {
     "team": "UC San Diego Tritons",
@@ -333,7 +456,10 @@
     "pts": [
       25
     ],
-    "pts_mult": 50
+    "pts_mult": 50,
+    "pts_mult_rounds": [
+      50
+    ]
   },
   "CHRIS HOWELL": {
     "team": "UC San Diego Tritons",
@@ -341,7 +467,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "MAXIMO MILOVICH": {
     "team": "UC San Diego Tritons",
@@ -349,7 +478,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "AIDAN BURKE": {
     "team": "UC San Diego Tritons",
@@ -357,7 +489,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JUSTIN ROCHELIN": {
     "team": "UC San Diego Tritons",
@@ -365,7 +500,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "DANNY WOLF": {
     "team": "Michigan Wolverines",
@@ -373,7 +511,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "VLADISLAV GOLDIN": {
     "team": "Michigan Wolverines",
@@ -381,7 +522,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "TRE DONALDSON": {
     "team": "Michigan Wolverines",
@@ -389,7 +533,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "NIMARI BURNETT": {
     "team": "Michigan Wolverines",
@@ -397,7 +544,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "RUBIN JONES": {
     "team": "Michigan Wolverines",
@@ -405,7 +555,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "WILL TSCHETTER": {
     "team": "Michigan Wolverines",
@@ -413,7 +566,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "LJ CASON": {
     "team": "Michigan Wolverines",
@@ -421,7 +577,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "RODDY GAYLE JR": {
     "team": "Michigan Wolverines",
@@ -429,7 +588,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 11
+    "pts_mult": 11,
+    "pts_mult_rounds": [
+      11
+    ]
   },
   "NICK TOWNSEND": {
     "team": "Yale Bulldogs",
@@ -437,7 +599,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 45
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
   },
   "CASEY SIMMONS": {
     "team": "Yale Bulldogs",
@@ -445,7 +610,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 33
+    "pts_mult": 33,
+    "pts_mult_rounds": [
+      33
+    ]
   },
   "SAMSON ALETAN": {
     "team": "Yale Bulldogs",
@@ -453,7 +621,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JOHN POULAKIDAS": {
     "team": "Yale Bulldogs",
@@ -461,7 +632,10 @@
     "pts": [
       23
     ],
-    "pts_mult": 69
+    "pts_mult": 69,
+    "pts_mult_rounds": [
+      69
+    ]
   },
   "BEZ MBENG": {
     "team": "Yale Bulldogs",
@@ -469,7 +643,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "RILEY FOX": {
     "team": "Yale Bulldogs",
@@ -477,7 +654,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "ISAAC CELISCAR": {
     "team": "Yale Bulldogs",
@@ -485,7 +665,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "JACK MOLLOY": {
     "team": "Yale Bulldogs",
@@ -493,7 +676,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JORDAN BRATHWAITE": {
     "team": "Yale Bulldogs",
@@ -501,7 +687,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TREVOR MULLIN": {
     "team": "Yale Bulldogs",
@@ -509,7 +698,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ANDERSSON GARCIA": {
     "team": "Texas A&M Aggies",
@@ -517,7 +709,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "HENRY COLEMAN III": {
     "team": "Texas A&M Aggies",
@@ -525,7 +720,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "WADE TAYLOR IV": {
     "team": "Texas A&M Aggies",
@@ -533,7 +731,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "HAYDEN HEFNER": {
     "team": "Texas A&M Aggies",
@@ -541,7 +742,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "MANNY OBASEKI": {
     "team": "Texas A&M Aggies",
@@ -549,7 +753,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "PHARREL PAYNE": {
     "team": "Texas A&M Aggies",
@@ -557,7 +764,10 @@
     "pts": [
       25
     ],
-    "pts_mult": 25
+    "pts_mult": 25,
+    "pts_mult_rounds": [
+      25
+    ]
   },
   "SOLOMON WASHINGTON": {
     "team": "Texas A&M Aggies",
@@ -565,7 +775,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "JACE CARTER": {
     "team": "Texas A&M Aggies",
@@ -573,7 +786,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "ZHURIC PHELPS": {
     "team": "Texas A&M Aggies",
@@ -581,7 +797,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "CJ WILCHER": {
     "team": "Texas A&M Aggies",
@@ -589,7 +808,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "VENALLEN LUBIN": {
     "team": "North Carolina Tar Heels",
@@ -597,7 +819,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "JAELYN WITHERS": {
     "team": "North Carolina Tar Heels",
@@ -605,7 +830,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "DRAKE POWELL": {
     "team": "North Carolina Tar Heels",
@@ -613,7 +841,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "ELLIOT CADEAU": {
     "team": "North Carolina Tar Heels",
@@ -621,7 +852,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "RJ DAVIS": {
     "team": "North Carolina Tar Heels",
@@ -629,7 +863,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "JALEN WASHINGTON": {
     "team": "North Carolina Tar Heels",
@@ -637,7 +874,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "CADE TYSON": {
     "team": "North Carolina Tar Heels",
@@ -645,7 +885,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "IAN JACKSON": {
     "team": "North Carolina Tar Heels",
@@ -653,7 +896,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "SETH TRIMBLE": {
     "team": "North Carolina Tar Heels",
@@ -661,7 +907,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "MALIK DIA": {
     "team": "Ole Miss Rebels",
@@ -669,7 +918,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "SEAN PEDULLA": {
     "team": "Ole Miss Rebels",
@@ -677,7 +929,10 @@
     "pts": [
       20
     ],
-    "pts_mult": 40
+    "pts_mult": 40,
+    "pts_mult_rounds": [
+      40
+    ]
   },
   "MATTHEW MURRELL": {
     "team": "Ole Miss Rebels",
@@ -685,7 +940,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "DRE DAVIS": {
     "team": "Ole Miss Rebels",
@@ -693,7 +951,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "JAYLEN MURRAY": {
     "team": "Ole Miss Rebels",
@@ -701,7 +962,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "JAEMYN BRAKEFIELD": {
     "team": "Ole Miss Rebels",
@@ -709,7 +973,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "EDUARDO KLAFKE": {
     "team": "Ole Miss Rebels",
@@ -717,7 +984,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DAVON BARNES": {
     "team": "Ole Miss Rebels",
@@ -725,7 +995,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "JACOB OGNACEVIC": {
     "team": "Lipscomb Bisons",
@@ -733,7 +1006,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 54
+    "pts_mult": 54,
+    "pts_mult_rounds": [
+      54
+    ]
   },
   "CHARLIE WILLIAMS": {
     "team": "Lipscomb Bisons",
@@ -741,7 +1017,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "GYASI POWELL": {
     "team": "Lipscomb Bisons",
@@ -749,7 +1028,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 33
+    "pts_mult": 33,
+    "pts_mult_rounds": [
+      33
+    ]
   },
   "JOE ANDERSON": {
     "team": "Lipscomb Bisons",
@@ -757,7 +1039,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "WILL PRUITT": {
     "team": "Lipscomb Bisons",
@@ -765,7 +1050,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "RYLAN HOUCK": {
     "team": "Lipscomb Bisons",
@@ -773,7 +1061,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "GRANT ASMAN": {
     "team": "Lipscomb Bisons",
@@ -781,7 +1072,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "LUKE CARTER": {
     "team": "Lipscomb Bisons",
@@ -789,7 +1083,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "MILES WHITE": {
     "team": "Lipscomb Bisons",
@@ -797,7 +1094,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "ZACH LAMEY": {
     "team": "Lipscomb Bisons",
@@ -805,7 +1105,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "LOGAN SUBER": {
     "team": "Lipscomb Bisons",
@@ -813,7 +1116,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "KELLAN BOYLAN": {
     "team": "Lipscomb Bisons",
@@ -821,7 +1127,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JACK INGOLD": {
     "team": "Lipscomb Bisons",
@@ -829,7 +1138,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "ROSS CANDELINO": {
     "team": "Lipscomb Bisons",
@@ -837,7 +1149,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JOSHUA JEFFERSON": {
     "team": "Iowa State Cyclones",
@@ -845,7 +1160,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "MILAN MOMCILOVIC": {
     "team": "Iowa State Cyclones",
@@ -853,7 +1171,10 @@
     "pts": [
       20
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "DISHON JACKSON": {
     "team": "Iowa State Cyclones",
@@ -861,7 +1182,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "TAMIN LIPSEY": {
     "team": "Iowa State Cyclones",
@@ -869,7 +1193,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "NATE HEISE": {
     "team": "Iowa State Cyclones",
@@ -877,7 +1204,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "CONRAD HAWLEY": {
     "team": "Iowa State Cyclones",
@@ -885,7 +1215,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KAYDEN FISH": {
     "team": "Iowa State Cyclones",
@@ -893,7 +1226,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "BRANDTON CHATFIELD": {
     "team": "Iowa State Cyclones",
@@ -901,7 +1237,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "JT ROCK": {
     "team": "Iowa State Cyclones",
@@ -909,7 +1248,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "CADE KELDERMAN": {
     "team": "Iowa State Cyclones",
@@ -917,7 +1259,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "DEMARION WATSON": {
     "team": "Iowa State Cyclones",
@@ -925,7 +1270,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "NOJUS INDRUSAITIS": {
     "team": "Iowa State Cyclones",
@@ -933,7 +1281,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CURTIS JONES": {
     "team": "Iowa State Cyclones",
@@ -941,7 +1292,10 @@
     "pts": [
       17
     ],
-    "pts_mult": 17
+    "pts_mult": 17,
+    "pts_mult_rounds": [
+      17
+    ]
   },
   "FILIP BOROVICANIN": {
     "team": "New Mexico Lobos",
@@ -949,7 +1303,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "MUSTAPHA AMZIL": {
     "team": "New Mexico Lobos",
@@ -957,7 +1314,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "NELLY JUNIOR JOSEPH": {
     "team": "New Mexico Lobos",
@@ -965,7 +1325,10 @@
     "pts": [
       19
     ],
-    "pts_mult": 38
+    "pts_mult": 38,
+    "pts_mult_rounds": [
+      38
+    ]
   },
   "DONOVAN DENT": {
     "team": "New Mexico Lobos",
@@ -973,7 +1336,10 @@
     "pts": [
       21
     ],
-    "pts_mult": 42
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
   },
   "TRU WASHINGTON": {
     "team": "New Mexico Lobos",
@@ -981,7 +1347,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "JOVAN MILICEVIC": {
     "team": "New Mexico Lobos",
@@ -989,7 +1358,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ATIKI ALLY ATIKI": {
     "team": "New Mexico Lobos",
@@ -997,7 +1369,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KAYDE DOTSON": {
     "team": "New Mexico Lobos",
@@ -1005,7 +1380,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BRADEN APPELHANS": {
     "team": "New Mexico Lobos",
@@ -1013,7 +1391,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CJ NOLAND": {
     "team": "New Mexico Lobos",
@@ -1021,7 +1402,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 22
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
   },
   "BEN GOLD": {
     "team": "Marquette Golden Eagles",
@@ -1029,7 +1413,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "DAVID JOPLIN": {
     "team": "Marquette Golden Eagles",
@@ -1037,7 +1424,10 @@
     "pts": [
       28
     ],
-    "pts_mult": 56
+    "pts_mult": 56,
+    "pts_mult_rounds": [
+      56
+    ]
   },
   "CHASE ROSS": {
     "team": "Marquette Golden Eagles",
@@ -1045,7 +1435,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "KAM JONES": {
     "team": "Marquette Golden Eagles",
@@ -1053,7 +1446,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "STEVIE MITCHELL": {
     "team": "Marquette Golden Eagles",
@@ -1061,7 +1457,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "CAEDIN HAMILTON": {
     "team": "Marquette Golden Eagles",
@@ -1069,7 +1468,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ROYCE PARHAM": {
     "team": "Marquette Golden Eagles",
@@ -1077,7 +1479,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "DAMARIUS OWENS": {
     "team": "Marquette Golden Eagles",
@@ -1085,7 +1490,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ZAIDE LOWERY": {
     "team": "Marquette Golden Eagles",
@@ -1093,7 +1501,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "TRE NORMAN": {
     "team": "Marquette Golden Eagles",
@@ -1101,7 +1512,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KEYSHAWN MITCHELL": {
     "team": "Bryant Bulldogs",
@@ -1109,7 +1523,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "BARRY EVANS": {
     "team": "Bryant Bulldogs",
@@ -1117,7 +1534,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "CONNOR WITHERS": {
     "team": "Bryant Bulldogs",
@@ -1125,7 +1545,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "RAFAEL PINZON": {
     "team": "Bryant Bulldogs",
@@ -1133,7 +1556,10 @@
     "pts": [
       21
     ],
-    "pts_mult": 63
+    "pts_mult": 63,
+    "pts_mult_rounds": [
+      63
+    ]
   },
   "EARL TIMBERLAKE": {
     "team": "Bryant Bulldogs",
@@ -1141,7 +1567,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 42
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
   },
   "JOSH OZABOR": {
     "team": "Bryant Bulldogs",
@@ -1149,7 +1578,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KVONN CRAMER": {
     "team": "Bryant Bulldogs",
@@ -1157,7 +1589,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "JAYDEN BROWN": {
     "team": "Bryant Bulldogs",
@@ -1165,7 +1600,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "FRANKIE VASSALLUZZO": {
     "team": "Bryant Bulldogs",
@@ -1173,7 +1611,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "AARON DAVIS": {
     "team": "Bryant Bulldogs",
@@ -1181,7 +1622,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KAM FARRIS": {
     "team": "Bryant Bulldogs",
@@ -1189,7 +1633,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JAKAI ROBINSON": {
     "team": "Bryant Bulldogs",
@@ -1197,7 +1644,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JAXON KOHLER": {
     "team": "Michigan State Spartans",
@@ -1205,7 +1655,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "SZYMON ZAPALA": {
     "team": "Michigan State Spartans",
@@ -1213,7 +1666,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JASE RICHARDSON": {
     "team": "Michigan State Spartans",
@@ -1221,7 +1677,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "JEREMY FEARS JR": {
     "team": "Michigan State Spartans",
@@ -1229,7 +1688,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 11
+    "pts_mult": 11,
+    "pts_mult_rounds": [
+      11
+    ]
   },
   "JADEN AKINS": {
     "team": "Michigan State Spartans",
@@ -1237,7 +1699,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 11
+    "pts_mult": 11,
+    "pts_mult_rounds": [
+      11
+    ]
   },
   "FRANKIE FIDLER": {
     "team": "Michigan State Spartans",
@@ -1245,7 +1710,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "COEN CARR": {
     "team": "Michigan State Spartans",
@@ -1253,7 +1721,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "XAVIER BOOKER": {
     "team": "Michigan State Spartans",
@@ -1261,7 +1732,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CARSON COOPER": {
     "team": "Michigan State Spartans",
@@ -1269,7 +1743,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "NICK SANDERS": {
     "team": "Michigan State Spartans",
@@ -1277,7 +1754,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "TRE HOLLOMAN": {
     "team": "Michigan State Spartans",
@@ -1285,7 +1765,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "GEHRIG NORMAND": {
     "team": "Michigan State Spartans",
@@ -1293,7 +1776,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KUR TENG": {
     "team": "Michigan State Spartans",
@@ -1301,7 +1787,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JEDY CORDILIA": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1309,7 +1798,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 27
+    "pts_mult": 27,
+    "pts_mult_rounds": [
+      27
+    ]
   },
   "DOLA ADEBAYO": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1317,7 +1809,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "JAVON ERVIN": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1325,7 +1820,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "DALLAS HOBBS": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1333,7 +1831,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "XAVIER LIPSCOMB": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1341,7 +1842,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "ABDOU KHADRE KEBE": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1349,7 +1853,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TREY WILSON": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1357,7 +1864,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "JAXON HARTMAN": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1365,7 +1875,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ARLANDUS KEYES": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1373,7 +1886,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 45
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
   },
   "PATRICK HAIGH": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1381,7 +1897,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "MALCOLM DREAD": {
     "team": "Mount St. Mary's Mountaineers",
@@ -1389,7 +1908,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "COOPER FLAGG": {
     "team": "Duke Blue Devils",
@@ -1397,7 +1919,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "KHAMAN MALUACH": {
     "team": "Duke Blue Devils",
@@ -1405,7 +1930,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 11
+    "pts_mult": 11,
+    "pts_mult_rounds": [
+      11
+    ]
   },
   "KON KNUEPPEL": {
     "team": "Duke Blue Devils",
@@ -1413,7 +1941,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "TYRESE PROCTOR": {
     "team": "Duke Blue Devils",
@@ -1421,7 +1952,10 @@
     "pts": [
       19
     ],
-    "pts_mult": 19
+    "pts_mult": 19,
+    "pts_mult_rounds": [
+      19
+    ]
   },
   "SION JAMES": {
     "team": "Duke Blue Devils",
@@ -1429,7 +1963,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "NEAL BEGOVICH": {
     "team": "Duke Blue Devils",
@@ -1437,7 +1974,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "MASON GILLIS": {
     "team": "Duke Blue Devils",
@@ -1445,7 +1985,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "PATRICK NGONGBA II": {
     "team": "Duke Blue Devils",
@@ -1453,7 +1996,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "ISAIAH EVANS": {
     "team": "Duke Blue Devils",
@@ -1461,7 +2007,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "SPENCER HUBBARD": {
     "team": "Duke Blue Devils",
@@ -1469,7 +2018,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "DARREN HARRIS": {
     "team": "Duke Blue Devils",
@@ -1477,7 +2029,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "CALEB FOSTER": {
     "team": "Duke Blue Devils",
@@ -1485,7 +2040,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "CAMERON SHEFFIELD": {
     "team": "Duke Blue Devils",
@@ -1493,7 +2051,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "NORCHAD OMIER": {
     "team": "Baylor Bears",
@@ -1501,7 +2062,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "VJ EDGECOMBE": {
     "team": "Baylor Bears",
@@ -1509,7 +2073,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "ROBERT WRIGHT III": {
     "team": "Baylor Bears",
@@ -1517,7 +2084,10 @@
     "pts": [
       19
     ],
-    "pts_mult": 38
+    "pts_mult": 38,
+    "pts_mult_rounds": [
+      38
+    ]
   },
   "JALEN CELESTINE": {
     "team": "Baylor Bears",
@@ -1525,7 +2095,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "LANGSTON LOVE": {
     "team": "Baylor Bears",
@@ -1533,7 +2106,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "MARINO DUBRAVCIC": {
     "team": "Baylor Bears",
@@ -1541,7 +2117,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JAYDEN NUNN": {
     "team": "Baylor Bears",
@@ -1549,7 +2128,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JEREMY ROACH": {
     "team": "Baylor Bears",
@@ -1557,7 +2139,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "RJ MELENDEZ": {
     "team": "Mississippi State Bulldogs",
@@ -1565,7 +2150,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "CAMERON MATTHEWS": {
     "team": "Mississippi State Bulldogs",
@@ -1573,7 +2161,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "MICHAEL NWOKO": {
     "team": "Mississippi State Bulldogs",
@@ -1581,7 +2172,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "CLAUDELL HARRIS JR": {
     "team": "Mississippi State Bulldogs",
@@ -1589,7 +2183,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 26
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
   },
   "JOSH HUBBARD": {
     "team": "Mississippi State Bulldogs",
@@ -1597,7 +2194,10 @@
     "pts": [
       26
     ],
-    "pts_mult": 52
+    "pts_mult": 52,
+    "pts_mult_rounds": [
+      52
+    ]
   },
   "KESHAWN MURPHY": {
     "team": "Mississippi State Bulldogs",
@@ -1605,7 +2205,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "SHAWN JONES JR": {
     "team": "Mississippi State Bulldogs",
@@ -1613,7 +2216,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "RILEY KUGEL": {
     "team": "Mississippi State Bulldogs",
@@ -1621,7 +2227,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 22
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
   },
   "DELLQUAN WARREN": {
     "team": "Mississippi State Bulldogs",
@@ -1629,7 +2238,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "OWEN AQUINO": {
     "team": "Liberty Flames",
@@ -1637,7 +2249,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "ZACH CLEVELAND": {
     "team": "Liberty Flames",
@@ -1645,7 +2260,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "COLIN PORTER": {
     "team": "Liberty Flames",
@@ -1653,7 +2271,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "JAYVON MAUGHMER": {
     "team": "Liberty Flames",
@@ -1661,7 +2282,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "KADEN METHENY": {
     "team": "Liberty Flames",
@@ -1669,7 +2293,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "WILL GIBSON": {
     "team": "Liberty Flames",
@@ -1677,7 +2304,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KAI YU": {
     "team": "Liberty Flames",
@@ -1685,7 +2315,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BRYSON SPELL": {
     "team": "Liberty Flames",
@@ -1693,7 +2326,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ZANDER YATES": {
     "team": "Liberty Flames",
@@ -1701,7 +2337,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "BRETT DECKER JR": {
     "team": "Liberty Flames",
@@ -1709,7 +2348,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "CURTIS BLAIR III": {
     "team": "Liberty Flames",
@@ -1717,7 +2359,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JC SHIRER JR": {
     "team": "Liberty Flames",
@@ -1725,7 +2370,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TAELON PETER": {
     "team": "Liberty Flames",
@@ -1733,7 +2381,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "GABRIEL MCKAY": {
     "team": "Liberty Flames",
@@ -1741,7 +2392,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BRANDON ANGEL": {
     "team": "Oregon Ducks",
@@ -1749,7 +2403,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "NATE BITTLE": {
     "team": "Oregon Ducks",
@@ -1757,7 +2414,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "KEESHAWN BARTHELEMY": {
     "team": "Oregon Ducks",
@@ -1765,7 +2425,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "JACKSON SHELSTAD": {
     "team": "Oregon Ducks",
@@ -1773,7 +2436,10 @@
     "pts": [
       17
     ],
-    "pts_mult": 17
+    "pts_mult": 17,
+    "pts_mult_rounds": [
+      17
+    ]
   },
   "TJ BAMBA": {
     "team": "Oregon Ducks",
@@ -1781,7 +2447,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JAMES COOPER": {
     "team": "Oregon Ducks",
@@ -1789,7 +2458,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "SUPREME COOK": {
     "team": "Oregon Ducks",
@@ -1797,7 +2469,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "KWAME EVANS JR": {
     "team": "Oregon Ducks",
@@ -1805,7 +2480,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "MOOKIE COOK": {
     "team": "Oregon Ducks",
@@ -1813,7 +2491,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JAYSON WILLIAMSJOHNSON": {
     "team": "Oregon Ducks",
@@ -1821,7 +2502,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "DREW CARTER": {
     "team": "Oregon Ducks",
@@ -1829,7 +2513,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JAMARI PHILLIPS": {
     "team": "Oregon Ducks",
@@ -1837,7 +2524,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "RAHEIM MOSS": {
     "team": "Oregon Ducks",
@@ -1845,7 +2535,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "JADRIAN TRACEY": {
     "team": "Oregon Ducks",
@@ -1853,7 +2546,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "JAMES OKONKWO": {
     "team": "Akron Zips",
@@ -1861,7 +2557,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "TAVARI JOHNSON": {
     "team": "Akron Zips",
@@ -1869,7 +2568,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 39
+    "pts_mult": 39,
+    "pts_mult_rounds": [
+      39
+    ]
   },
   "NATE JOHNSON": {
     "team": "Akron Zips",
@@ -1877,7 +2579,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 39
+    "pts_mult": 39,
+    "pts_mult_rounds": [
+      39
+    ]
   },
   "ISAIAH GRAY": {
     "team": "Akron Zips",
@@ -1885,7 +2590,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 27
+    "pts_mult": 27,
+    "pts_mult_rounds": [
+      27
+    ]
   },
   "SETH WILSON": {
     "team": "Akron Zips",
@@ -1893,7 +2601,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "AMANI LYLES": {
     "team": "Akron Zips",
@@ -1901,7 +2612,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "SHARRON YOUNG": {
     "team": "Akron Zips",
@@ -1909,7 +2623,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "MARVIN MUSIIMEKAMALI": {
     "team": "Akron Zips",
@@ -1917,7 +2634,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "SHAMMAH SCOTT": {
     "team": "Akron Zips",
@@ -1925,7 +2645,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 33
+    "pts_mult": 33,
+    "pts_mult_rounds": [
+      33
+    ]
   },
   "BOWEN HARDMAN": {
     "team": "Akron Zips",
@@ -1933,7 +2656,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "EVAN WILSON": {
     "team": "Akron Zips",
@@ -1941,7 +2667,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TOBE AWAKA": {
     "team": "Arizona Wildcats",
@@ -1949,7 +2678,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "TREY TOWNSEND": {
     "team": "Arizona Wildcats",
@@ -1957,7 +2689,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "ANTHONY DELLORSO": {
     "team": "Arizona Wildcats",
@@ -1965,7 +2700,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "CALEB LOVE": {
     "team": "Arizona Wildcats",
@@ -1973,7 +2711,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "JADEN BRADLEY": {
     "team": "Arizona Wildcats",
@@ -1981,7 +2722,10 @@
     "pts": [
       19
     ],
-    "pts_mult": 19
+    "pts_mult": 19,
+    "pts_mult_rounds": [
+      19
+    ]
   },
   "HENRI VEESAAR": {
     "team": "Arizona Wildcats",
@@ -1989,7 +2733,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "CARTER BRYANT": {
     "team": "Arizona Wildcats",
@@ -1997,7 +2744,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "WILL MENAUGH": {
     "team": "Arizona Wildcats",
@@ -2005,7 +2755,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "LUKE CHAMPION": {
     "team": "Arizona Wildcats",
@@ -2013,7 +2766,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "EMMANUEL STEPHEN": {
     "team": "Arizona Wildcats",
@@ -2021,7 +2777,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "CONRAD MARTINEZ": {
     "team": "Arizona Wildcats",
@@ -2029,7 +2788,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KJ LEWIS": {
     "team": "Arizona Wildcats",
@@ -2037,7 +2799,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "ADDISON ARNOLD": {
     "team": "Arizona Wildcats",
@@ -2045,7 +2810,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "GRANT WEITMAN": {
     "team": "Arizona Wildcats",
@@ -2053,7 +2821,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "LIAM LLOYD": {
     "team": "Arizona Wildcats",
@@ -2061,7 +2832,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "LUKE BAMGBOYE": {
     "team": "VCU Rams",
@@ -2069,7 +2843,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "JACK CLARK": {
     "team": "VCU Rams",
@@ -2077,7 +2854,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "MAX SHULGA": {
     "team": "VCU Rams",
@@ -2085,7 +2865,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "PHILLIP RUSSELL": {
     "team": "VCU Rams",
@@ -2093,7 +2876,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "JOE BAMISILE": {
     "team": "VCU Rams",
@@ -2101,7 +2887,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "OBINNAYA OKAFOR": {
     "team": "VCU Rams",
@@ -2109,7 +2898,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CHRISTIAN FERMIN": {
     "team": "VCU Rams",
@@ -2117,7 +2909,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BRANDON JENNINGS": {
     "team": "VCU Rams",
@@ -2125,7 +2920,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "MICHAEL BELLE": {
     "team": "VCU Rams",
@@ -2133,7 +2931,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ALPHONZO BILLUPS III": {
     "team": "VCU Rams",
@@ -2141,7 +2942,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TERRENCE HILL JR": {
     "team": "VCU Rams",
@@ -2149,7 +2953,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "ZEB JACKSON": {
     "team": "VCU Rams",
@@ -2157,7 +2964,10 @@
     "pts": [
       23
     ],
-    "pts_mult": 46
+    "pts_mult": 46,
+    "pts_mult_rounds": [
+      46
+    ]
   },
   "RICHIE SAUNDERS": {
     "team": "BYU Cougars",
@@ -2165,7 +2975,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 32
+    "pts_mult": 32,
+    "pts_mult_rounds": [
+      32
+    ]
   },
   "MAWOT MAG": {
     "team": "BYU Cougars",
@@ -2173,7 +2986,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "KEBA KEITA": {
     "team": "BYU Cougars",
@@ -2181,7 +2997,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "EGOR DEMIN": {
     "team": "BYU Cougars",
@@ -2189,7 +3008,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "TREVIN KNELL": {
     "team": "BYU Cougars",
@@ -2197,7 +3019,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "KANON CATCHINGS": {
     "team": "BYU Cougars",
@@ -2205,7 +3030,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "FOUSSEYNI TRAORE": {
     "team": "BYU Cougars",
@@ -2213,7 +3041,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 26
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
   },
   "DALLIN HALL": {
     "team": "BYU Cougars",
@@ -2221,7 +3052,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "TREY STEWART": {
     "team": "BYU Cougars",
@@ -2229,7 +3063,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DAWSON BAKER": {
     "team": "BYU Cougars",
@@ -2237,7 +3074,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "TEJON SAWYER": {
     "team": "Montana Grizzlies",
@@ -2245,7 +3085,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 45
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
   },
   "KAI JOHNSON": {
     "team": "Montana Grizzlies",
@@ -2253,7 +3096,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 45
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
   },
   "MALIK MOORE": {
     "team": "Montana Grizzlies",
@@ -2261,7 +3107,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "BRANDON WHITNEY": {
     "team": "Montana Grizzlies",
@@ -2269,7 +3118,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JOE PRIDGEN": {
     "team": "Montana Grizzlies",
@@ -2277,7 +3129,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "JALEN FOY": {
     "team": "Montana Grizzlies",
@@ -2285,7 +3140,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ZACK DAVIDSON": {
     "team": "Montana Grizzlies",
@@ -2293,7 +3151,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JENSEN BRADTKE": {
     "team": "Montana Grizzlies",
@@ -2301,7 +3162,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "AMARI JEDKINS": {
     "team": "Montana Grizzlies",
@@ -2309,7 +3173,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JEREMIAH DARGAN": {
     "team": "Montana Grizzlies",
@@ -2317,7 +3184,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ADAM SHOFF": {
     "team": "Montana Grizzlies",
@@ -2325,7 +3195,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "MONEY WILLIAMS": {
     "team": "Montana Grizzlies",
@@ -2333,7 +3206,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "AUSTIN PATTERSON": {
     "team": "Montana Grizzlies",
@@ -2341,7 +3217,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "NOLAN WINTER": {
     "team": "Wisconsin Badgers",
@@ -2349,7 +3228,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "STEVEN CROWL": {
     "team": "Wisconsin Badgers",
@@ -2357,7 +3239,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "JOHN BLACKWELL": {
     "team": "Wisconsin Badgers",
@@ -2365,7 +3250,10 @@
     "pts": [
       19
     ],
-    "pts_mult": 19
+    "pts_mult": 19,
+    "pts_mult_rounds": [
+      19
+    ]
   },
   "MAX KLESMIT": {
     "team": "Wisconsin Badgers",
@@ -2373,7 +3261,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JOHN TONJE": {
     "team": "Wisconsin Badgers",
@@ -2381,7 +3272,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "RICCARDO GREPPI": {
     "team": "Wisconsin Badgers",
@@ -2389,7 +3283,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "XAVIER AMOS": {
     "team": "Wisconsin Badgers",
@@ -2397,7 +3294,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 11
+    "pts_mult": 11,
+    "pts_mult_rounds": [
+      11
+    ]
   },
   "MARKUS ILVER": {
     "team": "Wisconsin Badgers",
@@ -2405,7 +3305,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CARTER GILMORE": {
     "team": "Wisconsin Badgers",
@@ -2413,7 +3316,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "CHRIS HODGES": {
     "team": "Wisconsin Badgers",
@@ -2421,7 +3327,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JACK JANICKI": {
     "team": "Wisconsin Badgers",
@@ -2429,7 +3338,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ISAAC GARD": {
     "team": "Wisconsin Badgers",
@@ -2437,7 +3349,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KAMARI MCGEE": {
     "team": "Wisconsin Badgers",
@@ -2445,7 +3360,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "CAMREN HUNTER": {
     "team": "Wisconsin Badgers",
@@ -2453,7 +3371,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DEVIN MCGLOCKTON": {
     "team": "Vanderbilt Commodores",
@@ -2461,7 +3382,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "JASON EDWARDS": {
     "team": "Vanderbilt Commodores",
@@ -2469,7 +3393,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "TYLER NICKEL": {
     "team": "Vanderbilt Commodores",
@@ -2477,7 +3404,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "CHRIS MANON": {
     "team": "Vanderbilt Commodores",
@@ -2485,7 +3415,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "AJ HOGGARD": {
     "team": "Vanderbilt Commodores",
@@ -2493,7 +3426,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JAQUALON ROBERTS": {
     "team": "Vanderbilt Commodores",
@@ -2501,7 +3437,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JAYLEN CAREY": {
     "team": "Vanderbilt Commodores",
@@ -2509,7 +3448,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "TYLER TANNER": {
     "team": "Vanderbilt Commodores",
@@ -2517,7 +3459,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "MJ COLLINS JR": {
     "team": "Vanderbilt Commodores",
@@ -2525,7 +3470,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "GRANT HUFFMAN": {
     "team": "Vanderbilt Commodores",
@@ -2533,7 +3481,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "PAULIUS MURAUSKAS": {
     "team": "Saint Mary's Gaels",
@@ -2541,7 +3492,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "LUKE BARRETT": {
     "team": "Saint Mary's Gaels",
@@ -2549,7 +3503,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "MITCHELL SAXEN": {
     "team": "Saint Mary's Gaels",
@@ -2557,7 +3514,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "AUGUSTAS MARCIULIONIS": {
     "team": "Saint Mary's Gaels",
@@ -2565,7 +3525,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "JORDAN ROSS": {
     "team": "Saint Mary's Gaels",
@@ -2573,7 +3536,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "ASHTON HARDAWAY": {
     "team": "Saint Mary's Gaels",
@@ -2581,7 +3547,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "HARRY WESSELS": {
     "team": "Saint Mary's Gaels",
@@ -2589,7 +3558,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "MIKEY LEWIS": {
     "team": "Saint Mary's Gaels",
@@ -2597,7 +3569,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JOSHUA DENT": {
     "team": "Saint Mary's Gaels",
@@ -2605,7 +3580,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ALVARO FOLGUEIRAS": {
     "team": "Robert Morris Colonials",
@@ -2613,7 +3591,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 45
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
   },
   "JOSH OMOJAFO": {
     "team": "Robert Morris Colonials",
@@ -2621,7 +3602,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "AMARION DICKERSON": {
     "team": "Robert Morris Colonials",
@@ -2629,7 +3613,10 @@
     "pts": [
       25
     ],
-    "pts_mult": 75
+    "pts_mult": 75,
+    "pts_mult_rounds": [
+      75
+    ]
   },
   "DJ SMITH": {
     "team": "Robert Morris Colonials",
@@ -2637,7 +3624,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "KAM WOODS": {
     "team": "Robert Morris Colonials",
@@ -2645,7 +3635,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "ISMAEL PLET": {
     "team": "Robert Morris Colonials",
@@ -2653,7 +3646,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "RYAN PRATHER JR": {
     "team": "Robert Morris Colonials",
@@ -2661,7 +3657,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "JARIN STEVENSON": {
     "team": "Alabama Crimson Tide",
@@ -2669,7 +3668,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "CLIFFORD OMORUYI": {
     "team": "Alabama Crimson Tide",
@@ -2677,7 +3679,10 @@
     "pts": [
       17
     ],
-    "pts_mult": 17
+    "pts_mult": 17,
+    "pts_mult_rounds": [
+      17
+    ]
   },
   "LABARON PHILON": {
     "team": "Alabama Crimson Tide",
@@ -2685,7 +3690,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 1
+    "pts_mult": 1,
+    "pts_mult_rounds": [
+      1
+    ]
   },
   "CHRIS YOUNGBLOOD": {
     "team": "Alabama Crimson Tide",
@@ -2693,7 +3701,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "MARK SEARS": {
     "team": "Alabama Crimson Tide",
@@ -2701,7 +3712,10 @@
     "pts": [
       22
     ],
-    "pts_mult": 22
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
   },
   "DERRION REID": {
     "team": "Alabama Crimson Tide",
@@ -2709,7 +3723,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "MOUHAMED DIOUBATE": {
     "team": "Alabama Crimson Tide",
@@ -2717,7 +3734,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "AIDEN SHERRELL": {
     "team": "Alabama Crimson Tide",
@@ -2725,7 +3745,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "GRANT NELSON": {
     "team": "Alabama Crimson Tide",
@@ -2733,7 +3756,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "ADEN HOLLOWAY": {
     "team": "Alabama Crimson Tide",
@@ -2741,7 +3767,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "JALEN MYERS": {
     "team": "Norfolk State Spartans",
@@ -2749,7 +3778,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "KULUEL MADING": {
     "team": "Norfolk State Spartans",
@@ -2757,7 +3789,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "BRIAN MOORE JR": {
     "team": "Norfolk State Spartans",
@@ -2765,7 +3800,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "JAYLANI DARDEN": {
     "team": "Norfolk State Spartans",
@@ -2773,7 +3811,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 45
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
   },
   "CHRISTIAN INGS": {
     "team": "Norfolk State Spartans",
@@ -2781,7 +3822,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 48
+    "pts_mult": 48,
+    "pts_mult_rounds": [
+      48
+    ]
   },
   "MELO BAINES": {
     "team": "Norfolk State Spartans",
@@ -2789,7 +3833,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CHRIS FIELDS JR": {
     "team": "Norfolk State Spartans",
@@ -2797,7 +3844,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 42
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
   },
   "TYREL BLADEN": {
     "team": "Norfolk State Spartans",
@@ -2805,7 +3855,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "JORDAN LEAKS": {
     "team": "Norfolk State Spartans",
@@ -2813,7 +3866,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DRAMANE CAMARA": {
     "team": "Norfolk State Spartans",
@@ -2821,7 +3877,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TERRANCE JONES": {
     "team": "Norfolk State Spartans",
@@ -2829,7 +3888,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "SINCERE MCMAHON": {
     "team": "Norfolk State Spartans",
@@ -2837,7 +3899,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ALEX CONDON": {
     "team": "Florida Gators",
@@ -2845,7 +3910,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "RUEBEN CHINYELU": {
     "team": "Florida Gators",
@@ -2853,7 +3921,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "WILL RICHARD": {
     "team": "Florida Gators",
@@ -2861,7 +3932,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "WALTER CLAYTON JR": {
     "team": "Florida Gators",
@@ -2869,7 +3943,10 @@
     "pts": [
       23
     ],
-    "pts_mult": 23
+    "pts_mult": 23,
+    "pts_mult_rounds": [
+      23
+    ]
   },
   "ALIJAH MARTIN": {
     "team": "Florida Gators",
@@ -2877,7 +3954,10 @@
     "pts": [
       17
     ],
-    "pts_mult": 17
+    "pts_mult": 17,
+    "pts_mult_rounds": [
+      17
+    ]
   },
   "THOMAS HAUGH": {
     "team": "Florida Gators",
@@ -2885,7 +3965,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "MICAH HANDLOGTEN": {
     "team": "Florida Gators",
@@ -2893,7 +3976,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "URBAN KLAVZAR": {
     "team": "Florida Gators",
@@ -2901,7 +3987,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "COOPER JOSEFSBERG": {
     "team": "Florida Gators",
@@ -2909,7 +3998,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BENNETT ANDERSEN": {
     "team": "Florida Gators",
@@ -2917,7 +4009,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ISAIAH BROWN": {
     "team": "Florida Gators",
@@ -2925,7 +4020,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "DENZEL ABERDEEN": {
     "team": "Florida Gators",
@@ -2933,7 +4031,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "MOHAMED WAGUE": {
     "team": "Oklahoma Sooners",
@@ -2941,7 +4042,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "JALON MOORE": {
     "team": "Oklahoma Sooners",
@@ -2949,7 +4053,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 26
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
   },
   "JEREMIAH FEARS": {
     "team": "Oklahoma Sooners",
@@ -2957,7 +4064,10 @@
     "pts": [
       20
     ],
-    "pts_mult": 40
+    "pts_mult": 40,
+    "pts_mult_rounds": [
+      40
+    ]
   },
   "DUKE MILES": {
     "team": "Oklahoma Sooners",
@@ -2965,7 +4075,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "BRYCEN GOODINE": {
     "team": "Oklahoma Sooners",
@@ -2973,7 +4086,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "LUKE NORTHWEATHER": {
     "team": "Oklahoma Sooners",
@@ -2981,7 +4097,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "GLENN TAYLOR JR": {
     "team": "Oklahoma Sooners",
@@ -2989,7 +4108,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "DAYTON FORSYTHE": {
     "team": "Oklahoma Sooners",
@@ -2997,7 +4119,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "KOBE ELVIS": {
     "team": "Oklahoma Sooners",
@@ -3005,7 +4130,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "LIAM MCNEELEY": {
     "team": "UConn Huskies",
@@ -3013,7 +4141,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "ALEX KARABAN": {
     "team": "UConn Huskies",
@@ -3021,7 +4152,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 26
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
   },
   "SAMSON JOHNSON": {
     "team": "UConn Huskies",
@@ -3029,7 +4163,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "SOLO BALL": {
     "team": "UConn Huskies",
@@ -3037,7 +4174,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "HASSAN DIARRA": {
     "team": "UConn Huskies",
@@ -3045,7 +4185,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "JAYLIN STEWART": {
     "team": "UConn Huskies",
@@ -3053,7 +4196,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "TARRIS REED JR": {
     "team": "UConn Huskies",
@@ -3061,7 +4207,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "AIDAN MAHANEY": {
     "team": "UConn Huskies",
@@ -3069,7 +4218,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "RASHAAN MBEMBA": {
     "team": "Colorado State Rams",
@@ -3077,7 +4229,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "JAYLEN CROCKERJOHNSON": {
     "team": "Colorado State Rams",
@@ -3085,7 +4240,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "KYAN EVANS": {
     "team": "Colorado State Rams",
@@ -3093,7 +4251,10 @@
     "pts": [
       23
     ],
-    "pts_mult": 46
+    "pts_mult": 46,
+    "pts_mult_rounds": [
+      46
+    ]
   },
   "JALEN LAKE": {
     "team": "Colorado State Rams",
@@ -3101,7 +4262,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "NIQUE CLIFFORD": {
     "team": "Colorado State Rams",
@@ -3109,7 +4273,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "KYLE JORGENSEN": {
     "team": "Colorado State Rams",
@@ -3117,7 +4284,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "NIKOLA DJAPA": {
     "team": "Colorado State Rams",
@@ -3125,7 +4295,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BOWEN BORN": {
     "team": "Colorado State Rams",
@@ -3133,7 +4306,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "KESHAWN WILLIAMS": {
     "team": "Colorado State Rams",
@@ -3141,7 +4317,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ETHAN MORTON": {
     "team": "Colorado State Rams",
@@ -3149,7 +4328,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "NICHOLAS JOURDAIN": {
     "team": "Memphis Tigers",
@@ -3157,7 +4339,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "DAIN DAINJA": {
     "team": "Memphis Tigers",
@@ -3165,7 +4350,10 @@
     "pts": [
       22
     ],
-    "pts_mult": 22
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
   },
   "BARAKA OKOJIE": {
     "team": "Memphis Tigers",
@@ -3173,7 +4361,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "PJ HAGGERTY": {
     "team": "Memphis Tigers",
@@ -3181,7 +4372,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "COLBY ROGERS": {
     "team": "Memphis Tigers",
@@ -3189,7 +4383,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "DAMARIEN YATES": {
     "team": "Memphis Tigers",
@@ -3197,7 +4394,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "MOUSSA CISSE": {
     "team": "Memphis Tigers",
@@ -3205,7 +4405,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "PJ CARTER": {
     "team": "Memphis Tigers",
@@ -3213,7 +4416,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "DUKE BRENNAN": {
     "team": "Grand Canyon Lopes",
@@ -3221,7 +4427,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JAKOBE COLES": {
     "team": "Grand Canyon Lopes",
@@ -3229,7 +4438,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "RAY HARRISON": {
     "team": "Grand Canyon Lopes",
@@ -3237,7 +4449,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "COLLIN MOORE": {
     "team": "Grand Canyon Lopes",
@@ -3245,7 +4460,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "TYON GRANTFOSTER": {
     "team": "Grand Canyon Lopes",
@@ -3253,7 +4471,10 @@
     "pts": [
       23
     ],
-    "pts_mult": 69
+    "pts_mult": 69,
+    "pts_mult_rounds": [
+      69
+    ]
   },
   "TRAIVAR JACKSON": {
     "team": "Grand Canyon Lopes",
@@ -3261,7 +4482,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "LOK WUR": {
     "team": "Grand Canyon Lopes",
@@ -3269,7 +4493,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "AUSTIN MAURER": {
     "team": "Grand Canyon Lopes",
@@ -3277,7 +4504,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "STYLES PHIPPS": {
     "team": "Grand Canyon Lopes",
@@ -3285,7 +4515,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "MAKAIH WILLIAMS": {
     "team": "Grand Canyon Lopes",
@@ -3293,7 +4526,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "CALEB SHAW": {
     "team": "Grand Canyon Lopes",
@@ -3301,7 +4537,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JULIAN REESE": {
     "team": "Maryland Terrapins",
@@ -3309,7 +4548,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "DERIK QUEEN": {
     "team": "Maryland Terrapins",
@@ -3317,7 +4559,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "JAKOBI GILLESPIE": {
     "team": "Maryland Terrapins",
@@ -3325,7 +4570,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "RODNEY RICE": {
     "team": "Maryland Terrapins",
@@ -3333,7 +4581,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "SELTON MIGUEL": {
     "team": "Maryland Terrapins",
@@ -3341,7 +4592,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "TAFARA GAPARE": {
     "team": "Maryland Terrapins",
@@ -3349,7 +4603,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JORDAN GERONIMO": {
     "team": "Maryland Terrapins",
@@ -3357,7 +4614,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "MALACHI PALMER": {
     "team": "Maryland Terrapins",
@@ -3365,7 +4625,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "LUKAS SOTELL": {
     "team": "Maryland Terrapins",
@@ -3373,7 +4636,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BEN MURPHY": {
     "team": "Maryland Terrapins",
@@ -3381,7 +4647,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JAY YOUNG": {
     "team": "Maryland Terrapins",
@@ -3389,7 +4658,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DESHAWN HARRISSMITH": {
     "team": "Maryland Terrapins",
@@ -3397,7 +4669,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 11
+    "pts_mult": 11,
+    "pts_mult_rounds": [
+      11
+    ]
   },
   "DANIEL ABREU": {
     "team": "Drake Bulldogs",
@@ -3405,7 +4680,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "CAM MANYAWU": {
     "team": "Drake Bulldogs",
@@ -3413,7 +4691,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "MITCH MASCARI": {
     "team": "Drake Bulldogs",
@@ -3421,7 +4702,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "BENNETT STIRTZ": {
     "team": "Drake Bulldogs",
@@ -3429,7 +4713,10 @@
     "pts": [
       21
     ],
-    "pts_mult": 42
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
   },
   "ISAIAH JACKSON": {
     "team": "Drake Bulldogs",
@@ -3437,7 +4724,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "ISAIA HOWARD": {
     "team": "Drake Bulldogs",
@@ -3445,7 +4735,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "TAVION BANKS": {
     "team": "Drake Bulldogs",
@@ -3453,7 +4746,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "KAEL COMBS": {
     "team": "Drake Bulldogs",
@@ -3461,7 +4757,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "ANTHONY ROBINSON II": {
     "team": "Missouri Tigers",
@@ -3469,7 +4768,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "TAMAR BATES": {
     "team": "Missouri Tigers",
@@ -3477,7 +4779,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "MARK MITCHELL": {
     "team": "Missouri Tigers",
@@ -3485,7 +4790,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "TONY PERKINS": {
     "team": "Missouri Tigers",
@@ -3493,7 +4801,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "CALEB GRILL": {
     "team": "Missouri Tigers",
@@ -3501,7 +4812,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "JOSH GRAY": {
     "team": "Missouri Tigers",
@@ -3509,7 +4823,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "TO BARRETT": {
     "team": "Missouri Tigers",
@@ -3517,7 +4834,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "TRENT PIERCE": {
     "team": "Missouri Tigers",
@@ -3525,7 +4845,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "MARQUES WARRICK": {
     "team": "Missouri Tigers",
@@ -3533,7 +4856,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JACOB CREWS": {
     "team": "Missouri Tigers",
@@ -3541,7 +4867,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "SEAN MOORE": {
     "team": "UNC Wilmington Seahawks",
@@ -3549,7 +4878,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 27
+    "pts_mult": 27,
+    "pts_mult_rounds": [
+      27
+    ]
   },
   "HARLAN OBIOHA": {
     "team": "UNC Wilmington Seahawks",
@@ -3557,7 +4889,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "GREEDY WILLIAMS": {
     "team": "UNC Wilmington Seahawks",
@@ -3565,7 +4900,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "DONOVAN NEWBY": {
     "team": "UNC Wilmington Seahawks",
@@ -3573,7 +4911,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "BO MONTGOMERY": {
     "team": "UNC Wilmington Seahawks",
@@ -3581,7 +4922,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "KHAMARI MCGRIFF": {
     "team": "UNC Wilmington Seahawks",
@@ -3589,7 +4933,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "NOAH ROSS": {
     "team": "UNC Wilmington Seahawks",
@@ -3597,7 +4944,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "NOLAN HODGE": {
     "team": "UNC Wilmington Seahawks",
@@ -3605,7 +4955,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 54
+    "pts_mult": 54,
+    "pts_mult_rounds": [
+      54
+    ]
   },
   "JT TOPPIN": {
     "team": "Texas Tech Red Raiders",
@@ -3613,7 +4966,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "DARRION WILLIAMS": {
     "team": "Texas Tech Red Raiders",
@@ -3621,7 +4977,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "CHRISTIAN ANDERSON": {
     "team": "Texas Tech Red Raiders",
@@ -3629,7 +4988,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "ELIJAH HAWKINS": {
     "team": "Texas Tech Red Raiders",
@@ -3637,7 +4999,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "KERWIN WALTON": {
     "team": "Texas Tech Red Raiders",
@@ -3645,7 +5010,10 @@
     "pts": [
       27
     ],
-    "pts_mult": 27
+    "pts_mult": 27,
+    "pts_mult_rounds": [
+      27
+    ]
   },
   "FEDERIKO FEDERIKO": {
     "team": "Texas Tech Red Raiders",
@@ -3653,7 +5021,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "KEVIN OVERTON": {
     "team": "Texas Tech Red Raiders",
@@ -3661,7 +5032,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "KARTER KNOX": {
     "team": "Arkansas Razorbacks",
@@ -3669,7 +5043,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "TREVON BRAZILE": {
     "team": "Arkansas Razorbacks",
@@ -3677,7 +5054,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 22
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
   },
   "JONAS AIDOO": {
     "team": "Arkansas Razorbacks",
@@ -3685,7 +5065,10 @@
     "pts": [
       22
     ],
-    "pts_mult": 44
+    "pts_mult": 44,
+    "pts_mult_rounds": [
+      44
+    ]
   },
   "JOHNELL DAVIS": {
     "team": "Arkansas Razorbacks",
@@ -3693,7 +5076,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "DJ WAGNER": {
     "team": "Arkansas Razorbacks",
@@ -3701,7 +5087,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "ZVONIMIR IVISIC": {
     "team": "Arkansas Razorbacks",
@@ -3709,7 +5098,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BILLY RICHMOND III": {
     "team": "Arkansas Razorbacks",
@@ -3717,7 +5109,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "BOOGIE FLAND": {
     "team": "Arkansas Razorbacks",
@@ -3725,7 +5120,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "KJ ADAMS JR": {
     "team": "Kansas Jayhawks",
@@ -3733,7 +5131,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 26
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
   },
   "HUNTER DICKINSON": {
     "team": "Kansas Jayhawks",
@@ -3741,7 +5142,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 22
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
   },
   "ZEKE MAYO": {
     "team": "Kansas Jayhawks",
@@ -3749,7 +5153,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "RYLAN GRIFFEN": {
     "team": "Kansas Jayhawks",
@@ -3757,7 +5164,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "DAJUAN HARRIS JR": {
     "team": "Kansas Jayhawks",
@@ -3765,7 +5175,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "FLORY BIDUNGA": {
     "team": "Kansas Jayhawks",
@@ -3773,7 +5186,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "DAVID COIT": {
     "team": "Kansas Jayhawks",
@@ -3781,7 +5197,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "AJ STORR": {
     "team": "Kansas Jayhawks",
@@ -3789,7 +5208,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "RAKEASE PASSMORE": {
     "team": "Kansas Jayhawks",
@@ -3797,7 +5219,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "SHAKEEL MOORE": {
     "team": "Kansas Jayhawks",
@@ -3805,7 +5230,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KAMRYN THOMAS": {
     "team": "Omaha Mavericks",
@@ -3813,7 +5241,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "MARQUEL SUTTON": {
     "team": "Omaha Mavericks",
@@ -3821,7 +5252,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 33
+    "pts_mult": 33,
+    "pts_mult_rounds": [
+      33
+    ]
   },
   "ISAAC ONDEKANE": {
     "team": "Omaha Mavericks",
@@ -3829,7 +5263,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "TONY OSBURN": {
     "team": "Omaha Mavericks",
@@ -3837,7 +5274,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 27
+    "pts_mult": 27,
+    "pts_mult_rounds": [
+      27
+    ]
   },
   "JJ WHITE": {
     "team": "Omaha Mavericks",
@@ -3845,7 +5285,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 45
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
   },
   "JOSHUA STREIT": {
     "team": "Omaha Mavericks",
@@ -3853,7 +5296,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "LINCOLN PALBICKI": {
     "team": "Omaha Mavericks",
@@ -3861,7 +5307,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KHAMANI COOPER": {
     "team": "Omaha Mavericks",
@@ -3869,7 +5318,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "SEBASTIAN PERRY": {
     "team": "Omaha Mavericks",
@@ -3877,7 +5329,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "GRANT STUBBLEFIELD": {
     "team": "Omaha Mavericks",
@@ -3885,7 +5340,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "LANCE WADDLES": {
     "team": "Omaha Mavericks",
@@ -3893,7 +5351,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JASEAN GLOVER": {
     "team": "Omaha Mavericks",
@@ -3901,7 +5362,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ZUBY EJIOFOR": {
     "team": "St. John's Red Storm",
@@ -3909,7 +5373,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "RJ LUIS JR": {
     "team": "St. John's Red Storm",
@@ -3917,7 +5384,10 @@
     "pts": [
       22
     ],
-    "pts_mult": 22
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
   },
   "AARON SCOTT": {
     "team": "St. John's Red Storm",
@@ -3925,7 +5395,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "KADARY RICHMOND": {
     "team": "St. John's Red Storm",
@@ -3933,7 +5406,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "SIMEON WILCHER": {
     "team": "St. John's Red Storm",
@@ -3941,7 +5417,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "RUBEN PREY": {
     "team": "St. John's Red Storm",
@@ -3949,7 +5428,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "SADIKU IBINE AYO": {
     "team": "St. John's Red Storm",
@@ -3957,7 +5439,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "VINCE IWUCHUKWU": {
     "team": "St. John's Red Storm",
@@ -3965,7 +5450,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "LEFTERIS LIOTOPOULOS": {
     "team": "St. John's Red Storm",
@@ -3973,7 +5461,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "DEIVON SMITH": {
     "team": "St. John's Red Storm",
@@ -3981,7 +5472,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "RING MALITH": {
     "team": "SIU Edwardsville Cougars",
@@ -3989,7 +5483,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KYLE THOMAS": {
     "team": "SIU Edwardsville Cougars",
@@ -3997,7 +5494,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "BRIAN TAYLOR II": {
     "team": "SIU Edwardsville Cougars",
@@ -4005,7 +5505,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "RAYSEAN TAYLOR": {
     "team": "SIU Edwardsville Cougars",
@@ -4013,7 +5516,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "DESMOND POLK": {
     "team": "SIU Edwardsville Cougars",
@@ -4021,7 +5527,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "MYLES THOMPSON": {
     "team": "SIU Edwardsville Cougars",
@@ -4029,7 +5538,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "ARNAS SAKENIS": {
     "team": "SIU Edwardsville Cougars",
@@ -4037,7 +5549,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "CHAM OKEY": {
     "team": "SIU Edwardsville Cougars",
@@ -4045,7 +5560,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JORDAN HAMILTON": {
     "team": "SIU Edwardsville Cougars",
@@ -4053,7 +5571,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DECLAN DILLON": {
     "team": "SIU Edwardsville Cougars",
@@ -4061,7 +5582,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "EDDIEAN TIRADO": {
     "team": "SIU Edwardsville Cougars",
@@ -4069,7 +5593,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JORDAN PICKETT": {
     "team": "SIU Edwardsville Cougars",
@@ -4077,7 +5604,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "RAYNARD HORRY": {
     "team": "SIU Edwardsville Cougars",
@@ -4085,7 +5615,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JOSEPH TUGLER": {
     "team": "Houston Cougars",
@@ -4093,7 +5626,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JWAN ROBERTS": {
     "team": "Houston Cougars",
@@ -4101,7 +5637,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "MILOS UZAN": {
     "team": "Houston Cougars",
@@ -4109,7 +5648,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "EMANUEL SHARP": {
     "team": "Houston Cougars",
@@ -4117,7 +5659,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "LJ CRYER": {
     "team": "Houston Cougars",
@@ -4125,7 +5670,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "JAVIER FRANCIS": {
     "team": "Houston Cougars",
@@ -4133,7 +5681,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "CEDRIC LATH": {
     "team": "Houston Cougars",
@@ -4141,7 +5692,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 1
+    "pts_mult": 1,
+    "pts_mult_rounds": [
+      1
+    ]
   },
   "TERRANCE ARCENEAUX": {
     "team": "Houston Cougars",
@@ -4149,7 +5703,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "KORDELIUS JEFFERSON": {
     "team": "Houston Cougars",
@@ -4157,7 +5714,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "MERCY MILLER": {
     "team": "Houston Cougars",
@@ -4165,7 +5725,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "MYLIK WILSON": {
     "team": "Houston Cougars",
@@ -4173,7 +5736,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "RJ GODFREY": {
     "team": "Georgia Bulldogs",
@@ -4181,7 +5747,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "DYLAN JAMES": {
     "team": "Georgia Bulldogs",
@@ -4189,7 +5758,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "ASA NEWELL": {
     "team": "Georgia Bulldogs",
@@ -4197,7 +5769,10 @@
     "pts": [
       20
     ],
-    "pts_mult": 40
+    "pts_mult": 40,
+    "pts_mult_rounds": [
+      40
+    ]
   },
   "BLUE CAIN": {
     "team": "Georgia Bulldogs",
@@ -4205,7 +5780,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "SILAS DEMARY JR": {
     "team": "Georgia Bulldogs",
@@ -4213,7 +5791,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "JUSTIN ABSON": {
     "team": "Georgia Bulldogs",
@@ -4221,7 +5802,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JADEN NEWELL": {
     "team": "Georgia Bulldogs",
@@ -4229,7 +5813,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "SOMTO CYRIL": {
     "team": "Georgia Bulldogs",
@@ -4237,7 +5824,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "DESHAYNE MONTGOMERY": {
     "team": "Georgia Bulldogs",
@@ -4245,7 +5835,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "BRANDON KLATSKY": {
     "team": "Georgia Bulldogs",
@@ -4253,7 +5846,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DAKOTA LEFFEW": {
     "team": "Georgia Bulldogs",
@@ -4261,7 +5857,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "TYRIN LAWRENCE": {
     "team": "Georgia Bulldogs",
@@ -4269,7 +5868,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "BRADEN HUFF": {
     "team": "Gonzaga Bulldogs",
@@ -4277,7 +5879,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "GRAHAM IKE": {
     "team": "Gonzaga Bulldogs",
@@ -4285,7 +5890,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 26
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
   },
   "NOLAN HICKMAN": {
     "team": "Gonzaga Bulldogs",
@@ -4293,7 +5901,10 @@
     "pts": [
       18
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "RYAN NEMBHARD": {
     "team": "Gonzaga Bulldogs",
@@ -4301,7 +5912,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "KHALIF BATTLE": {
     "team": "Gonzaga Bulldogs",
@@ -4309,7 +5923,10 @@
     "pts": [
       24
     ],
-    "pts_mult": 48
+    "pts_mult": 48,
+    "pts_mult_rounds": [
+      48
+    ]
   },
   "EMMANUEL INNOCENTI": {
     "team": "Gonzaga Bulldogs",
@@ -4317,7 +5934,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JUN SEOK YEO": {
     "team": "Gonzaga Bulldogs",
@@ -4325,7 +5945,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BEN GREGG": {
     "team": "Gonzaga Bulldogs",
@@ -4333,7 +5956,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "ISMAILA DIAGNE": {
     "team": "Gonzaga Bulldogs",
@@ -4341,7 +5967,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "MICHAEL AJAYI": {
     "team": "Gonzaga Bulldogs",
@@ -4349,7 +5978,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "JOE FEW": {
     "team": "Gonzaga Bulldogs",
@@ -4357,7 +5989,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DUSTY STROMER": {
     "team": "Gonzaga Bulldogs",
@@ -4365,7 +6000,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JOE CHARLES": {
     "team": "McNeese Cowboys",
@@ -4373,7 +6011,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CHRISTIAN SHUMATE": {
     "team": "McNeese Cowboys",
@@ -4381,7 +6022,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 26
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
   },
   "DJ RICHARDS JR": {
     "team": "McNeese Cowboys",
@@ -4389,7 +6033,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "JAVOHN GARCIA": {
     "team": "McNeese Cowboys",
@@ -4397,7 +6044,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "QUADIR COPELAND": {
     "team": "McNeese Cowboys",
@@ -4405,7 +6055,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 32
+    "pts_mult": 32,
+    "pts_mult_rounds": [
+      32
+    ]
   },
   "BRYANT SELEBANGUE": {
     "team": "McNeese Cowboys",
@@ -4413,7 +6066,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "SINCERE PARKER": {
     "team": "McNeese Cowboys",
@@ -4421,7 +6077,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "BRANDON MURRAY": {
     "team": "McNeese Cowboys",
@@ -4429,7 +6088,10 @@
     "pts": [
       21
     ],
-    "pts_mult": 42
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
   },
   "CHAUNCEY WIGGINS": {
     "team": "Clemson Tigers",
@@ -4437,7 +6099,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "IAN SCHIEFFELIN": {
     "team": "Clemson Tigers",
@@ -4445,7 +6110,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 1
+    "pts_mult": 1,
+    "pts_mult_rounds": [
+      1
+    ]
   },
   "VIKTOR LAKHIN": {
     "team": "Clemson Tigers",
@@ -4453,7 +6121,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JAEDEN ZACKERY": {
     "team": "Clemson Tigers",
@@ -4461,7 +6132,10 @@
     "pts": [
       24
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "CHASE HUNTER": {
     "team": "Clemson Tigers",
@@ -4469,7 +6143,10 @@
     "pts": [
       21
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "MYLES FOSTER": {
     "team": "Clemson Tigers",
@@ -4477,7 +6154,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "CHRISTIAN REEVES": {
     "team": "Clemson Tigers",
@@ -4485,7 +6165,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JAKE HEIDBREDER": {
     "team": "Clemson Tigers",
@@ -4493,7 +6176,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "DEL JONES": {
     "team": "Clemson Tigers",
@@ -4501,7 +6187,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "JUSLIN BODO BODO": {
     "team": "High Point Panthers",
@@ -4509,7 +6198,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "KIMANI HAMILTON": {
     "team": "High Point Panthers",
@@ -4517,7 +6209,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "KEZZA GIFFA": {
     "team": "High Point Panthers",
@@ -4525,7 +6220,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "DMAURIAN WILLIAMS": {
     "team": "High Point Panthers",
@@ -4533,7 +6231,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "CHASE JOHNSTON": {
     "team": "High Point Panthers",
@@ -4541,7 +6242,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "JOSH IBUKUNOLUWA": {
     "team": "High Point Panthers",
@@ -4549,7 +6253,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "SIMON HILDEBRANDT": {
     "team": "High Point Panthers",
@@ -4557,7 +6264,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "TERRY ANDERSON": {
     "team": "High Point Panthers",
@@ -4565,7 +6275,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "TRAE BENHAM": {
     "team": "High Point Panthers",
@@ -4573,7 +6286,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 33
+    "pts_mult": 33,
+    "pts_mult_rounds": [
+      33
+    ]
   },
   "ABDOULAYE THIAM": {
     "team": "High Point Panthers",
@@ -4581,7 +6297,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "BOBBY PETTIFORD": {
     "team": "High Point Panthers",
@@ -4589,7 +6308,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "TREY KAUFMANRENN": {
     "team": "Purdue Boilermakers",
@@ -4597,7 +6319,10 @@
     "pts": [
       21
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "CALEB FURST": {
     "team": "Purdue Boilermakers",
@@ -4605,7 +6330,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "CJ COX": {
     "team": "Purdue Boilermakers",
@@ -4613,7 +6341,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "BRADEN SMITH": {
     "team": "Purdue Boilermakers",
@@ -4621,7 +6352,10 @@
     "pts": [
       20
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "FLETCHER LOYER": {
     "team": "Purdue Boilermakers",
@@ -4629,7 +6363,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "CAMDEN HEIDE": {
     "team": "Purdue Boilermakers",
@@ -4637,7 +6374,10 @@
     "pts": [
       11
     ],
-    "pts_mult": 11
+    "pts_mult": 11,
+    "pts_mult_rounds": [
+      11
+    ]
   },
   "WILL BERG": {
     "team": "Purdue Boilermakers",
@@ -4645,7 +6385,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "GICARRI HARRIS": {
     "team": "Purdue Boilermakers",
@@ -4653,7 +6396,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "MYLES COLVIN": {
     "team": "Purdue Boilermakers",
@@ -4661,7 +6407,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "ZACH FREEMANTLE": {
     "team": "Xavier Musketeers",
@@ -4669,7 +6418,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 10
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
   },
   "RYAN CONWELL": {
     "team": "Xavier Musketeers",
@@ -4677,7 +6429,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "DAILYN SWAIN": {
     "team": "Xavier Musketeers",
@@ -4685,7 +6440,10 @@
     "pts": [
       27
     ],
-    "pts_mult": 54
+    "pts_mult": 54,
+    "pts_mult_rounds": [
+      54
+    ]
   },
   "DAYVION MCKNIGHT": {
     "team": "Xavier Musketeers",
@@ -4693,7 +6451,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "MARCUS FOSTER": {
     "team": "Xavier Musketeers",
@@ -4701,7 +6462,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JOHN HUGLEY IV": {
     "team": "Xavier Musketeers",
@@ -4709,7 +6473,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JEROME HUNTER": {
     "team": "Xavier Musketeers",
@@ -4717,7 +6484,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "DANTE MADDOX JR": {
     "team": "Xavier Musketeers",
@@ -4725,7 +6495,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "WILL RILEY": {
     "team": "Illinois Fighting Illini",
@@ -4733,7 +6506,10 @@
     "pts": [
       22
     ],
-    "pts_mult": 44
+    "pts_mult": 44,
+    "pts_mult_rounds": [
+      44
+    ]
   },
   "TOMISLAV IVISIC": {
     "team": "Illinois Fighting Illini",
@@ -4741,7 +6517,10 @@
     "pts": [
       20
     ],
-    "pts_mult": 40
+    "pts_mult": 40,
+    "pts_mult_rounds": [
+      40
+    ]
   },
   "KASPARAS JAKUCIONIS": {
     "team": "Illinois Fighting Illini",
@@ -4749,7 +6528,10 @@
     "pts": [
       16
     ],
-    "pts_mult": 32
+    "pts_mult": 32,
+    "pts_mult_rounds": [
+      32
+    ]
   },
   "TRE WHITE": {
     "team": "Illinois Fighting Illini",
@@ -4757,7 +6539,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "KYLAN BOSWELL": {
     "team": "Illinois Fighting Illini",
@@ -4765,7 +6550,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "BEN HUMRICHOUS": {
     "team": "Illinois Fighting Illini",
@@ -4773,7 +6561,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "MOREZ JOHNSON JR": {
     "team": "Illinois Fighting Illini",
@@ -4781,7 +6572,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "DRA GIBBSLAWHORN": {
     "team": "Illinois Fighting Illini",
@@ -4789,7 +6583,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "MYLES RIGSBY": {
     "team": "Troy Trojans",
@@ -4797,7 +6594,10 @@
     "pts": [
       17
     ],
-    "pts_mult": 51
+    "pts_mult": 51,
+    "pts_mult_rounds": [
+      51
+    ]
   },
   "THOMAS DOWD": {
     "team": "Troy Trojans",
@@ -4805,7 +6605,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JACKSON FIELDS": {
     "team": "Troy Trojans",
@@ -4813,7 +6616,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 21
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
   },
   "TAYTON CONERWAY": {
     "team": "Troy Trojans",
@@ -4821,7 +6627,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "MARCUS RIGSBY JR": {
     "team": "Troy Trojans",
@@ -4829,7 +6638,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "VICTOR VALDES": {
     "team": "Troy Trojans",
@@ -4837,7 +6649,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 15
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
   },
   "JERRELL BELLAMY": {
     "team": "Troy Trojans",
@@ -4845,7 +6660,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "KERRINGTON KIEL": {
     "team": "Troy Trojans",
@@ -4853,7 +6671,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "THEO SENG": {
     "team": "Troy Trojans",
@@ -4861,7 +6682,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "RANDARIUS JONES": {
     "team": "Troy Trojans",
@@ -4869,7 +6693,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "JACKSON PORCH": {
     "team": "Troy Trojans",
@@ -4877,7 +6704,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "COOPER CAMPBELL": {
     "team": "Troy Trojans",
@@ -4885,7 +6715,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "BRAYDON WHITAKER": {
     "team": "Troy Trojans",
@@ -4893,7 +6726,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KAMERYN MITCHELL": {
     "team": "Troy Trojans",
@@ -4901,7 +6737,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ANDREW CARR": {
     "team": "Kentucky Wildcats",
@@ -4909,7 +6748,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "AMARI WILLIAMS": {
     "team": "Kentucky Wildcats",
@@ -4917,7 +6759,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "OTEGA OWEH": {
     "team": "Kentucky Wildcats",
@@ -4925,7 +6770,10 @@
     "pts": [
       20
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "KOBY BREA": {
     "team": "Kentucky Wildcats",
@@ -4933,7 +6781,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "LAMONT BUTLER": {
     "team": "Kentucky Wildcats",
@@ -4941,7 +6792,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "ZACH TOW": {
     "team": "Kentucky Wildcats",
@@ -4949,7 +6803,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TRENT NOAH": {
     "team": "Kentucky Wildcats",
@@ -4957,7 +6814,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 3
+    "pts_mult": 3,
+    "pts_mult_rounds": [
+      3
+    ]
   },
   "ANSLEY ALMONOR": {
     "team": "Kentucky Wildcats",
@@ -4965,7 +6825,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BRANDON GARRISON": {
     "team": "Kentucky Wildcats",
@@ -4973,7 +6836,10 @@
     "pts": [
       13
     ],
-    "pts_mult": 13
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
   },
   "COLLIN CHANDLER": {
     "team": "Kentucky Wildcats",
@@ -4981,7 +6847,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "WALKER HORN": {
     "team": "Kentucky Wildcats",
@@ -4989,7 +6858,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "GRANT DARBYSHIRE": {
     "team": "Kentucky Wildcats",
@@ -4997,7 +6869,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TRAVIS PERRY": {
     "team": "Kentucky Wildcats",
@@ -5005,7 +6880,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KARSON TEMPLIN": {
     "team": "Utah State Aggies",
@@ -5013,7 +6891,10 @@
     "pts": [
       4
     ],
-    "pts_mult": 8
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
   },
   "TUCKER ANDERSON": {
     "team": "Utah State Aggies",
@@ -5021,7 +6902,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "DEYTON ALBURY": {
     "team": "Utah State Aggies",
@@ -5029,7 +6913,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 24
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
   },
   "MASON FALSLEV": {
     "team": "Utah State Aggies",
@@ -5037,7 +6924,10 @@
     "pts": [
       17
     ],
-    "pts_mult": 34
+    "pts_mult": 34,
+    "pts_mult_rounds": [
+      34
+    ]
   },
   "IAN MARTINEZ": {
     "team": "Utah State Aggies",
@@ -5045,7 +6935,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "ISAAC JOHNSON": {
     "team": "Utah State Aggies",
@@ -5053,7 +6946,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "AUBIN GATERETSE": {
     "team": "Utah State Aggies",
@@ -5061,7 +6957,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JORDY BARNES": {
     "team": "Utah State Aggies",
@@ -5069,7 +6968,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DRAKE ALLEN": {
     "team": "Utah State Aggies",
@@ -5077,7 +6979,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "DEXTER AKANNO": {
     "team": "Utah State Aggies",
@@ -5085,7 +6990,10 @@
     "pts": [
       1
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "TYLER BILODEAU": {
     "team": "UCLA Bruins",
@@ -5093,7 +7001,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 18
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
   },
   "SKYY CLARK": {
     "team": "UCLA Bruins",
@@ -5101,7 +7012,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "DYLAN ANDREWS": {
     "team": "UCLA Bruins",
@@ -5109,7 +7023,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "KOBE JOHNSON": {
     "team": "UCLA Bruins",
@@ -5117,7 +7034,10 @@
     "pts": [
       8
     ],
-    "pts_mult": 16
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
   },
   "ERIC DAILEY JR": {
     "team": "UCLA Bruins",
@@ -5125,7 +7045,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 28
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
   },
   "WILLIAM KYLE III": {
     "team": "UCLA Bruins",
@@ -5133,7 +7056,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 4
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
   },
   "ADAY MARA": {
     "team": "UCLA Bruins",
@@ -5141,7 +7067,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 20
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
   },
   "JACK SEIDLER": {
     "team": "UCLA Bruins",
@@ -5149,7 +7078,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "TRENT PERRY": {
     "team": "UCLA Bruins",
@@ -5157,7 +7089,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "SEBASTIAN MACK": {
     "team": "UCLA Bruins",
@@ -5165,7 +7100,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "LAZAR STEFANOVIC": {
     "team": "UCLA Bruins",
@@ -5173,7 +7111,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 14
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
   },
   "KYLER FILEWICH": {
     "team": "Wofford Terriers",
@@ -5181,7 +7122,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "JUSTIN BAILEY": {
     "team": "Wofford Terriers",
@@ -5189,7 +7133,10 @@
     "pts": [
       10
     ],
-    "pts_mult": 30
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
   },
   "COREY TRIPP": {
     "team": "Wofford Terriers",
@@ -5197,7 +7144,10 @@
     "pts": [
       14
     ],
-    "pts_mult": 42
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
   },
   "DILLON BAILEY": {
     "team": "Wofford Terriers",
@@ -5205,7 +7155,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "JACKSON SIVILLS": {
     "team": "Wofford Terriers",
@@ -5213,7 +7166,10 @@
     "pts": [
       15
     ],
-    "pts_mult": 45
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
   },
   "JEREMY LORENZ": {
     "team": "Wofford Terriers",
@@ -5221,7 +7177,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 36
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
   },
   "DON DOUGLASS": {
     "team": "Wofford Terriers",
@@ -5229,7 +7188,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "KAHMARE HOLMES": {
     "team": "Wofford Terriers",
@@ -5237,7 +7199,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "LUKE FLYNN": {
     "team": "Wofford Terriers",
@@ -5245,7 +7210,10 @@
     "pts": [
       3
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "FELIX OKPARA": {
     "team": "Tennessee Volunteers",
@@ -5253,7 +7221,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "IGOR MILICIC JR": {
     "team": "Tennessee Volunteers",
@@ -5261,7 +7232,10 @@
     "pts": [
       5
     ],
-    "pts_mult": 5
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
   },
   "ZAKAI ZEIGLER": {
     "team": "Tennessee Volunteers",
@@ -5269,7 +7243,10 @@
     "pts": [
       12
     ],
-    "pts_mult": 12
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
   },
   "CHAZ LANIER": {
     "team": "Tennessee Volunteers",
@@ -5277,7 +7254,10 @@
     "pts": [
       29
     ],
-    "pts_mult": 29
+    "pts_mult": 29,
+    "pts_mult_rounds": [
+      29
+    ]
   },
   "JAHMAI MASHACK": {
     "team": "Tennessee Volunteers",
@@ -5285,7 +7265,10 @@
     "pts": [
       9
     ],
-    "pts_mult": 9
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
   },
   "CADE PHILLIPS": {
     "team": "Tennessee Volunteers",
@@ -5293,7 +7276,10 @@
     "pts": [
       6
     ],
-    "pts_mult": 6
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
   },
   "CAMPBELL DUNCAN": {
     "team": "Tennessee Volunteers",
@@ -5301,7 +7287,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "GAVIN PAULL": {
     "team": "Tennessee Volunteers",
@@ -5309,7 +7298,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "BISHOP BOSWELL": {
     "team": "Tennessee Volunteers",
@@ -5317,7 +7309,10 @@
     "pts": [
       2
     ],
-    "pts_mult": 2
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
   },
   "JORDAN GAINEY": {
     "team": "Tennessee Volunteers",
@@ -5325,7 +7320,10 @@
     "pts": [
       7
     ],
-    "pts_mult": 7
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
   },
   "GRANT HURST": {
     "team": "Tennessee Volunteers",
@@ -5333,7 +7331,10 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   },
   "DARLINSTONE DUBAR": {
     "team": "Tennessee Volunteers",
@@ -5341,6 +7342,9 @@
     "pts": [
       0
     ],
-    "pts_mult": 0
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
   }
 }
