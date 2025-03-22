@@ -22,8 +22,9 @@ def get_player_data(player_name):
         return None
     
     print(f"Getting data for player: {player_name}")
-
     player_data = data[player_name]
+
+    # check who picked this player
 
     # Initialize the response dictionary
     response = {

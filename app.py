@@ -76,7 +76,7 @@ def get_entrant_pk(entrant_name):
     except FileNotFoundError:
         return jsonify("error: player data not found"), 404
 
-@app.route("/perfect_bracket", methods=["GET"])
+@app.route("/pk/perfect_bracket", methods=["GET"])
 def perfect_bracket_endpoint():
     """
     Returns the top 15 players in the competition and how many entrants picked them
@@ -90,7 +90,7 @@ def perfect_bracket_endpoint():
         print(f"Error in perfect_bracket_endpoint: {str(e)}")
         return jsonify({"error": str(e)}), 500
 
-@app.route("/nk/perfect_bracket", methods=["GET"])
+@app.route("/perfect_bracket", methods=["GET"])
 def perfect_bracket_nk_endpoint():
     """
     Returns the top 15 players in the competition and how many entrants picked them
