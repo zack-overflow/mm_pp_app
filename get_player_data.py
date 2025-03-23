@@ -21,8 +21,11 @@ def get_player_data(player_name):
     if player_name not in data:
         return None
     
-    print(f"Getting data for player: {player_name}")
     player_data = data[player_name]
+
+    # Reverse order of points to match the order of rounds
+    player_data["pts"].reverse()
+    player_data["pts_mult"].reverse()
 
     # check who picked this player
 
@@ -31,7 +34,7 @@ def get_player_data(player_name):
         "player": player_name,
         "team": player_data["team"],
         "seed": player_data["seed"],
-        "pts": player_data["pts"].reverse(),
+        "pts": player_data["pts"],
         "pts_mult": player_data["pts_mult"],
         "pts_mult_round": player_data["pts_mult_rounds"],
         "alive": TEAMS_ALIVE_MASK[ESPN_TO_PP_MAP[player_data["team"]]],
