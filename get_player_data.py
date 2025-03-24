@@ -25,7 +25,7 @@ def get_player_data(player_name):
 
     # Reverse order of points to match the order of rounds
     player_data["pts"].reverse()
-    player_data["pts_mult"].reverse()
+    player_data["pts_mult_round"].reverse()
 
     # check who picked this player
 
