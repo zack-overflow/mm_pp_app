@@ -54,7 +54,7 @@ def create_scoreboard(pikap):
                 alive_count += 1
 
         # Sum estimated games left for each player's team times multiplier
-        team_games_projection_df = pd.read_csv('team_games_played_r32_projection.csv')
+        team_games_projection_df = pd.read_csv('team_games_played_r16_projection.csv')
         sum_games_projected = 0
         sum_games_projected_multiplier = 0
         for player, data in player_data.items():
