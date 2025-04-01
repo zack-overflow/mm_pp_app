@@ -54,22 +54,22 @@ def create_scoreboard(pikap):
                 alive_count += 1
 
         # Sum estimated games left for each player's team times multiplier
-        team_games_projection_df = pd.read_csv('team_games_played_r8_projection.csv')
-        sum_games_projected = 0
-        sum_games_projected_multiplier = 0
-        for player, data in player_data.items():
-            if player != 'score' and player != 'sum_multiplier' and data['team'] in TEAMS_ALIVE_MASK and TEAMS_ALIVE_MASK[data['team']] == 1:
-                team = data['team']
-                seed = int(data['seed'])
-                games_played_proj = float(team_games_projection_df.loc[team_games_projection_df['Team'] == team, 'Games Played'].values[0])
-                games_played_proj_multiplier = get_multiplier(seed) * games_played_proj
-                sum_games_projected += games_played_proj
-                sum_games_projected_multiplier += games_played_proj_multiplier
+        # team_games_projection_df = pd.read_csv('team_games_played_r8_projection.csv')
+        # sum_games_projected = 0
+        # sum_games_projected_multiplier = 0
+        # for player, data in player_data.items():
+        #     if player != 'score' and player != 'sum_multiplier' and data['team'] in TEAMS_ALIVE_MASK and TEAMS_ALIVE_MASK[data['team']] == 1:
+        #         team = data['team']
+        #         seed = int(data['seed'])
+        #         games_played_proj = float(team_games_projection_df.loc[team_games_projection_df['Team'] == team, 'Games Played'].values[0])
+        #         games_played_proj_multiplier = get_multiplier(seed) * games_played_proj
+        #         sum_games_projected += games_played_proj
+        #         sum_games_projected_multiplier += games_played_proj_multiplier
 
         combined_data[entrant]['alive_count'] = alive_count
         # round to 2 decimal places
-        combined_data[entrant]['sum_games_projected'] = round(sum_games_projected, 2)
-        combined_data[entrant]['sum_games_projected_multiplier'] = round(sum_games_projected_multiplier, 2)
+        # combined_data[entrant]['sum_games_projected'] = round(sum_games_projected, 2)
+        # combined_data[entrant]['sum_games_projected_multiplier'] = round(sum_games_projected_multiplier, 2)
 
     return combined_data
 

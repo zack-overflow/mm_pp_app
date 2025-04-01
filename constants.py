@@ -24,12 +24,12 @@ TEAMS_ALIVE_MASK = {
     "Duke": 1,
     "Colo. St.": 0,
     "Auburn": 1,
-    "Alabama": 1,
+    "Alabama": 0,
     "Miss. St.": 0,
     "Bryant": 0,
     "St. John's": 0,
-    "Texas Tech": 1,
-    "Tennessee": 1,
+    "Texas Tech": 0,
+    "Tennessee": 0,
     "Florida": 1,
     "Kansas": 0,
     "Xavier": 0,
@@ -74,7 +74,7 @@ TEAMS_ALIVE_MASK = {
     "St. Fran.-Pa.": 0,
     "Mt St Mary's": 0,
     "McNeese": 0,
-    "Mich. St.": 1
+    "Mich. St.": 0
 }
 
 ESPN_TO_PP_MAP = {
