@@ -136,6 +136,7 @@ def _save_entries(entries):
 
 
 @app.route("/players", methods=["GET"])
+@app.route("/pk/players", methods=["GET"])
 def get_players():
     try:
         df = pd.read_csv("espn_players_2026_test.csv")
@@ -149,6 +150,7 @@ def get_players():
         return jsonify({"error": str(e)}), 500
 
 @app.route("/entry/create", methods=["POST"])
+@app.route("/pk/entry/create", methods=["POST"])
 def entry_create():
     try:
         data = request.get_json(force=True)
@@ -164,6 +166,7 @@ def entry_create():
         return jsonify({"error": str(e)}), 500
 
 @app.route("/entry/login", methods=["POST"])
+@app.route("/pk/entry/login", methods=["POST"])
 def entry_login():
     try:
         data = request.get_json(force=True)
@@ -182,6 +185,7 @@ def entry_login():
         return jsonify({"error": str(e)}), 500
 
 @app.route("/entry/picks", methods=["PUT"])
+@app.route("/pk/entry/picks", methods=["PUT"])
 def entry_picks():
     try:
         data = request.get_json(force=True)
