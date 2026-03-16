@@ -71,6 +71,7 @@ def create_scoreboard(pikap):
         # combined_data[entrant]['sum_games_projected'] = round(sum_games_projected, 2)
         # combined_data[entrant]['sum_games_projected_multiplier'] = round(sum_games_projected_multiplier, 2)
 
+    print(combined_data)
     return combined_data
 
 if __name__ == "__main__":

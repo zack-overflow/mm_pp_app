@@ -2,12 +2,13 @@ from flask import Flask, jsonify, request
 import json
 import os
 import pandas as pd
-from constants import JSON_FILE_PATH
+from constants import JSON_FILE_PATH, ENTRIES_FILE_PATH
 from flask_cors import CORS
 from get_entrant_data import get_entrant_data
 from create_scoreboard import create_scoreboard
 from perfect_bracket import perfect_bracket
 from get_player_data import get_player_data
+from werkzeug.security import generate_password_hash, check_password_hash
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
@@ -121,6 +122,80 @@ def get_player(player_name):
             return jsonify({"error": "Player not found"}), 404
     except Exception as e:
         print(f"Error in get_player: {str(e)}")
+        return jsonify({"error": str(e)}), 500
+
+def _load_entries():
+    if not os.path.exists(ENTRIES_FILE_PATH):
+        return {}
+    with open(ENTRIES_FILE_PATH, "r") as f:
+        return json.load(f)
+
+def _save_entries(entries):
+    with open(ENTRIES_FILE_PATH, "w") as f:
+        json.dump(entries, f, indent=2)
+
+
+@app.route("/players", methods=["GET"])
+def get_players():
+    try:
+        df = pd.read_csv("espn_players_2026_test.csv")
+        df = df.iloc[df["player_name"].str.split().str[-1].argsort().values]
+        players = [
+            {"name": row["player_name"].title(), "team": row["team_name"], "seed": int(row["seed"])}
+            for _, row in df.iterrows()
+        ]
+        return jsonify(players)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/entry/create", methods=["POST"])
+def entry_create():
+    try:
+        data = request.get_json(force=True)
+        name = data.get("name", "").strip()
+        password = data.get("password", "")
+        entries = _load_entries()
+        if name in entries:
+            return jsonify({"success": False, "message": "An entry with that name already exists."})
+        entries[name] = {"password": generate_password_hash(password), "picks": []}
+        _save_entries(entries)
+        return jsonify({"success": True})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/entry/login", methods=["POST"])
+def entry_login():
+    try:
+        data = request.get_json(force=True)
+        name = data.get("name", "").strip()
+        password = data.get("password", "")
+        entries = _load_entries()
+        entry = entries.get(name)
+        if not entry or not check_password_hash(entry["password"], password):
+            return jsonify({"success": False, "message": "Invalid name or password."})
+        # Resolve pick names to full player objects
+        df = pd.read_csv("espn_players_2026_test.csv")
+        player_map = {row["player_name"].title(): {"name": row["player_name"].title(), "team": row["team_name"], "seed": int(row["seed"])} for _, row in df.iterrows()}
+        picks = [player_map[p] for p in entry.get("picks", []) if p in player_map]
+        return jsonify({"success": True, "picks": picks})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/entry/picks", methods=["PUT"])
+def entry_picks():
+    try:
+        data = request.get_json(force=True)
+        name = data.get("name", "").strip()
+        password = data.get("password", "")
+        picks = data.get("picks", [])
+        entries = _load_entries()
+        entry = entries.get(name)
+        if not entry or not check_password_hash(entry["password"], password):
+            return jsonify({"success": False, "message": "Invalid name or password."})
+        entry["picks"] = picks
+        _save_entries(entries)
+        return jsonify({"success": True})
+    except Exception as e:
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
