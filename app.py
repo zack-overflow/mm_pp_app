@@ -142,7 +142,7 @@ def _entries_path_for_request():
 @app.route("/pk/players", methods=["GET"])
 def get_players():
     try:
-        df = pd.read_csv("espn_players_2026_test.csv")
+        df = pd.read_csv("espn_players_2026.csv")
         df = df.iloc[df["player_name"].str.split().str[-1].argsort().values]
         players = [
             {"name": row["player_name"].title(), "team": row["team_name"], "seed": int(row["seed"])}
@@ -182,7 +182,7 @@ def entry_login():
         if not entry or not check_password_hash(entry["password"], password):
             return jsonify({"success": False, "message": "Invalid name or password."})
         # Resolve pick names to full player objects
-        df = pd.read_csv("espn_players_2026_test.csv")
+        df = pd.read_csv("espn_players_2026.csv")
         player_map = {row["player_name"].title(): {"name": row["player_name"].title(), "team": row["team_name"], "seed": int(row["seed"])} for _, row in df.iterrows()}
         picks = [player_map[p] for p in entry.get("picks", []) if p in player_map]
         return jsonify({"success": True, "picks": picks})
