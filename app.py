@@ -2,7 +2,7 @@ from flask import Flask, jsonify, request
 import json
 import os
 import pandas as pd
-from constants import JSON_FILE_PATH, ENTRIES_FILE_PATH
+from constants import JSON_FILE_PATH, ENTRIES_FILE_PATH, PK_ENTRIES_FILE_PATH
 from flask_cors import CORS
 from get_entrant_data import get_entrant_data
 from create_scoreboard import create_scoreboard
@@ -124,15 +124,18 @@ def get_player(player_name):
         print(f"Error in get_player: {str(e)}")
         return jsonify({"error": str(e)}), 500
 
-def _load_entries():
-    if not os.path.exists(ENTRIES_FILE_PATH):
+def _load_entries(path):
+    if not os.path.exists(path):
         return {}
-    with open(ENTRIES_FILE_PATH, "r") as f:
+    with open(path, "r") as f:
         return json.load(f)
 
-def _save_entries(entries):
-    with open(ENTRIES_FILE_PATH, "w") as f:
+def _save_entries(entries, path):
+    with open(path, "w") as f:
         json.dump(entries, f, indent=2)
+
+def _entries_path_for_request():
+    return PK_ENTRIES_FILE_PATH if request.path.startswith("/pk/") else ENTRIES_FILE_PATH
 
 
 @app.route("/players", methods=["GET"])
@@ -156,11 +159,12 @@ def entry_create():
         data = request.get_json(force=True)
         name = data.get("name", "").strip()
         password = data.get("password", "")
-        entries = _load_entries()
+        path = _entries_path_for_request()
+        entries = _load_entries(path)
         if name in entries:
             return jsonify({"success": False, "message": "An entry with that name already exists."})
         entries[name] = {"password": generate_password_hash(password), "picks": []}
-        _save_entries(entries)
+        _save_entries(entries, path)
         return jsonify({"success": True})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -172,7 +176,8 @@ def entry_login():
         data = request.get_json(force=True)
         name = data.get("name", "").strip()
         password = data.get("password", "")
-        entries = _load_entries()
+        path = _entries_path_for_request()
+        entries = _load_entries(path)
         entry = entries.get(name)
         if not entry or not check_password_hash(entry["password"], password):
             return jsonify({"success": False, "message": "Invalid name or password."})
@@ -192,12 +197,13 @@ def entry_picks():
         name = data.get("name", "").strip()
         password = data.get("password", "")
         picks = data.get("picks", [])
-        entries = _load_entries()
+        path = _entries_path_for_request()
+        entries = _load_entries(path)
         entry = entries.get(name)
         if not entry or not check_password_hash(entry["password"], password):
             return jsonify({"success": False, "message": "Invalid name or password."})
         entry["picks"] = picks
-        _save_entries(entries)
+        _save_entries(entries, path)
         return jsonify({"success": True})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
