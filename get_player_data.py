@@ -1,5 +1,6 @@
 import json
-from constants import PLAYER_SCORING_DATA_JSON_FILE_PATH, TEAMS_ALIVE_MASK
+from constants import PLAYER_SCORING_DATA_JSON_FILE_PATH, ENTRIES_FILE_PATH
+from teams_alive import is_team_alive
 
 def get_player_data(player_name):
     """
@@ -11,6 +12,7 @@ def get_player_data(player_name):
     - Points(split by round)
     - Points multiplier
     - Team alive status
+    - Ownership info (how many entrants picked this player)
     """
 
     # Load the JSON data
@@ -20,14 +22,26 @@ def get_player_data(player_name):
     # Check if the player exists in the data
     if player_name not in data:
         return None
-    
+
     player_data = data[player_name]
 
     # Reverse order of points to match the order of rounds without mutating source data
     pts = list(reversed(player_data.get("pts", [])))
     pts_mult_rounds = list(reversed(player_data.get("pts_mult_rounds", [])))
 
-    # check who picked this player
+    # Count how many entrants picked this player
+    picked_by = []
+    total_entrants = 0
+    try:
+        with open(ENTRIES_FILE_PATH, 'r') as f:
+            entries = json.load(f)
+        total_entrants = len(entries)
+        for entrant_name, entry in entries.items():
+            picks = [p.strip().upper() for p in entry.get("picks", [])]
+            if player_name in picks:
+                picked_by.append(entrant_name)
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
 
     # Initialize the response dictionary
     response = {
@@ -37,7 +51,9 @@ def get_player_data(player_name):
         "pts": pts,
         "pts_mult": player_data["pts_mult"],
         "pts_mult_round": pts_mult_rounds,
-        "alive": TEAMS_ALIVE_MASK.get(player_data.get("team"), 0) == 1,
+        "alive": is_team_alive(player_data.get("team")),
+        "picked_by": picked_by,
+        "total_entrants": total_entrants,
     }
 
     return response

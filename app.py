@@ -4,6 +4,7 @@ import os
 import pandas as pd
 from constants import (
     PLAYER_SCORING_DATA_JSON_FILE_PATH,
+    TEAMS_ALIVE_MASK_JSON_FILE_PATH,
     ENTRIES_FILE_PATH,
     ENTRIES_WRITE_FILE_PATH,
     PK_ENTRIES_FILE_PATH,
@@ -28,7 +29,7 @@ def scoreboard():
         data = create_scoreboard(pikap=False)
         return jsonify(data)
     except FileNotFoundError:
-        return jsonify("error: scoreboard not found"), 404
+        return jsonify("error: Zack is updating the app..."), 404
 
 @app.route('/pk/scoreboard')
 def scoreboard_pk():
@@ -36,7 +37,7 @@ def scoreboard_pk():
         data = create_scoreboard(pikap=True)
         return jsonify(data)
     except FileNotFoundError:
-        return jsonify("error: scoreboard not found"), 404
+        return jsonify("error: Zack is updating the app..."), 404
 
 @app.route("/update_bk", methods=["POST"])
 def update_bk():
@@ -50,14 +51,28 @@ def update_bk():
     """
     try:
         # 1. Get the JSON from the request
-        data = request.get_json(force=True)  # force=True to parse even without 'Content-Type: application/json'
+        payload = request.get_json(force=True)  # force=True to parse even without 'Content-Type: application/json'
+
+        # Backwards compatibility: old clients POST only player scoring data.
+        if isinstance(payload, dict) and "player_scoring_data" in payload:
+            player_data = payload.get("player_scoring_data", {})
+            teams_alive_mask = payload.get("teams_alive_mask")
+        else:
+            player_data = payload
+            teams_alive_mask = None
 
         # 2. Write/overwrite the file
         with open(PLAYER_SCORING_DATA_JSON_FILE_PATH, "w") as f:
-            json.dump(data, f, indent=2)
+            json.dump(player_data, f, indent=2)
+
+        if teams_alive_mask is not None:
+            with open(TEAMS_ALIVE_MASK_JSON_FILE_PATH, "w") as f:
+                json.dump(teams_alive_mask, f, indent=2)
         
         # 3. Log that it was updated
-        print(f"Updated {PLAYER_SCORING_DATA_JSON_FILE_PATH} with new data: {data}")
+        print(f"Updated {PLAYER_SCORING_DATA_JSON_FILE_PATH} with new data")
+        if teams_alive_mask is not None:
+            print(f"Updated {TEAMS_ALIVE_MASK_JSON_FILE_PATH} with live team statuses")
 
         return jsonify({"status": "success"}), 200
 
@@ -72,7 +87,7 @@ def get_entrant(entrant_name):
         data = get_entrant_data(entrant_name)
         return jsonify(data)
     except FileNotFoundError:
-        return jsonify("error: player data not found"), 404
+        return jsonify("error: entrant data not found"), 404
     
 @app.route("/pk/entrant/<entrant_name>")
 def get_entrant_pk(entrant_name):
@@ -80,7 +95,7 @@ def get_entrant_pk(entrant_name):
         data = get_entrant_data(entrant_name, pikap=True)
         return jsonify(data)
     except FileNotFoundError:
-        return jsonify("error: player data not found"), 404
+        return jsonify("error: entrant data not found"), 404
 
 @app.route("/pk/perfect_bracket", methods=["GET"])
 def perfect_bracket_endpoint():

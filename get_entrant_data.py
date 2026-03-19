@@ -1,7 +1,12 @@
 import json
 import pandas as pd
 from get_player_data_from_entry_player import get_player_data_from_entry_player
-from constants import PLAYER_SCORING_DATA_JSON_FILE_PATH, TEAMS_ALIVE_MASK, ENTRIES_FILE_PATH, PK_ENTRIES_FILE_PATH
+from constants import (
+    PLAYER_SCORING_DATA_JSON_FILE_PATH,
+    ENTRIES_FILE_PATH,
+    PK_ENTRIES_FILE_PATH,
+)
+from teams_alive import is_team_alive
 
 
 def get_entrant_data(entrant_name, pikap=False):
@@ -61,7 +66,7 @@ def get_entrant_data(entrant_name, pikap=False):
                 'pts_mult': 'Not played yet',
                 'seed': seed,
                 'team': team,
-                'alive': TEAMS_ALIVE_MASK.get(team, 0) == 1
+                'alive': is_team_alive(team)
             }
             
             print(f"XXXXXXXXXXXX {lookup_name} not found in bookkeeping dict")
@@ -71,7 +76,7 @@ def get_entrant_data(entrant_name, pikap=False):
             team = entrant_row.get('team') or player_meta.get(lookup_name, {}).get('team')
             if team is not None:
                 entrant_row['team'] = team
-            entrant_row['alive'] = TEAMS_ALIVE_MASK.get(team, 0) == 1
+            entrant_row['alive'] = is_team_alive(team)
             entrant_results[lookup_name] = entrant_row
     
     return entrant_results

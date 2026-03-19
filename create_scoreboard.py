@@ -1,5 +1,6 @@
 import json
-from constants import TEAMS_ALIVE_MASK, ENTRIES_FILE_PATH, PK_ENTRIES_FILE_PATH
+from constants import ENTRIES_FILE_PATH, PK_ENTRIES_FILE_PATH
+from teams_alive import is_team_alive
 from get_entrant_data import get_entrant_data
 
 def get_multiplier(seed):
@@ -36,7 +37,7 @@ def create_scoreboard(pikap):
             
             # Add up the multiplier points based on the seeds if the team is alive
             team = data.get('team')
-            if TEAMS_ALIVE_MASK.get(team, 0) == 1:
+            if is_team_alive(team):
                 try:
                     sum_multiplier += get_multiplier(int(data.get('seed')))
                 except (TypeError, ValueError):
@@ -50,7 +51,7 @@ def create_scoreboard(pikap):
         for player, data in player_data.items():
             if not isinstance(data, dict):
                 continue
-            if TEAMS_ALIVE_MASK.get(data.get('team'), 0) == 1:
+            if is_team_alive(data.get('team')):
                 alive_count += 1
 
         combined_data[entrant]['alive_count'] = alive_count
