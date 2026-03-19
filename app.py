@@ -14,6 +14,7 @@ from get_entrant_data import get_entrant_data
 from create_scoreboard import create_scoreboard
 from perfect_bracket import perfect_bracket
 from get_player_data import get_player_data
+from pick_analysis import get_pick_analysis
 from werkzeug.security import generate_password_hash, check_password_hash
 
 app = Flask(__name__)
@@ -123,6 +124,28 @@ def perfect_bracket_nk_endpoint():
     except Exception as e:
         # More detailed error handling
         print(f"Error in perfect_bracket_endpoint: {str(e)}")
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/pick_analysis", methods=["GET"])
+def pick_analysis_endpoint():
+    try:
+        return jsonify(get_pick_analysis(pikap=False))
+    except FileNotFoundError:
+        return jsonify("error: Zack is updating the app..."), 404
+    except Exception as e:
+        print(f"Error in pick_analysis_endpoint: {str(e)}")
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/pk/pick_analysis", methods=["GET"])
+def pick_analysis_pk_endpoint():
+    try:
+        return jsonify(get_pick_analysis(pikap=True))
+    except FileNotFoundError:
+        return jsonify("error: Zack is updating the app..."), 404
+    except Exception as e:
+        print(f"Error in pick_analysis_pk_endpoint: {str(e)}")
         return jsonify({"error": str(e)}), 500
     
 @app.route("/player/<player_name>")
