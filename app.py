@@ -2,7 +2,12 @@ from flask import Flask, jsonify, request
 import json
 import os
 import pandas as pd
-from constants import JSON_FILE_PATH, ENTRIES_FILE_PATH, PK_ENTRIES_FILE_PATH
+from constants import (
+    PLAYER_SCORING_DATA_JSON_FILE_PATH,
+    ENTRIES_FILE_PATH,
+    ENTRIES_WRITE_FILE_PATH,
+    PK_ENTRIES_FILE_PATH,
+)
 from flask_cors import CORS
 from get_entrant_data import get_entrant_data
 from create_scoreboard import create_scoreboard
@@ -48,11 +53,11 @@ def update_bk():
         data = request.get_json(force=True)  # force=True to parse even without 'Content-Type: application/json'
 
         # 2. Write/overwrite the file
-        with open(JSON_FILE_PATH, "w") as f:
+        with open(PLAYER_SCORING_DATA_JSON_FILE_PATH, "w") as f:
             json.dump(data, f, indent=2)
         
         # 3. Log that it was updated
-        print(f"Updated {JSON_FILE_PATH} with new data: {data}")
+        print(f"Updated {PLAYER_SCORING_DATA_JSON_FILE_PATH} with new data: {data}")
 
         return jsonify({"status": "success"}), 200
 
@@ -138,6 +143,10 @@ def _entries_path_for_request():
     return PK_ENTRIES_FILE_PATH if request.path.startswith("/pk/") else ENTRIES_FILE_PATH
 
 
+def _entries_write_path_for_request():
+    return PK_ENTRIES_FILE_PATH if request.path.startswith("/pk/") else ENTRIES_WRITE_FILE_PATH
+
+
 @app.route("/players", methods=["GET"])
 @app.route("/pk/players", methods=["GET"])
 def get_players():
@@ -159,12 +168,13 @@ def entry_create():
         data = request.get_json(force=True)
         name = data.get("name", "").strip()
         password = data.get("password", "")
-        path = _entries_path_for_request()
-        entries = _load_entries(path)
+        read_path = _entries_path_for_request()
+        write_path = _entries_write_path_for_request()
+        entries = _load_entries(read_path)
         if name in entries:
             return jsonify({"success": False, "message": "An entry with that name already exists."})
         entries[name] = {"password": generate_password_hash(password), "picks": []}
-        _save_entries(entries, path)
+        _save_entries(entries, write_path)
         return jsonify({"success": True})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -197,13 +207,14 @@ def entry_picks():
         name = data.get("name", "").strip()
         password = data.get("password", "")
         picks = data.get("picks", [])
-        path = _entries_path_for_request()
-        entries = _load_entries(path)
+        read_path = _entries_path_for_request()
+        write_path = _entries_write_path_for_request()
+        entries = _load_entries(read_path)
         entry = entries.get(name)
         if not entry or not check_password_hash(entry["password"], password):
             return jsonify({"success": False, "message": "Invalid name or password."})
         entry["picks"] = picks
-        _save_entries(entries, path)
+        _save_entries(entries, write_path)
         return jsonify({"success": True})
     except Exception as e:
         return jsonify({"error": str(e)}), 500

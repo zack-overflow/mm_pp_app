@@ -1,10 +1,10 @@
 import json
 import pandas as pd
-from constants import JSON_FILE_PATH
+from constants import PLAYER_SCORING_DATA_JSON_FILE_PATH, ENTRIES_FILE_PATH, PK_ENTRIES_FILE_PATH
 
 def find_top_players(N=15):
     # Load the data from the JSON file
-    with open(JSON_FILE_PATH, 'r') as f:
+    with open(PLAYER_SCORING_DATA_JSON_FILE_PATH, 'r') as f:
         player_data = json.load(f)
 
     # Create a list to hold the player data
@@ -43,36 +43,35 @@ def perfect_bracket(pikap=True):
     # Add column for entrants
     top_players_df['entrants'] = ''
 
-    if pikap:
-        df = pd.read_csv('combined_players.csv') # columns are entrants
-    else:
-        df = pd.read_csv('null_kaval_cleaned.csv')
-    
-    pp_players = pd.read_csv('pp_players_form2025.csv')
-    pp_players = pp_players[['firstName', 'lastName', 'pts_std', 'seed', 'team']]
-    # combine first and last name to create full player name
-    pp_players['player'] = pp_players['firstName'].str.upper() + ' ' + pp_players['lastName'].str.upper()
-    # make names uppercase and remove punctuation
-    pp_players['player'] = pp_players['player'].str.replace(r'[^A-Z\s]', '', regex=True)
+    # Load entrant picks from entry JSON files (null_kaval_entries style).
+    entries_path = PK_ENTRIES_FILE_PATH if pikap else ENTRIES_FILE_PATH
+    with open(entries_path, 'r') as f:
+        entries_data = json.load(f)
 
-    for entrant_name in df.columns:
-        entrant_players = df[entrant_name].tolist()
-        # If the entrant players are in the top players df, add them to a column that lists that
-        for i, row in top_players_df.iterrows():
-            if row['player'] in entrant_players:
-                # If the player is in the entrant players, add the entrant name to the column
-                if top_players_df.at[i, 'entrants'] == '':
-                    top_players_df.at[i, 'entrants'] = entrant_name
-                else:
-                    top_players_df.at[i, 'entrants'] += ', ' + entrant_name
+    top_players_norm = {
+        str(player).strip().upper()
+        for player in top_players_df['player'].tolist()
+    }
+    player_to_entrants = {player: [] for player in top_players_norm}
+
+    for entrant_name, entrant_data in entries_data.items():
+        picks = entrant_data.get('picks', [])
+        normalized_picks = {
+            str(pick).strip().upper()
+            for pick in picks
+            if str(pick).strip()
+        }
+        for player in normalized_picks.intersection(top_players_norm):
+            player_to_entrants[player].append(entrant_name)
+
+    for i, row in top_players_df.iterrows():
+        lookup_name = str(row['player']).strip().upper()
+        top_players_df.at[i, 'entrants'] = ', '.join(player_to_entrants.get(lookup_name, []))
 
     # Remove any trailing commas
     top_players_df['entrants'] = top_players_df['entrants'].str.strip(', ')
 
-    print(top_players_df)
-    
-    # Change to data structure rhat can be sent to frontend
-    print(top_players_df)
+    # Change to data structure that can be sent to frontend
     top_players_dict = top_players_df.to_dict(orient='records')
 
     return top_players_dict

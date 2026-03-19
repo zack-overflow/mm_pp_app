@@ -1,5 +1,5 @@
 import json
-from constants import JSON_FILE_PATH, TEAMS_ALIVE_MASK, ESPN_TO_PP_MAP
+from constants import PLAYER_SCORING_DATA_JSON_FILE_PATH, TEAMS_ALIVE_MASK
 
 def get_player_data(player_name):
     """
@@ -14,7 +14,7 @@ def get_player_data(player_name):
     """
 
     # Load the JSON data
-    with open(JSON_FILE_PATH, 'r') as file:
+    with open(PLAYER_SCORING_DATA_JSON_FILE_PATH, 'r') as file:
         data = json.load(file)
 
     # Check if the player exists in the data
@@ -23,9 +23,9 @@ def get_player_data(player_name):
     
     player_data = data[player_name]
 
-    # Reverse order of points to match the order of rounds
-    player_data["pts"].reverse()
-    player_data["pts_mult_rounds"].reverse()
+    # Reverse order of points to match the order of rounds without mutating source data
+    pts = list(reversed(player_data.get("pts", [])))
+    pts_mult_rounds = list(reversed(player_data.get("pts_mult_rounds", [])))
 
     # check who picked this player
 
@@ -34,10 +34,10 @@ def get_player_data(player_name):
         "player": player_name,
         "team": player_data["team"],
         "seed": player_data["seed"],
-        "pts": player_data["pts"],
+        "pts": pts,
         "pts_mult": player_data["pts_mult"],
-        "pts_mult_round": player_data["pts_mult_rounds"],
-        "alive": TEAMS_ALIVE_MASK[ESPN_TO_PP_MAP[player_data["team"]]],
+        "pts_mult_round": pts_mult_rounds,
+        "alive": TEAMS_ALIVE_MASK.get(player_data.get("team"), 0) == 1,
     }
 
     return response

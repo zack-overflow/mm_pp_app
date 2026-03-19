@@ -1,13 +1,167 @@
 {
-  "JASTEVEN WALKER": {
-    "team": "Alabama State Hornets",
-    "seed": "16",
+  "XAVIER EDMONDS": {
+    "team": "TCU",
+    "seed": "9",
     "pts": [
-      6
+      2
     ],
-    "pts_mult": 18,
+    "pts_mult": 4,
     "pts_mult_rounds": [
-      18
+      4
+    ]
+  },
+  "DAVID PUNCH": {
+    "team": "TCU",
+    "seed": "9",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "MICAH ROBINSON": {
+    "team": "TCU",
+    "seed": "9",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "JAYDEN PIERRE": {
+    "team": "TCU",
+    "seed": "9",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "BROCK HARDING": {
+    "team": "TCU",
+    "seed": "9",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "LIUTAURAS LELEVICIUS": {
+    "team": "TCU",
+    "seed": "9",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "TANNER TOOLSON": {
+    "team": "TCU",
+    "seed": "9",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "AMARE BYNUM": {
+    "team": "Ohio State",
+    "seed": "8",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "DEVIN ROYAL": {
+    "team": "Ohio State",
+    "seed": "8",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "CHRISTOPH TILLY": {
+    "team": "Ohio State",
+    "seed": "8",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "BRUCE THORNTON": {
+    "team": "Ohio State",
+    "seed": "8",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "JOHN MOBLEY JR": {
+    "team": "Ohio State",
+    "seed": "8",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "BRANDON NOEL": {
+    "team": "Ohio State",
+    "seed": "8",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "IVAN NJEGOVAN": {
+    "team": "Ohio State",
+    "seed": "8",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "TAISON CHATMAN": {
+    "team": "Ohio State",
+    "seed": "8",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
     ]
   }
 }
