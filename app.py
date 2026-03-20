@@ -7,6 +7,7 @@ from constants import (
     PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH,
     TEAMS_ALIVE_MASK_JSON_FILE_PATH,
     PROJECTIONS_JSON_FILE_PATH,
+    PK_PROJECTIONS_JSON_FILE_PATH,
     ENTRIES_FILE_PATH,
     ENTRIES_WRITE_FILE_PATH,
     PK_ENTRIES_FILE_PATH,
@@ -195,6 +196,10 @@ def _entries_path_for_request():
 def _entries_write_path_for_request():
     return PK_ENTRIES_FILE_PATH if request.path.startswith("/pk/") else ENTRIES_WRITE_FILE_PATH
 
+
+def _projections_path_for_request():
+    return PK_PROJECTIONS_JSON_FILE_PATH if request.path.startswith("/pk/") else PROJECTIONS_JSON_FILE_PATH
+
 def _read_player_catalog():
     df = pd.read_csv("espn_players_2026.csv")
     catalog = {}
@@ -226,10 +231,11 @@ def _read_projection_player_scoring_data():
         return json.load(f)
 
 
-def _read_projection_snapshot():
-    if not os.path.exists(PROJECTIONS_JSON_FILE_PATH):
+def _read_projection_snapshot(path=None):
+    path = path or PROJECTIONS_JSON_FILE_PATH
+    if not os.path.exists(path):
         return None
-    with open(PROJECTIONS_JSON_FILE_PATH, "r") as f:
+    with open(path, "r") as f:
         return json.load(f)
 
 
@@ -249,10 +255,11 @@ def get_players():
 
 
 @app.route("/projection_inputs", methods=["GET"])
+@app.route("/pk/projection_inputs", methods=["GET"])
 def projection_inputs():
     try:
         player_catalog, team_seed_map = _read_player_catalog()
-        entries = _load_entries(ENTRIES_FILE_PATH)
+        entries = _load_entries(_entries_path_for_request())
         public_entries = {
             entrant_name: {"picks": entry.get("picks", [])}
             for entrant_name, entry in entries.items()
@@ -272,10 +279,11 @@ def projection_inputs():
 
 
 @app.route("/update_projections", methods=["POST"])
+@app.route("/pk/update_projections", methods=["POST"])
 def update_projections():
     try:
         payload = request.get_json(force=True)
-        with open(PROJECTIONS_JSON_FILE_PATH, "w") as f:
+        with open(_projections_path_for_request(), "w") as f:
             json.dump(payload, f, indent=2)
         return jsonify({"status": "success"}), 200
     except Exception as e:
@@ -283,9 +291,10 @@ def update_projections():
 
 
 @app.route("/projections", methods=["GET"])
+@app.route("/pk/projections", methods=["GET"])
 def projections():
     try:
-        snapshot = _read_projection_snapshot()
+        snapshot = _read_projection_snapshot(_projections_path_for_request())
         if snapshot is None:
             return jsonify({"error": "Projection snapshot not available"}), 404
         return jsonify(snapshot)
