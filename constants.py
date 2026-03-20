@@ -3,13 +3,17 @@ import os
 # Use /var/data/data.json if it exists, otherwise use local.json
 if os.path.exists("/var/data/data.json"):
     PLAYER_SCORING_DATA_JSON_FILE_PATH = "/var/data/data.json"
+    PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH = "/var/data/projection_data.json"
     TEAMS_ALIVE_MASK_JSON_FILE_PATH = "/var/data/teams_alive_mask.json"
+    PROJECTIONS_JSON_FILE_PATH = "/var/data/projections.json"
     ENTRIES_FILE_PATH = "null_kaval_entries_final.json"
     ENTRIES_WRITE_FILE_PATH = "/var/data/null_kaval_entries.json"
     PK_ENTRIES_FILE_PATH = "entries_final.json"
 else:
     PLAYER_SCORING_DATA_JSON_FILE_PATH = "local.json"
+    PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH = "projection_local.json"
     TEAMS_ALIVE_MASK_JSON_FILE_PATH = "teams_alive_mask.json"
+    PROJECTIONS_JSON_FILE_PATH = "projections.json"
     ENTRIES_FILE_PATH = "null_kaval_entries_temp.json"
     ENTRIES_WRITE_FILE_PATH = "null_kaval_entries.json"
     PK_ENTRIES_FILE_PATH = "entries.json"

@@ -4,7 +4,9 @@ import os
 import pandas as pd
 from constants import (
     PLAYER_SCORING_DATA_JSON_FILE_PATH,
+    PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH,
     TEAMS_ALIVE_MASK_JSON_FILE_PATH,
+    PROJECTIONS_JSON_FILE_PATH,
     ENTRIES_FILE_PATH,
     ENTRIES_WRITE_FILE_PATH,
     PK_ENTRIES_FILE_PATH,
@@ -15,6 +17,7 @@ from create_scoreboard import create_scoreboard
 from perfect_bracket import perfect_bracket
 from get_player_data import get_player_data
 from pick_analysis import get_pick_analysis
+from teams_alive import get_teams_alive_mask
 from werkzeug.security import generate_password_hash, check_password_hash
 
 app = Flask(__name__)
@@ -57,14 +60,20 @@ def update_bk():
         # Backwards compatibility: old clients POST only player scoring data.
         if isinstance(payload, dict) and "player_scoring_data" in payload:
             player_data = payload.get("player_scoring_data", {})
+            projection_player_data = payload.get("projection_player_scoring_data")
             teams_alive_mask = payload.get("teams_alive_mask")
         else:
             player_data = payload
+            projection_player_data = None
             teams_alive_mask = None
 
         # 2. Write/overwrite the file
         with open(PLAYER_SCORING_DATA_JSON_FILE_PATH, "w") as f:
             json.dump(player_data, f, indent=2)
+
+        if projection_player_data is not None:
+            with open(PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH, "w") as f:
+                json.dump(projection_player_data, f, indent=2)
 
         if teams_alive_mask is not None:
             with open(TEAMS_ALIVE_MASK_JSON_FILE_PATH, "w") as f:
@@ -72,6 +81,8 @@ def update_bk():
         
         # 3. Log that it was updated
         print(f"Updated {PLAYER_SCORING_DATA_JSON_FILE_PATH} with new data")
+        if projection_player_data is not None:
+            print(f"Updated {PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH} with final-only projection data")
         if teams_alive_mask is not None:
             print(f"Updated {TEAMS_ALIVE_MASK_JSON_FILE_PATH} with live team statuses")
 
@@ -184,6 +195,43 @@ def _entries_path_for_request():
 def _entries_write_path_for_request():
     return PK_ENTRIES_FILE_PATH if request.path.startswith("/pk/") else ENTRIES_WRITE_FILE_PATH
 
+def _read_player_catalog():
+    df = pd.read_csv("espn_players_2026.csv")
+    catalog = {}
+    team_seed_map = {}
+    for _, row in df.iterrows():
+        player_name = str(row["player_name"]).strip()
+        team_name = str(row["team_name"]).strip()
+        seed = int(row["seed"])
+        catalog[player_name.upper()] = {
+            "name": player_name.title(),
+            "team": team_name,
+            "seed": seed,
+        }
+        team_seed_map[team_name] = seed
+    return catalog, team_seed_map
+
+
+def _read_player_scoring_data():
+    if not os.path.exists(PLAYER_SCORING_DATA_JSON_FILE_PATH):
+        return {}
+    with open(PLAYER_SCORING_DATA_JSON_FILE_PATH, "r") as f:
+        return json.load(f)
+
+
+def _read_projection_player_scoring_data():
+    if not os.path.exists(PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH):
+        return {}
+    with open(PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH, "r") as f:
+        return json.load(f)
+
+
+def _read_projection_snapshot():
+    if not os.path.exists(PROJECTIONS_JSON_FILE_PATH):
+        return None
+    with open(PROJECTIONS_JSON_FILE_PATH, "r") as f:
+        return json.load(f)
+
 
 @app.route("/players", methods=["GET"])
 @app.route("/pk/players", methods=["GET"])
@@ -196,6 +244,51 @@ def get_players():
             for _, row in df.iterrows()
         ]
         return jsonify(players)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/projection_inputs", methods=["GET"])
+def projection_inputs():
+    try:
+        player_catalog, team_seed_map = _read_player_catalog()
+        entries = _load_entries(ENTRIES_FILE_PATH)
+        public_entries = {
+            entrant_name: {"picks": entry.get("picks", [])}
+            for entrant_name, entry in entries.items()
+        }
+        return jsonify(
+            {
+                "entries": public_entries,
+                "player_scoring_data": _read_player_scoring_data(),
+                "projection_player_scoring_data": _read_projection_player_scoring_data(),
+                "teams_alive_mask": get_teams_alive_mask(),
+                "player_catalog": player_catalog,
+                "team_seed_map": team_seed_map,
+            }
+        )
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+
+@app.route("/update_projections", methods=["POST"])
+def update_projections():
+    try:
+        payload = request.get_json(force=True)
+        with open(PROJECTIONS_JSON_FILE_PATH, "w") as f:
+            json.dump(payload, f, indent=2)
+        return jsonify({"status": "success"}), 200
+    except Exception as e:
+        return jsonify({"status": "error", "message": str(e)}), 400
+
+
+@app.route("/projections", methods=["GET"])
+def projections():
+    try:
+        snapshot = _read_projection_snapshot()
+        if snapshot is None:
+            return jsonify({"error": "Projection snapshot not available"}), 404
+        return jsonify(snapshot)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
