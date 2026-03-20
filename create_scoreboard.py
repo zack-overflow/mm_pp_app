@@ -1,6 +1,7 @@
 import json
 from constants import ENTRIES_FILE_PATH, PK_ENTRIES_FILE_PATH
 from teams_alive import is_team_alive
+from teams_in_progress import is_team_in_progress
 from get_entrant_data import get_entrant_data
 
 def get_multiplier(seed):
@@ -55,6 +56,16 @@ def create_scoreboard(pikap):
                 alive_count += 1
 
         combined_data[entrant]['alive_count'] = alive_count
+
+        in_progress_count = 0
+        for player, data in player_data.items():
+            if not isinstance(data, dict):
+                continue
+            if is_team_in_progress(data.get('team')):
+                in_progress_count += 1
+
+        combined_data[entrant]['in_progress_count'] = in_progress_count
+        combined_data[entrant]['has_in_progress'] = in_progress_count > 0
 
     print(combined_data)
     return combined_data

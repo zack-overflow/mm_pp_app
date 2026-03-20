@@ -1165,6 +1165,380 @@
       7
     ]
   },
+  "CAMDEN HEIDE": {
+    "team": "Texas",
+    "seed": "11",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "MATAS VOKIETAITIS": {
+    "team": "Texas",
+    "seed": "11",
+    "pts": [
+      23
+    ],
+    "pts_mult": 46,
+    "pts_mult_rounds": [
+      46
+    ]
+  },
+  "JORDAN POPE": {
+    "team": "Texas",
+    "seed": "11",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
+  },
+  "DAILYN SWAIN": {
+    "team": "Texas",
+    "seed": "11",
+    "pts": [
+      14
+    ],
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
+  },
+  "TRAMON MARK": {
+    "team": "Texas",
+    "seed": "11",
+    "pts": [
+      19
+    ],
+    "pts_mult": 38,
+    "pts_mult_rounds": [
+      38
+    ]
+  },
+  "NIC CODIE": {
+    "team": "Texas",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "CHENDALL WEAVER": {
+    "team": "Texas",
+    "seed": "11",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "SIMEON WILCHER": {
+    "team": "Texas",
+    "seed": "11",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "AJ DYBANTSA": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      35
+    ],
+    "pts_mult": 70,
+    "pts_mult_rounds": [
+      70
+    ]
+  },
+  "KEBA KEITA": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "KENNARD DAVIS JR": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "ALEKSEJ KOSTIC": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      8
+    ],
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
+  },
+  "ROBERT WRIGHT III": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      14
+    ],
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
+  },
+  "DOMINIQUE DIOMANDE": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "KHADIM MBOUP": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "MIHAILO BOKOVIC": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "ABDULLAH AHMED": {
+    "team": "BYU",
+    "seed": "6",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "TREY SIMPSON": {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "AMIR TAYLOR": {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "pts": [
+      15
+    ],
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
+  },
+  "BRAEDAN LUE": {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "pts": [
+      5
+    ],
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
+  },
+  "FRANKQUON SHERMAN": {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "pts": [
+      13
+    ],
+    "pts_mult": 39,
+    "pts_mult_rounds": [
+      39
+    ]
+  },
+  "RJ JOHNSON": {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "pts": [
+      15
+    ],
+    "pts_mult": 45,
+    "pts_mult_rounds": [
+      45
+    ]
+  },
+  "PERRY SMITH JR": {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "KADEN RICKARD": {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "pts": [
+      14
+    ],
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
+  },
+  "JADEN HARRIS": {
+    "team": "Kennesaw St",
+    "seed": "14",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "EMMANUEL INNOCENTI": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      7
+    ],
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
+  },
+  "GRAHAM IKE": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      19
+    ],
+    "pts_mult": 19,
+    "pts_mult_rounds": [
+      19
+    ]
+  },
+  "MARIO SAINTSUPERY": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      7
+    ],
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
+  },
+  "JALEN WARLEY": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      12
+    ],
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
+  },
+  "ADAM MILLER": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      2
+    ],
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
+  },
+  "ISMAILA DIAGNE": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "DAVIS FOGLE": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      17
+    ],
+    "pts_mult": 17,
+    "pts_mult_rounds": [
+      17
+    ]
+  },
+  "BRAEDEN SMITH": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "TYON GRANTFOSTER": {
+    "team": "Gonzaga",
+    "seed": "3",
+    "pts": [
+      9
+    ],
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
+  },
   "JERRELL COLBERT": {
     "team": "McNeese",
     "seed": "12",
@@ -1614,6 +1988,1964 @@
     "pts_mult": 3,
     "pts_mult_rounds": [
       3
+    ]
+  },
+  "LAZAR DJOKOVIC": {
+    "team": "VCU",
+    "seed": "11",
+    "pts": [
+      15
+    ],
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
+  },
+  "BARRY EVANS": {
+    "team": "VCU",
+    "seed": "11",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "NYK LEWIS": {
+    "team": "VCU",
+    "seed": "11",
+    "pts": [
+      16
+    ],
+    "pts_mult": 32,
+    "pts_mult_rounds": [
+      32
+    ]
+  },
+  "BRANDON JENNINGS": {
+    "team": "VCU",
+    "seed": "11",
+    "pts": [
+      7
+    ],
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
+  },
+  "JADRIAN TRACEY": {
+    "team": "VCU",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "MICHAEL BELLE": {
+    "team": "VCU",
+    "seed": "11",
+    "pts": [
+      8
+    ],
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
+  },
+  "TERRENCE HILL JR": {
+    "team": "VCU",
+    "seed": "11",
+    "pts": [
+      34
+    ],
+    "pts_mult": 68,
+    "pts_mult_rounds": [
+      68
+    ]
+  },
+  "TYRELL WARD": {
+    "team": "VCU",
+    "seed": "11",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "JARIN STEVENSON": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
+  },
+  "HENRI VEESAAR": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      26
+    ],
+    "pts_mult": 52,
+    "pts_mult_rounds": [
+      52
+    ]
+  },
+  "LUKA BOGAVAC": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      8
+    ],
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
+  },
+  "DEREK DIXON": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
+  },
+  "SETH TRIMBLE": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      15
+    ],
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
+  },
+  "ZAYDEN HIGH": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
+  },
+  "JONATHAN POWELL": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "KYAN EVANS": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "JAYDON YOUNG": {
+    "team": "North Carolina",
+    "seed": "6",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "AUGUSTUS GERHART": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "MICHAEL ZANONI": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      20
+    ],
+    "pts_mult": 60,
+    "pts_mult_rounds": [
+      60
+    ]
+  },
+  "TJ POWER": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      6
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "AJ LEVINE": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      5
+    ],
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
+  },
+  "CAM THROWER": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      14
+    ],
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
+  },
+  "WILLIAM KRUSE": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "LUCAS LUETH": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      7
+    ],
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
+  },
+  "NIKLAS POLONOWSKI": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      5
+    ],
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
+  },
+  "JOHNNIE WALTER": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      3
+    ],
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
+  },
+  "DALTON SCANTLEBURY": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      4
+    ],
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
+  },
+  "MICHELANGELO OBERTI": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "JAY JONES": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "ALEX MASSUNG": {
+    "team": "Penn",
+    "seed": "14",
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "DAVID MIRKOVIC": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      29
+    ],
+    "pts_mult": 29,
+    "pts_mult_rounds": [
+      29
+    ]
+  },
+  "JAKE DAVIS": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "TOMISLAV IVISIC": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      12
+    ],
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
+  },
+  "KEATON WAGLER": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      18
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "KYLAN BOSWELL": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      13
+    ],
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
+  },
+  "BEN HUMRICHOUS": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      12
+    ],
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
+  },
+  "ZVONIMIR IVISIC": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      6
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "MIHAILO PETROVIC": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "BLAKE FAGBEMI": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "BRANDON LEE": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      4
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "ANDREJ STOJAKOVIC": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      9
+    ],
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
+  },
+  "AJ REDD": {
+    "team": "Illinois",
+    "seed": "3",
+    "pts": [
+      2
+    ],
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
+  },
+  "RASHAUN AGEE": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      22
+    ],
+    "pts_mult": 44,
+    "pts_mult_rounds": [
+      44
+    ]
+  },
+  "RUBN DOMINGUEZ": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
+  },
+  "MARCUS HILL": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
+  },
+  "POP ISAACS": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "RYLAN GRIFFEN": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
+  },
+  "JAMIE VINSON": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "ZACH CLEMENCE": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "JOSH HOLLOWAY": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "JACARI LANE": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "ALI DIBBA": {
+    "team": "Texas A&M",
+    "seed": "10",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "HARRY WESSELS": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "DILLAN SHAW": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      8
+    ],
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
+  },
+  "MANTAS JUZENAS": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "MIKEY LEWIS": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "JOSHUA DENT": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      18
+    ],
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
+  },
+  "OLIVER FAUBERT": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "PAULIUS MURAUSKAS": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
+  },
+  "ANDREW MCKEEVER": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "TONY DUCKETT": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "RORY HAWKE": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "LIAM CAMPBELL": {
+    "team": "Saint Mary's",
+    "seed": "7",
+    "pts": [
+      15
+    ],
+    "pts_mult": 30,
+    "pts_mult_rounds": [
+      30
+    ]
+  },
+  "JACKSON RASMUSSEN": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      5
+    ],
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
+  },
+  "BRODY ROWBURY": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      3
+    ],
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
+  },
+  "BIKO JOHNSON": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      8
+    ],
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
+  },
+  "KOLTON MITCHELL": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      14
+    ],
+    "pts_mult": 42,
+    "pts_mult_rounds": [
+      42
+    ]
+  },
+  "ISAIAH BRICKNER": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      4
+    ],
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
+  },
+  "EWAN STEELE": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "SETH JOBA": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "MILES KLAPPER": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "JACK PAYNE": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      3
+    ],
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
+  },
+  "TREVON BLASSINGAME": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      8
+    ],
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
+  },
+  "AIDAN SEVILLA": {
+    "team": "Idaho",
+    "seed": "15",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "CHRIS CENAC JR": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      7
+    ],
+    "pts_mult": 7,
+    "pts_mult_rounds": [
+      7
+    ]
+  },
+  "JOSEPH TUGLER": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      13
+    ],
+    "pts_mult": 13,
+    "pts_mult_rounds": [
+      13
+    ]
+  },
+  "KINGSTON FLEMINGS": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      18
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "MILOS UZAN": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      12
+    ],
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
+  },
+  "EMANUEL SHARP": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      16
+    ],
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
+  },
+  "KALIFA SAKHO": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "CHASE MCCARTY": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      2
+    ],
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
+  },
+  "CEDRIC LATH": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "ISIAH HARWELL": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "MERCY MILLER": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      10
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "RAMON WALKER JR": {
+    "team": "Houston",
+    "seed": "2",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "CEDRIC TAYLOR III": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      19
+    ],
+    "pts_mult": 57,
+    "pts_mult_rounds": [
+      57
+    ]
+  },
+  "CAM GILLUS": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      21
+    ],
+    "pts_mult": 63,
+    "pts_mult_rounds": [
+      63
+    ]
+  },
+  "ALEX COTTON": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      3
+    ],
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
+  },
+  "OSE OKOJIE": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      7
+    ],
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
+  },
+  "BRYCE HARRIS": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      21
+    ],
+    "pts_mult": 63,
+    "pts_mult_rounds": [
+      63
+    ]
+  },
+  "TRAVELLE BRYSON": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      7
+    ],
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
+  },
+  "JULIAN JOHNSON": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "CALVIN ROBINS JR": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "DANAS KAZAKEVICIUS": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "JEREMIAH JOHNSON": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "BJ POWELL": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      2
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "ISAIAH BROWN": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "ED HOLLAND III": {
+    "team": "Howard",
+    "seed": "16",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "YAXEL LENDEBORG": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      9
+    ],
+    "pts_mult": 9,
+    "pts_mult_rounds": [
+      9
+    ]
+  },
+  "MOREZ JOHNSON JR": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      21
+    ],
+    "pts_mult": 21,
+    "pts_mult_rounds": [
+      21
+    ]
+  },
+  "ADAY MARA": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      19
+    ],
+    "pts_mult": 19,
+    "pts_mult_rounds": [
+      19
+    ]
+  },
+  "ELLIOT CADEAU": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      5
+    ],
+    "pts_mult": 5,
+    "pts_mult_rounds": [
+      5
+    ]
+  },
+  "NIMARI BURNETT": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      15
+    ],
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
+  },
+  "OSCAR GOODMAN": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "WILL TSCHETTER": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      6
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "MALICK KORDEL": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      2
+    ],
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
+  },
+  "HOWARD EISLEY JR": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "CHARLIE MAY": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "RODDY GAYLE JR": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      14
+    ],
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
+  },
+  "TREY MCKENNEY": {
+    "team": "Michigan",
+    "seed": "1",
+    "pts": [
+      10
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "ROBBIE AVILA": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      12
+    ],
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
+  },
+  "AMARI MCCOTTRY": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      13
+    ],
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
+  },
+  "QUENTIN JONES": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "DION BROWN": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      18
+    ],
+    "pts_mult": 36,
+    "pts_mult_rounds": [
+      36
+    ]
+  },
+  "TREY GREEN": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      7
+    ],
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
+  },
+  "JAX KERR": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "ISHAN SHARMA": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      12
+    ],
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
+  },
+  "PAUL OTIENO": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "BRADY DUNLAP": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
+  },
+  "CAM HUTSON": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "ISAAC HOLMES": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "JADEN SCHERTZ": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "KELLEN THAMES": {
+    "team": "Saint Louis",
+    "seed": "9",
+    "pts": [
+      11
+    ],
+    "pts_mult": 22,
+    "pts_mult_rounds": [
+      22
+    ]
+  },
+  "KANON CATCHINGS": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "KAREEM STAGG": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "SOMTOCHUKWU CYRIL": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "MARCUS MILLENDER": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      13
+    ],
+    "pts_mult": 26,
+    "pts_mult_rounds": [
+      26
+    ]
+  },
+  "BLUE CAIN": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      6
+    ],
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
+  },
+  "JUSTIN ABSON": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "JAKE WILKINS": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "DYLAN JAMES": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "JEREMIAH WILKINSON": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      30
+    ],
+    "pts_mult": 60,
+    "pts_mult_rounds": [
+      60
+    ]
+  },
+  "JUSTIN BAILEY": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
+  },
+  "JORDAN ROSS": {
+    "team": "Georgia",
+    "seed": "8",
+    "pts": [
+      7
+    ],
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
+  },
+  "AMANI LYLES": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      26
+    ],
+    "pts_mult": 52,
+    "pts_mult_rounds": [
+      52
+    ]
+  },
+  "ZACH HALLIGAN": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      1
+    ],
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
+  },
+  "TAVARI JOHNSON": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
+  },
+  "EVAN MAHAFFEY": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      8
+    ],
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
+  },
+  "BOWEN HARDMAN": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "RICH BRISCO": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "CHABI BARRE": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "OGNJEN STANKOVIC": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "CONNER GROCE": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "ERIC MAHAFFEY": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      8
+    ],
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
+  },
+  "SHARRON YOUNG": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      4
+    ],
+    "pts_mult": 8,
+    "pts_mult_rounds": [
+      8
+    ]
+  },
+  "MARVIN MUSIIMEKAMALI": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "SHAMMAH SCOTT": {
+    "team": "Akron",
+    "seed": "12",
+    "pts": [
+      20
+    ],
+    "pts_mult": 40,
+    "pts_mult_rounds": [
+      40
+    ]
+  },
+  "LEJUAN WATTS": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      14
+    ],
+    "pts_mult": 14,
+    "pts_mult_rounds": [
+      14
+    ]
+  },
+  "LUKE BAMGBOYE": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      2
+    ],
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
+  },
+  "JAYLEN PETTY": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      24
+    ],
+    "pts_mult": 24,
+    "pts_mult_rounds": [
+      24
+    ]
+  },
+  "DONOVAN ATWELL": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      15
+    ],
+    "pts_mult": 15,
+    "pts_mult_rounds": [
+      15
+    ]
+  },
+  "CHRISTIAN ANDERSON": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      18
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "MARIAL AKUENTOK": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "JOSIAH MOSELEY": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      16
+    ],
+    "pts_mult": 16,
+    "pts_mult_rounds": [
+      16
+    ]
+  },
+  "NOLAN GROVES": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "LEON HORNER": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      2
+    ],
+    "pts_mult": 2,
+    "pts_mult_rounds": [
+      2
+    ]
+  },
+  "JAZZ HENDERSON": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "JACK FRANCIS": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "TYEREE BRYAN": {
+    "team": "Texas Tech",
+    "seed": "5",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "ELIJAH MAHI": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      20
+    ],
+    "pts_mult": 40,
+    "pts_mult_rounds": [
+      40
+    ]
+  },
+  "BUKKY OBOYE": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      6
+    ],
+    "pts_mult": 12,
+    "pts_mult_rounds": [
+      12
+    ]
+  },
+  "CHRISTIAN HAMMOND": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      9
+    ],
+    "pts_mult": 18,
+    "pts_mult_rounds": [
+      18
+    ]
+  },
+  "JAKE ENSMINGER": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      14
+    ],
+    "pts_mult": 28,
+    "pts_mult_rounds": [
+      28
+    ]
+  },
+  "BRENTON KNAPPER": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      2
+    ],
+    "pts_mult": 4,
+    "pts_mult_rounds": [
+      4
+    ]
+  },
+  "ALLEN GRAVES": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      17
+    ],
+    "pts_mult": 34,
+    "pts_mult_rounds": [
+      34
+    ]
+  },
+  "FRANCIS CHUKWUDEBELU": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "SASH GAVALYUGOV": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      16
+    ],
+    "pts_mult": 32,
+    "pts_mult_rounds": [
+      32
+    ]
+  },
+  "KJ COCHRAN": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "THIERRY DARLAN": {
+    "team": "Santa Clara",
+    "seed": "10",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "ANDRIJA JELAVIC": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "MALACHI MORENO": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
+    ]
+  },
+  "COLLIN CHANDLER": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      5
+    ],
+    "pts_mult": 10,
+    "pts_mult_rounds": [
+      10
+    ]
+  },
+  "OTEGA OWEH": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      35
+    ],
+    "pts_mult": 70,
+    "pts_mult_rounds": [
+      70
+    ]
+  },
+  "DENZEL ABERDEEN": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      16
+    ],
+    "pts_mult": 32,
+    "pts_mult_rounds": [
+      32
+    ]
+  },
+  "MOUHAMED DIOUBATE": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      17
+    ],
+    "pts_mult": 34,
+    "pts_mult_rounds": [
+      34
+    ]
+  },
+  "BRANDON GARRISON": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      10
+    ],
+    "pts_mult": 20,
+    "pts_mult_rounds": [
+      20
+    ]
+  },
+  "JASPER JOHNSON": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      0
+    ],
+    "pts_mult": 0,
+    "pts_mult_rounds": [
+      0
+    ]
+  },
+  "KAM WILLIAMS": {
+    "team": "Kentucky",
+    "seed": "7",
+    "pts": [
+      3
+    ],
+    "pts_mult": 6,
+    "pts_mult_rounds": [
+      6
     ]
   }
 }

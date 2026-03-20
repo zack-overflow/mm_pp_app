@@ -6,6 +6,7 @@ from constants import (
     PLAYER_SCORING_DATA_JSON_FILE_PATH,
     PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH,
     TEAMS_ALIVE_MASK_JSON_FILE_PATH,
+    TEAM_IN_PROGRESS_MASK_JSON_FILE_PATH,
     PROJECTIONS_JSON_FILE_PATH,
     PK_PROJECTIONS_JSON_FILE_PATH,
     ENTRIES_FILE_PATH,
@@ -19,6 +20,7 @@ from perfect_bracket import perfect_bracket
 from get_player_data import get_player_data
 from pick_analysis import get_pick_analysis
 from teams_alive import get_teams_alive_mask
+from teams_in_progress import get_team_in_progress_mask
 from werkzeug.security import generate_password_hash, check_password_hash
 
 app = Flask(__name__)
@@ -63,10 +65,12 @@ def update_bk():
             player_data = payload.get("player_scoring_data", {})
             projection_player_data = payload.get("projection_player_scoring_data")
             teams_alive_mask = payload.get("teams_alive_mask")
+            team_in_progress_mask = payload.get("team_in_progress_mask")
         else:
             player_data = payload
             projection_player_data = None
             teams_alive_mask = None
+            team_in_progress_mask = None
 
         # 2. Write/overwrite the file
         with open(PLAYER_SCORING_DATA_JSON_FILE_PATH, "w") as f:
@@ -79,6 +83,10 @@ def update_bk():
         if teams_alive_mask is not None:
             with open(TEAMS_ALIVE_MASK_JSON_FILE_PATH, "w") as f:
                 json.dump(teams_alive_mask, f, indent=2)
+
+        if team_in_progress_mask is not None:
+            with open(TEAM_IN_PROGRESS_MASK_JSON_FILE_PATH, "w") as f:
+                json.dump(team_in_progress_mask, f, indent=2)
         
         # 3. Log that it was updated
         print(f"Updated {PLAYER_SCORING_DATA_JSON_FILE_PATH} with new data")
@@ -86,6 +94,8 @@ def update_bk():
             print(f"Updated {PROJECTION_PLAYER_SCORING_DATA_JSON_FILE_PATH} with final-only projection data")
         if teams_alive_mask is not None:
             print(f"Updated {TEAMS_ALIVE_MASK_JSON_FILE_PATH} with live team statuses")
+        if team_in_progress_mask is not None:
+            print(f"Updated {TEAM_IN_PROGRESS_MASK_JSON_FILE_PATH} with in-progress team statuses")
 
         return jsonify({"status": "success"}), 200
 
@@ -270,6 +280,7 @@ def projection_inputs():
                 "player_scoring_data": _read_player_scoring_data(),
                 "projection_player_scoring_data": _read_projection_player_scoring_data(),
                 "teams_alive_mask": get_teams_alive_mask(),
+                "team_in_progress_mask": get_team_in_progress_mask(),
                 "player_catalog": player_catalog,
                 "team_seed_map": team_seed_map,
             }

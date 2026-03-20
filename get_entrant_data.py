@@ -7,6 +7,7 @@ from constants import (
     PK_ENTRIES_FILE_PATH,
 )
 from teams_alive import is_team_alive
+from teams_in_progress import is_team_in_progress
 
 
 def get_entrant_data(entrant_name, pikap=False):
@@ -66,7 +67,8 @@ def get_entrant_data(entrant_name, pikap=False):
                 'pts_mult': 'Not played yet',
                 'seed': seed,
                 'team': team,
-                'alive': is_team_alive(team)
+                'alive': is_team_alive(team),
+                'in_progress': is_team_in_progress(team),
             }
             
             print(f"XXXXXXXXXXXX {lookup_name} not found in bookkeeping dict")
@@ -77,6 +79,7 @@ def get_entrant_data(entrant_name, pikap=False):
             if team is not None:
                 entrant_row['team'] = team
             entrant_row['alive'] = is_team_alive(team)
+            entrant_row['in_progress'] = is_team_in_progress(team)
             entrant_results[lookup_name] = entrant_row
     
     return entrant_results
