@@ -1,8 +1,8 @@
 import json
-from constants import PLAYER_SCORING_DATA_JSON_FILE_PATH, ENTRIES_FILE_PATH
+from constants import PLAYER_SCORING_DATA_JSON_FILE_PATH, ENTRIES_FILE_PATH, PK_ENTRIES_FILE_PATH
 from teams_alive import is_team_alive
 
-def get_player_data(player_name):
+def get_player_data(player_name, pikap=False, entries_path=None):
     """
     Returns the player data for a specific player.
     This includes:
@@ -30,10 +30,11 @@ def get_player_data(player_name):
     pts_mult_rounds = list(reversed(player_data.get("pts_mult_rounds", [])))
 
     # Count how many entrants picked this player
+    target_entries_path = entries_path or (PK_ENTRIES_FILE_PATH if pikap else ENTRIES_FILE_PATH)
     picked_by = []
     total_entrants = 0
     try:
-        with open(ENTRIES_FILE_PATH, 'r') as f:
+        with open(target_entries_path, 'r') as f:
             entries = json.load(f)
         total_entrants = len(entries)
         for entrant_name, entry in entries.items():

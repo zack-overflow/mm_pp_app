@@ -179,7 +179,7 @@ def get_player(player_name):
     try:
         # Parse the player name from the URL
         player_name = player_name.replace("-", " ").upper()
-        player_data = get_player_data(player_name)
+        player_data = get_player_data(player_name, pikap=request.path.startswith("/pk/"))
         
         if player_data:
             return jsonify(player_data)
