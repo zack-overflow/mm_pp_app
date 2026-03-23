@@ -427,12 +427,15 @@ def whatif():
 
         # Run both baseline and what-if with same sim count for apples-to-apples comparison
         baseline_snapshot = build_projection_snapshot(inputs, n_sims=n_sims, model=model)
-        whatif_snapshot = build_projection_snapshot(
-            inputs,
-            n_sims=n_sims,
-            forced_winners=forced_winners,
-            model=model,
-        )
+        try:
+            whatif_snapshot = build_projection_snapshot(
+                inputs,
+                n_sims=n_sims,
+                forced_winners=forced_winners,
+                model=model,
+            )
+        except ValueError as e:
+            return jsonify({"error": str(e)}), 400
         whatif_snapshot["baseline"] = baseline_snapshot.get("entrant_projections", [])
         return jsonify(whatif_snapshot)
     except Exception as e:

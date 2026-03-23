@@ -351,8 +351,66 @@ def serialize_bracket_to_json(root: GameNode) -> dict:
     return _serialize_node(root)
 
 
+def _ref_contains_team(ref: TeamRef | GameNode, team_name: str) -> bool:
+    if isinstance(ref, TeamRef):
+        return ref.name == team_name
+    return _ref_contains_team(ref.left, team_name) or _ref_contains_team(ref.right, team_name)
+
+
+def _ref_guarantees_team(ref: TeamRef | GameNode, team_name: str, forced_winners: dict[str, str]) -> bool:
+    if isinstance(ref, TeamRef):
+        return ref.name == team_name
+
+    if ref.locked_winner is not None:
+        return ref.locked_winner == team_name
+
+    return forced_winners.get(ref.label) == team_name
+
+
+def validate_forced_winners(root: GameNode, forced_winners: dict[str, str]) -> None:
+    game_lookup = {game.label: game for game in iter_games(root)}
+
+    for game_label, winner_name in forced_winners.items():
+        game = game_lookup.get(game_label)
+        if game is None:
+            raise ValueError(f"Unknown forced winner game label: {game_label}")
+
+        if game.locked_winner is not None:
+            if game.locked_winner != winner_name:
+                raise ValueError(
+                    f"Game '{game_label}' is already locked to '{game.locked_winner}', not '{winner_name}'"
+                )
+            continue
+
+        if not (_ref_contains_team(game.left, winner_name) or _ref_contains_team(game.right, winner_name)):
+            raise ValueError(f"Team '{winner_name}' is not a valid participant for game '{game_label}'")
+
+        if not (
+            _ref_guarantees_team(game.left, winner_name, forced_winners)
+            or _ref_guarantees_team(game.right, winner_name, forced_winners)
+        ):
+            raise ValueError(
+                f"Team '{winner_name}' is not guaranteed to reach game '{game_label}' from the current forced path"
+            )
+
+
 def apply_forced_winners(root: GameNode, forced_winners: dict[str, str]) -> None:
+    if not forced_winners:
+        return
+
+    validate_forced_winners(root, forced_winners)
+
     for game in iter_games(root):
-        if game.label in forced_winners and game.locked_winner is None:
-            game.locked_winner = forced_winners[game.label]
-            game.forced = True
+        forced_winner = forced_winners.get(game.label)
+        if forced_winner is None:
+            continue
+
+        if game.locked_winner is not None:
+            if game.locked_winner != forced_winner:
+                raise ValueError(
+                    f"Game '{game.label}' is already locked to '{game.locked_winner}', not '{forced_winner}'"
+                )
+            continue
+
+        game.locked_winner = forced_winner
+        game.forced = True

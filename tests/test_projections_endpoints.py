@@ -3,6 +3,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 
 APP_ROOT = Path(__file__).resolve().parents[1]
@@ -114,6 +115,26 @@ class ProjectionEndpointTest(unittest.TestCase):
         self.assertEqual(pk_response.status_code, 200)
         self.assertEqual(pk_response.get_json()["picked_by"], ["Pk One", "Pk Two"])
         self.assertEqual(pk_response.get_json()["total_entrants"], 3)
+
+    def test_whatif_returns_bad_request_for_invalid_forced_winners(self):
+        with patch.object(app_module, "_build_projection_inputs", return_value={}), patch(
+            "projections.pipeline.build_projection_snapshot",
+            side_effect=[
+                {"entrant_projections": []},
+                ValueError("Invalid forced winner path"),
+            ],
+        ):
+            response = self.client.post(
+                "/whatif",
+                json={
+                    "forced_winners": {"region-4-r32-1": "Iowa"},
+                    "n_sims": 100,
+                    "model": "silver",
+                },
+            )
+
+        self.assertEqual(response.status_code, 400)
+        self.assertEqual(response.get_json()["error"], "Invalid forced winner path")
 
 
 if __name__ == "__main__":
