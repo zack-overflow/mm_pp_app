@@ -303,7 +303,6 @@ def build_locked_bracket(
 
     semifinal_pairs = set()
     semifinal_nodes = []
-
     for region_set in ordered_region_sets:
         representative = min(region_set)
         paired_region = frozenset(structure[representative]["f4"])
