@@ -14,7 +14,7 @@ def find_top_players(N=15):
         if data['pts_mult'] > 0:
             # Add the player to the list
             players_list.append({
-                'player': player,
+                'player': data.get('player', player),
                 'pts_mult': data['pts_mult'],
                 'team': data['team']
             })

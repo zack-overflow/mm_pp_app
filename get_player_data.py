@@ -19,11 +19,16 @@ def get_player_data(player_name, pikap=False, entries_path=None):
     with open(PLAYER_SCORING_DATA_JSON_FILE_PATH, 'r') as file:
         data = json.load(file)
 
-    # Check if the player exists in the data
-    if player_name not in data:
-        return None
-
-    player_data = data[player_name]
+    player_data = data.get(player_name)
+    if player_data is None:
+        matches = [
+            row
+            for key, row in data.items()
+            if str(row.get("player", key)).strip().upper() == player_name
+        ]
+        if len(matches) != 1:
+            return None
+        player_data = matches[0]
 
     # Reverse order of points to match the order of rounds without mutating source data
     pts = list(reversed(player_data.get("pts", [])))
@@ -46,7 +51,7 @@ def get_player_data(player_name, pikap=False, entries_path=None):
 
     # Initialize the response dictionary
     response = {
-        "player": player_name,
+        "player": str(player_data.get("player", player_name)).strip().upper(),
         "team": player_data["team"],
         "seed": player_data["seed"],
         "pts": pts,
