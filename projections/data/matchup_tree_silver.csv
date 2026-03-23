@@ -1,0 +1,4033 @@
+Team,Round,P_Team_In_Rnd,Opponent,P_Opp
+Akron,r64,1.0,Texas Tech,1.0
+Akron,r32,0.296,Alabama,0.873
+Akron,r32,0.296,Hofstra,0.127
+Akron,s16,0.068,Georgia,0.072
+Akron,s16,0.068,Saint Louis,0.045
+Akron,s16,0.068,Howard,0.003
+Akron,s16,0.068,Michigan,0.88
+Akron,e8,0.007,Iowa State,0.512
+Akron,e8,0.007,Virginia,0.222
+Akron,e8,0.007,Miami (OH),0.002
+Akron,e8,0.007,Tennessee State,0.0
+Akron,e8,0.007,Santa Clara,0.024
+Akron,e8,0.007,Wright State,0.0
+Akron,e8,0.007,Tennessee,0.156
+Akron,e8,0.007,Kentucky,0.084
+Akron,f4,0.001,Siena,0.0
+Akron,f4,0.001,UConn,0.1349
+Akron,f4,0.001,South Florida,0.005
+Akron,f4,0.001,Furman,0.0
+Akron,f4,0.001,TCU,0.005
+Akron,f4,0.001,UCLA,0.026
+Akron,f4,0.001,Louisville,0.0579
+Akron,f4,0.001,Ohio State,0.024
+Akron,f4,0.001,Northern Iowa,0.002
+Akron,f4,0.001,Michigan State,0.0939
+Akron,f4,0.001,North Dakota State,0.0
+Akron,f4,0.001,St. John's (NY),0.0949
+Akron,f4,0.001,UCF,0.003
+Akron,f4,0.001,California Baptist,0.0
+Akron,f4,0.001,Kansas,0.048
+Akron,f4,0.001,Duke,0.5055
+Akron,reach_champ,0.0,Idaho,0.0
+Akron,reach_champ,0.0,LIU,0.0
+Akron,reach_champ,0.0,Utah State,0.0021
+Akron,reach_champ,0.0,Vanderbilt,0.0328
+Akron,reach_champ,0.0,Nebraska,0.018
+Akron,reach_champ,0.0,Troy,0.0
+Akron,reach_champ,0.0,Wisconsin,0.0138
+Akron,reach_champ,0.0,Gonzaga,0.0487
+Akron,reach_champ,0.0,Prairie View A&M,0.0
+Akron,reach_champ,0.0,Iowa,0.0032
+Akron,reach_champ,0.0,Texas,0.0021
+Akron,reach_champ,0.0,BYU,0.0032
+Akron,reach_champ,0.0,Queens (NC),0.0
+Akron,reach_champ,0.0,Arizona,0.3104
+Akron,reach_champ,0.0,High Point,0.0
+Akron,reach_champ,0.0,Miami (FL),0.0032
+Akron,reach_champ,0.0,Clemson,0.0021
+Akron,reach_champ,0.0,VCU,0.0011
+Akron,reach_champ,0.0,Kennesaw State,0.0
+Akron,reach_champ,0.0,Texas A&M,0.0021
+Akron,reach_champ,0.0,Florida,0.196
+Akron,reach_champ,0.0,Villanova,0.0011
+Akron,reach_champ,0.0,Purdue,0.0869
+Akron,reach_champ,0.0,Hawaii,0.0
+Akron,reach_champ,0.0,Missouri,0.0011
+Akron,reach_champ,0.0,Houston,0.1472
+Akron,reach_champ,0.0,Penn,0.0
+Akron,reach_champ,0.0,Arkansas,0.0233
+Akron,reach_champ,0.0,McNeese,0.0
+Akron,reach_champ,0.0,UNC,0.0011
+Akron,reach_champ,0.0,Saint Mary's,0.0053
+Akron,reach_champ,0.0,Illinois,0.0953
+Alabama,r64,1.0,Hofstra,1.0
+Alabama,r32,0.873,Texas Tech,0.704
+Alabama,r32,0.873,Akron,0.296
+Alabama,s16,0.616,Georgia,0.072
+Alabama,s16,0.616,Saint Louis,0.045
+Alabama,s16,0.616,Howard,0.003
+Alabama,s16,0.616,Michigan,0.88
+Alabama,e8,0.152,Iowa State,0.512
+Alabama,e8,0.152,Virginia,0.222
+Alabama,e8,0.152,Miami (OH),0.002
+Alabama,e8,0.152,Tennessee State,0.0
+Alabama,e8,0.152,Santa Clara,0.024
+Alabama,e8,0.152,Wright State,0.0
+Alabama,e8,0.152,Tennessee,0.156
+Alabama,e8,0.152,Kentucky,0.084
+Alabama,f4,0.063,Siena,0.0
+Alabama,f4,0.063,UConn,0.1349
+Alabama,f4,0.063,South Florida,0.005
+Alabama,f4,0.063,Furman,0.0
+Alabama,f4,0.063,TCU,0.005
+Alabama,f4,0.063,UCLA,0.026
+Alabama,f4,0.063,Louisville,0.0579
+Alabama,f4,0.063,Ohio State,0.024
+Alabama,f4,0.063,Northern Iowa,0.002
+Alabama,f4,0.063,Michigan State,0.0939
+Alabama,f4,0.063,North Dakota State,0.0
+Alabama,f4,0.063,St. John's (NY),0.0949
+Alabama,f4,0.063,UCF,0.003
+Alabama,f4,0.063,California Baptist,0.0
+Alabama,f4,0.063,Kansas,0.048
+Alabama,f4,0.063,Duke,0.5055
+Alabama,reach_champ,0.023,Idaho,0.0
+Alabama,reach_champ,0.023,LIU,0.0
+Alabama,reach_champ,0.023,Utah State,0.0021
+Alabama,reach_champ,0.023,Vanderbilt,0.0328
+Alabama,reach_champ,0.023,Nebraska,0.018
+Alabama,reach_champ,0.023,Troy,0.0
+Alabama,reach_champ,0.023,Wisconsin,0.0138
+Alabama,reach_champ,0.023,Gonzaga,0.0487
+Alabama,reach_champ,0.023,Prairie View A&M,0.0
+Alabama,reach_champ,0.023,Iowa,0.0032
+Alabama,reach_champ,0.023,Texas,0.0021
+Alabama,reach_champ,0.023,BYU,0.0032
+Alabama,reach_champ,0.023,Queens (NC),0.0
+Alabama,reach_champ,0.023,Arizona,0.3104
+Alabama,reach_champ,0.023,High Point,0.0
+Alabama,reach_champ,0.023,Miami (FL),0.0032
+Alabama,reach_champ,0.023,Clemson,0.0021
+Alabama,reach_champ,0.023,VCU,0.0011
+Alabama,reach_champ,0.023,Kennesaw State,0.0
+Alabama,reach_champ,0.023,Texas A&M,0.0021
+Alabama,reach_champ,0.023,Florida,0.196
+Alabama,reach_champ,0.023,Villanova,0.0011
+Alabama,reach_champ,0.023,Purdue,0.0869
+Alabama,reach_champ,0.023,Hawaii,0.0
+Alabama,reach_champ,0.023,Missouri,0.0011
+Alabama,reach_champ,0.023,Houston,0.1472
+Alabama,reach_champ,0.023,Penn,0.0
+Alabama,reach_champ,0.023,Arkansas,0.0233
+Alabama,reach_champ,0.023,McNeese,0.0
+Alabama,reach_champ,0.023,UNC,0.0011
+Alabama,reach_champ,0.023,Saint Mary's,0.0053
+Alabama,reach_champ,0.023,Illinois,0.0953
+Arizona,r64,1.0,LIU,1.0
+Arizona,r32,0.99,Villanova,0.409
+Arizona,r32,0.99,Utah State,0.591
+Arizona,s16,0.89,Arkansas,0.5526
+Arizona,s16,0.89,Wisconsin,0.4034
+Arizona,s16,0.89,High Point,0.033
+Arizona,s16,0.89,Hawaii,0.011
+Arizona,e8,0.721,Purdue,0.4605
+Arizona,e8,0.721,Gonzaga,0.3684
+Arizona,e8,0.721,Texas,0.036
+Arizona,e8,0.721,Missouri,0.029
+Arizona,e8,0.721,BYU,0.0561
+Arizona,e8,0.721,Queens (NC),0.0
+Arizona,e8,0.721,Miami (FL),0.0501
+Arizona,e8,0.721,Kennesaw State,0.0
+Arizona,f4,0.529,Florida,0.3433
+Arizona,f4,0.529,Idaho,0.0
+Arizona,f4,0.529,Illinois,0.1866
+Arizona,f4,0.529,Vanderbilt,0.0788
+Arizona,f4,0.529,Nebraska,0.0489
+Arizona,f4,0.529,Prairie View A&M,0.0
+Arizona,f4,0.529,Iowa,0.012
+Arizona,f4,0.529,Houston,0.2884
+Arizona,f4,0.529,Penn,0.0
+Arizona,f4,0.529,Clemson,0.006
+Arizona,f4,0.529,VCU,0.005
+Arizona,f4,0.529,McNeese,0.001
+Arizona,f4,0.529,Texas A&M,0.007
+Arizona,f4,0.529,UNC,0.005
+Arizona,f4,0.529,Saint Mary's,0.018
+Arizona,f4,0.529,Troy,0.0
+Arizona,reach_champ,0.293,UConn,0.054
+Arizona,reach_champ,0.293,Tennessee,0.017
+Arizona,reach_champ,0.293,South Florida,0.0009
+Arizona,reach_champ,0.293,Hofstra,0.0
+Arizona,reach_champ,0.293,Howard,0.0
+Arizona,reach_champ,0.293,Furman,0.0
+Arizona,reach_champ,0.293,TCU,0.0009
+Arizona,reach_champ,0.293,UCLA,0.0076
+Arizona,reach_champ,0.293,Louisville,0.0227
+Arizona,reach_champ,0.293,Miami (OH),0.0
+Arizona,reach_champ,0.293,Georgia,0.0019
+Arizona,reach_champ,0.293,Akron,0.0
+Arizona,reach_champ,0.293,Santa Clara,0.0009
+Arizona,reach_champ,0.293,St. John's (NY),0.0379
+Arizona,reach_champ,0.293,Alabama,0.0218
+Arizona,reach_champ,0.293,California Baptist,0.0
+Arizona,reach_champ,0.293,Kansas,0.0161
+Arizona,reach_champ,0.293,Duke,0.3097
+Arizona,reach_champ,0.293,Iowa State,0.1184
+Arizona,reach_champ,0.293,Siena,0.0
+Arizona,reach_champ,0.293,Kentucky,0.0085
+Arizona,reach_champ,0.293,Virginia,0.0265
+Arizona,reach_champ,0.293,Michigan,0.3049
+Arizona,reach_champ,0.293,Ohio State,0.0076
+Arizona,reach_champ,0.293,Northern Iowa,0.0
+Arizona,reach_champ,0.293,Texas Tech,0.0038
+Arizona,reach_champ,0.293,Michigan State,0.0369
+Arizona,reach_champ,0.293,Tennessee State,0.0
+Arizona,reach_champ,0.293,Wright State,0.0
+Arizona,reach_champ,0.293,UCF,0.0009
+Arizona,reach_champ,0.293,North Dakota State,0.0
+Arizona,reach_champ,0.293,Saint Louis,0.0009
+Arkansas,r64,1.0,Hawaii,1.0
+Arkansas,r32,0.927,Wisconsin,0.831
+Arkansas,r32,0.927,High Point,0.169
+Arkansas,s16,0.552,Arizona,0.8891
+Arkansas,s16,0.552,Villanova,0.039
+Arkansas,s16,0.552,LIU,0.001
+Arkansas,s16,0.552,Utah State,0.0709
+Arkansas,e8,0.141,Purdue,0.4605
+Arkansas,e8,0.141,Gonzaga,0.3684
+Arkansas,e8,0.141,Texas,0.036
+Arkansas,e8,0.141,Missouri,0.029
+Arkansas,e8,0.141,BYU,0.0561
+Arkansas,e8,0.141,Queens (NC),0.0
+Arkansas,e8,0.141,Miami (FL),0.0501
+Arkansas,e8,0.141,Kennesaw State,0.0
+Arkansas,f4,0.066,Florida,0.3433
+Arkansas,f4,0.066,Idaho,0.0
+Arkansas,f4,0.066,Illinois,0.1866
+Arkansas,f4,0.066,Vanderbilt,0.0788
+Arkansas,f4,0.066,Nebraska,0.0489
+Arkansas,f4,0.066,Prairie View A&M,0.0
+Arkansas,f4,0.066,Iowa,0.012
+Arkansas,f4,0.066,Houston,0.2884
+Arkansas,f4,0.066,Penn,0.0
+Arkansas,f4,0.066,Clemson,0.006
+Arkansas,f4,0.066,VCU,0.005
+Arkansas,f4,0.066,McNeese,0.001
+Arkansas,f4,0.066,Texas A&M,0.007
+Arkansas,f4,0.066,UNC,0.005
+Arkansas,f4,0.066,Saint Mary's,0.018
+Arkansas,f4,0.066,Troy,0.0
+Arkansas,reach_champ,0.022,UConn,0.054
+Arkansas,reach_champ,0.022,Tennessee,0.017
+Arkansas,reach_champ,0.022,South Florida,0.0009
+Arkansas,reach_champ,0.022,Hofstra,0.0
+Arkansas,reach_champ,0.022,Howard,0.0
+Arkansas,reach_champ,0.022,Furman,0.0
+Arkansas,reach_champ,0.022,TCU,0.0009
+Arkansas,reach_champ,0.022,UCLA,0.0076
+Arkansas,reach_champ,0.022,Louisville,0.0227
+Arkansas,reach_champ,0.022,Miami (OH),0.0
+Arkansas,reach_champ,0.022,Georgia,0.0019
+Arkansas,reach_champ,0.022,Akron,0.0
+Arkansas,reach_champ,0.022,Santa Clara,0.0009
+Arkansas,reach_champ,0.022,St. John's (NY),0.0379
+Arkansas,reach_champ,0.022,Alabama,0.0218
+Arkansas,reach_champ,0.022,California Baptist,0.0
+Arkansas,reach_champ,0.022,Kansas,0.0161
+Arkansas,reach_champ,0.022,Duke,0.3097
+Arkansas,reach_champ,0.022,Iowa State,0.1184
+Arkansas,reach_champ,0.022,Siena,0.0
+Arkansas,reach_champ,0.022,Kentucky,0.0085
+Arkansas,reach_champ,0.022,Virginia,0.0265
+Arkansas,reach_champ,0.022,Michigan,0.3049
+Arkansas,reach_champ,0.022,Ohio State,0.0076
+Arkansas,reach_champ,0.022,Northern Iowa,0.0
+Arkansas,reach_champ,0.022,Texas Tech,0.0038
+Arkansas,reach_champ,0.022,Michigan State,0.0369
+Arkansas,reach_champ,0.022,Tennessee State,0.0
+Arkansas,reach_champ,0.022,Wright State,0.0
+Arkansas,reach_champ,0.022,UCF,0.0009
+Arkansas,reach_champ,0.022,North Dakota State,0.0
+Arkansas,reach_champ,0.022,Saint Louis,0.0009
+BYU,r64,1.0,Texas,1.0
+BYU,r32,0.563,Gonzaga,0.964
+BYU,r32,0.563,Kennesaw State,0.036
+BYU,s16,0.166,Queens (NC),0.002
+BYU,s16,0.166,Miami (FL),0.136
+BYU,s16,0.166,Purdue,0.768
+BYU,s16,0.166,Missouri,0.094
+BYU,e8,0.056,LIU,0.0
+BYU,e8,0.056,Utah State,0.028
+BYU,e8,0.056,Wisconsin,0.094
+BYU,e8,0.056,Hawaii,0.001
+BYU,e8,0.056,Arizona,0.721
+BYU,e8,0.056,High Point,0.002
+BYU,e8,0.056,Arkansas,0.141
+BYU,e8,0.056,Villanova,0.013
+BYU,f4,0.012,Florida,0.3433
+BYU,f4,0.012,Idaho,0.0
+BYU,f4,0.012,Illinois,0.1866
+BYU,f4,0.012,Vanderbilt,0.0788
+BYU,f4,0.012,Nebraska,0.0489
+BYU,f4,0.012,Prairie View A&M,0.0
+BYU,f4,0.012,Iowa,0.012
+BYU,f4,0.012,Houston,0.2884
+BYU,f4,0.012,Penn,0.0
+BYU,f4,0.012,Clemson,0.006
+BYU,f4,0.012,VCU,0.005
+BYU,f4,0.012,McNeese,0.001
+BYU,f4,0.012,Texas A&M,0.007
+BYU,f4,0.012,UNC,0.005
+BYU,f4,0.012,Saint Mary's,0.018
+BYU,f4,0.012,Troy,0.0
+BYU,reach_champ,0.003,UConn,0.054
+BYU,reach_champ,0.003,Tennessee,0.017
+BYU,reach_champ,0.003,South Florida,0.0009
+BYU,reach_champ,0.003,Hofstra,0.0
+BYU,reach_champ,0.003,Howard,0.0
+BYU,reach_champ,0.003,Furman,0.0
+BYU,reach_champ,0.003,TCU,0.0009
+BYU,reach_champ,0.003,UCLA,0.0076
+BYU,reach_champ,0.003,Louisville,0.0227
+BYU,reach_champ,0.003,Miami (OH),0.0
+BYU,reach_champ,0.003,Georgia,0.0019
+BYU,reach_champ,0.003,Akron,0.0
+BYU,reach_champ,0.003,Santa Clara,0.0009
+BYU,reach_champ,0.003,St. John's (NY),0.0379
+BYU,reach_champ,0.003,Alabama,0.0218
+BYU,reach_champ,0.003,California Baptist,0.0
+BYU,reach_champ,0.003,Kansas,0.0161
+BYU,reach_champ,0.003,Duke,0.3097
+BYU,reach_champ,0.003,Iowa State,0.1184
+BYU,reach_champ,0.003,Siena,0.0
+BYU,reach_champ,0.003,Kentucky,0.0085
+BYU,reach_champ,0.003,Virginia,0.0265
+BYU,reach_champ,0.003,Michigan,0.3049
+BYU,reach_champ,0.003,Ohio State,0.0076
+BYU,reach_champ,0.003,Northern Iowa,0.0
+BYU,reach_champ,0.003,Texas Tech,0.0038
+BYU,reach_champ,0.003,Michigan State,0.0369
+BYU,reach_champ,0.003,Tennessee State,0.0
+BYU,reach_champ,0.003,Wright State,0.0
+BYU,reach_champ,0.003,UCF,0.0009
+BYU,reach_champ,0.003,North Dakota State,0.0
+BYU,reach_champ,0.003,Saint Louis,0.0009
+California Baptist,r64,1.0,Kansas,1.0
+California Baptist,r32,0.137,Northern Iowa,0.175
+California Baptist,r32,0.137,St. John's (NY),0.825
+California Baptist,s16,0.023,Siena,0.001
+California Baptist,s16,0.023,TCU,0.041
+California Baptist,s16,0.023,Ohio State,0.113
+California Baptist,s16,0.023,Duke,0.845
+California Baptist,e8,0.001,UConn,0.378
+California Baptist,e8,0.001,South Florida,0.031
+California Baptist,e8,0.001,Furman,0.001
+California Baptist,e8,0.001,UCLA,0.105
+California Baptist,e8,0.001,Louisville,0.183
+California Baptist,e8,0.001,Michigan State,0.283
+California Baptist,e8,0.001,UCF,0.018
+California Baptist,e8,0.001,North Dakota State,0.001
+California Baptist,f4,0.0,Iowa State,0.2408
+California Baptist,f4,0.0,Kentucky,0.025
+California Baptist,f4,0.0,Tennessee,0.049
+California Baptist,f4,0.0,Hofstra,0.0
+California Baptist,f4,0.0,Virginia,0.0729
+California Baptist,f4,0.0,Miami (OH),0.0
+California Baptist,f4,0.0,Georgia,0.009
+California Baptist,f4,0.0,Texas Tech,0.015
+California Baptist,f4,0.0,Akron,0.001
+California Baptist,f4,0.0,Tennessee State,0.0
+California Baptist,f4,0.0,Santa Clara,0.005
+California Baptist,f4,0.0,Wright State,0.0
+California Baptist,f4,0.0,Michigan,0.5145
+California Baptist,f4,0.0,Alabama,0.0629
+California Baptist,f4,0.0,Howard,0.0
+California Baptist,f4,0.0,Saint Louis,0.005
+California Baptist,reach_champ,0.0,Idaho,0.0
+California Baptist,reach_champ,0.0,LIU,0.0
+California Baptist,reach_champ,0.0,Utah State,0.0021
+California Baptist,reach_champ,0.0,Vanderbilt,0.0328
+California Baptist,reach_champ,0.0,Nebraska,0.018
+California Baptist,reach_champ,0.0,Troy,0.0
+California Baptist,reach_champ,0.0,Wisconsin,0.0138
+California Baptist,reach_champ,0.0,Gonzaga,0.0487
+California Baptist,reach_champ,0.0,Prairie View A&M,0.0
+California Baptist,reach_champ,0.0,Iowa,0.0032
+California Baptist,reach_champ,0.0,Texas,0.0021
+California Baptist,reach_champ,0.0,BYU,0.0032
+California Baptist,reach_champ,0.0,Queens (NC),0.0
+California Baptist,reach_champ,0.0,Arizona,0.3104
+California Baptist,reach_champ,0.0,High Point,0.0
+California Baptist,reach_champ,0.0,Miami (FL),0.0032
+California Baptist,reach_champ,0.0,Clemson,0.0021
+California Baptist,reach_champ,0.0,VCU,0.0011
+California Baptist,reach_champ,0.0,Kennesaw State,0.0
+California Baptist,reach_champ,0.0,Texas A&M,0.0021
+California Baptist,reach_champ,0.0,Florida,0.196
+California Baptist,reach_champ,0.0,Villanova,0.0011
+California Baptist,reach_champ,0.0,Purdue,0.0869
+California Baptist,reach_champ,0.0,Hawaii,0.0
+California Baptist,reach_champ,0.0,Missouri,0.0011
+California Baptist,reach_champ,0.0,Houston,0.1472
+California Baptist,reach_champ,0.0,Penn,0.0
+California Baptist,reach_champ,0.0,Arkansas,0.0233
+California Baptist,reach_champ,0.0,McNeese,0.0
+California Baptist,reach_champ,0.0,UNC,0.0011
+California Baptist,reach_champ,0.0,Saint Mary's,0.0053
+California Baptist,reach_champ,0.0,Illinois,0.0953
+Clemson,r64,1.0,Iowa,1.0
+Clemson,r32,0.403,Florida,0.992
+Clemson,r32,0.403,Prairie View A&M,0.008
+Clemson,s16,0.062,Vanderbilt,0.501
+Clemson,s16,0.062,McNeese,0.045
+Clemson,s16,0.062,Nebraska,0.447
+Clemson,s16,0.062,Troy,0.007
+Clemson,e8,0.023,Idaho,0.0
+Clemson,e8,0.023,Houston,0.4925
+Clemson,e8,0.023,Penn,0.0
+Clemson,e8,0.023,VCU,0.022
+Clemson,e8,0.023,Texas A&M,0.029
+Clemson,e8,0.023,UNC,0.022
+Clemson,e8,0.023,Saint Mary's,0.0579
+Clemson,e8,0.023,Illinois,0.3766
+Clemson,f4,0.006,LIU,0.0
+Clemson,f4,0.006,Utah State,0.01
+Clemson,f4,0.006,Wisconsin,0.04
+Clemson,f4,0.006,Purdue,0.1818
+Clemson,f4,0.006,Gonzaga,0.1339
+Clemson,f4,0.006,Hawaii,0.0
+Clemson,f4,0.006,Texas,0.007
+Clemson,f4,0.006,Missouri,0.005
+Clemson,f4,0.006,BYU,0.012
+Clemson,f4,0.006,Queens (NC),0.0
+Clemson,f4,0.006,Arizona,0.5285
+Clemson,f4,0.006,High Point,0.001
+Clemson,f4,0.006,Miami (FL),0.011
+Clemson,f4,0.006,Kennesaw State,0.0
+Clemson,f4,0.006,Arkansas,0.0659
+Clemson,f4,0.006,Villanova,0.004
+Clemson,reach_champ,0.002,UConn,0.054
+Clemson,reach_champ,0.002,Tennessee,0.017
+Clemson,reach_champ,0.002,South Florida,0.0009
+Clemson,reach_champ,0.002,Hofstra,0.0
+Clemson,reach_champ,0.002,Howard,0.0
+Clemson,reach_champ,0.002,Furman,0.0
+Clemson,reach_champ,0.002,TCU,0.0009
+Clemson,reach_champ,0.002,UCLA,0.0076
+Clemson,reach_champ,0.002,Louisville,0.0227
+Clemson,reach_champ,0.002,Miami (OH),0.0
+Clemson,reach_champ,0.002,Georgia,0.0019
+Clemson,reach_champ,0.002,Akron,0.0
+Clemson,reach_champ,0.002,Santa Clara,0.0009
+Clemson,reach_champ,0.002,St. John's (NY),0.0379
+Clemson,reach_champ,0.002,Alabama,0.0218
+Clemson,reach_champ,0.002,California Baptist,0.0
+Clemson,reach_champ,0.002,Kansas,0.0161
+Clemson,reach_champ,0.002,Duke,0.3097
+Clemson,reach_champ,0.002,Iowa State,0.1184
+Clemson,reach_champ,0.002,Siena,0.0
+Clemson,reach_champ,0.002,Kentucky,0.0085
+Clemson,reach_champ,0.002,Virginia,0.0265
+Clemson,reach_champ,0.002,Michigan,0.3049
+Clemson,reach_champ,0.002,Ohio State,0.0076
+Clemson,reach_champ,0.002,Northern Iowa,0.0
+Clemson,reach_champ,0.002,Texas Tech,0.0038
+Clemson,reach_champ,0.002,Michigan State,0.0369
+Clemson,reach_champ,0.002,Tennessee State,0.0
+Clemson,reach_champ,0.002,Wright State,0.0
+Clemson,reach_champ,0.002,UCF,0.0009
+Clemson,reach_champ,0.002,North Dakota State,0.0
+Clemson,reach_champ,0.002,Saint Louis,0.0009
+Duke,r64,1.0,Siena,1.0
+Duke,r32,0.988,TCU,0.358
+Duke,r32,0.988,Ohio State,0.642
+Duke,s16,0.845,Northern Iowa,0.0539
+Duke,s16,0.845,St. John's (NY),0.5065
+Duke,s16,0.845,California Baptist,0.023
+Duke,s16,0.845,Kansas,0.4166
+Duke,e8,0.658,UConn,0.378
+Duke,e8,0.658,South Florida,0.031
+Duke,e8,0.658,Furman,0.001
+Duke,e8,0.658,UCLA,0.105
+Duke,e8,0.658,Louisville,0.183
+Duke,e8,0.658,Michigan State,0.283
+Duke,e8,0.658,UCF,0.018
+Duke,e8,0.658,North Dakota State,0.001
+Duke,f4,0.506,Iowa State,0.2408
+Duke,f4,0.506,Kentucky,0.025
+Duke,f4,0.506,Tennessee,0.049
+Duke,f4,0.506,Hofstra,0.0
+Duke,f4,0.506,Virginia,0.0729
+Duke,f4,0.506,Miami (OH),0.0
+Duke,f4,0.506,Georgia,0.009
+Duke,f4,0.506,Texas Tech,0.015
+Duke,f4,0.506,Akron,0.001
+Duke,f4,0.506,Tennessee State,0.0
+Duke,f4,0.506,Santa Clara,0.005
+Duke,f4,0.506,Wright State,0.0
+Duke,f4,0.506,Michigan,0.5145
+Duke,f4,0.506,Alabama,0.0629
+Duke,f4,0.506,Howard,0.0
+Duke,f4,0.506,Saint Louis,0.005
+Duke,reach_champ,0.327,Idaho,0.0
+Duke,reach_champ,0.327,LIU,0.0
+Duke,reach_champ,0.327,Utah State,0.0021
+Duke,reach_champ,0.327,Vanderbilt,0.0328
+Duke,reach_champ,0.327,Nebraska,0.018
+Duke,reach_champ,0.327,Troy,0.0
+Duke,reach_champ,0.327,Wisconsin,0.0138
+Duke,reach_champ,0.327,Gonzaga,0.0487
+Duke,reach_champ,0.327,Prairie View A&M,0.0
+Duke,reach_champ,0.327,Iowa,0.0032
+Duke,reach_champ,0.327,Texas,0.0021
+Duke,reach_champ,0.327,BYU,0.0032
+Duke,reach_champ,0.327,Queens (NC),0.0
+Duke,reach_champ,0.327,Arizona,0.3104
+Duke,reach_champ,0.327,High Point,0.0
+Duke,reach_champ,0.327,Miami (FL),0.0032
+Duke,reach_champ,0.327,Clemson,0.0021
+Duke,reach_champ,0.327,VCU,0.0011
+Duke,reach_champ,0.327,Kennesaw State,0.0
+Duke,reach_champ,0.327,Texas A&M,0.0021
+Duke,reach_champ,0.327,Florida,0.196
+Duke,reach_champ,0.327,Villanova,0.0011
+Duke,reach_champ,0.327,Purdue,0.0869
+Duke,reach_champ,0.327,Hawaii,0.0
+Duke,reach_champ,0.327,Missouri,0.0011
+Duke,reach_champ,0.327,Houston,0.1472
+Duke,reach_champ,0.327,Penn,0.0
+Duke,reach_champ,0.327,Arkansas,0.0233
+Duke,reach_champ,0.327,McNeese,0.0
+Duke,reach_champ,0.327,UNC,0.0011
+Duke,reach_champ,0.327,Saint Mary's,0.0053
+Duke,reach_champ,0.327,Illinois,0.0953
+Florida,r64,1.0,Prairie View A&M,1.0
+Florida,r32,0.992,Iowa,0.597
+Florida,r32,0.992,Clemson,0.403
+Florida,s16,0.836,Vanderbilt,0.501
+Florida,s16,0.836,McNeese,0.045
+Florida,s16,0.836,Nebraska,0.447
+Florida,s16,0.836,Troy,0.007
+Florida,e8,0.601,Idaho,0.0
+Florida,e8,0.601,Houston,0.4925
+Florida,e8,0.601,Penn,0.0
+Florida,e8,0.601,VCU,0.022
+Florida,e8,0.601,Texas A&M,0.029
+Florida,e8,0.601,UNC,0.022
+Florida,e8,0.601,Saint Mary's,0.0579
+Florida,e8,0.601,Illinois,0.3766
+Florida,f4,0.344,LIU,0.0
+Florida,f4,0.344,Utah State,0.01
+Florida,f4,0.344,Wisconsin,0.04
+Florida,f4,0.344,Purdue,0.1818
+Florida,f4,0.344,Gonzaga,0.1339
+Florida,f4,0.344,Hawaii,0.0
+Florida,f4,0.344,Texas,0.007
+Florida,f4,0.344,Missouri,0.005
+Florida,f4,0.344,BYU,0.012
+Florida,f4,0.344,Queens (NC),0.0
+Florida,f4,0.344,Arizona,0.5285
+Florida,f4,0.344,High Point,0.001
+Florida,f4,0.344,Miami (FL),0.011
+Florida,f4,0.344,Kennesaw State,0.0
+Florida,f4,0.344,Arkansas,0.0659
+Florida,f4,0.344,Villanova,0.004
+Florida,reach_champ,0.185,UConn,0.054
+Florida,reach_champ,0.185,Tennessee,0.017
+Florida,reach_champ,0.185,South Florida,0.0009
+Florida,reach_champ,0.185,Hofstra,0.0
+Florida,reach_champ,0.185,Howard,0.0
+Florida,reach_champ,0.185,Furman,0.0
+Florida,reach_champ,0.185,TCU,0.0009
+Florida,reach_champ,0.185,UCLA,0.0076
+Florida,reach_champ,0.185,Louisville,0.0227
+Florida,reach_champ,0.185,Miami (OH),0.0
+Florida,reach_champ,0.185,Georgia,0.0019
+Florida,reach_champ,0.185,Akron,0.0
+Florida,reach_champ,0.185,Santa Clara,0.0009
+Florida,reach_champ,0.185,St. John's (NY),0.0379
+Florida,reach_champ,0.185,Alabama,0.0218
+Florida,reach_champ,0.185,California Baptist,0.0
+Florida,reach_champ,0.185,Kansas,0.0161
+Florida,reach_champ,0.185,Duke,0.3097
+Florida,reach_champ,0.185,Iowa State,0.1184
+Florida,reach_champ,0.185,Siena,0.0
+Florida,reach_champ,0.185,Kentucky,0.0085
+Florida,reach_champ,0.185,Virginia,0.0265
+Florida,reach_champ,0.185,Michigan,0.3049
+Florida,reach_champ,0.185,Ohio State,0.0076
+Florida,reach_champ,0.185,Northern Iowa,0.0
+Florida,reach_champ,0.185,Texas Tech,0.0038
+Florida,reach_champ,0.185,Michigan State,0.0369
+Florida,reach_champ,0.185,Tennessee State,0.0
+Florida,reach_champ,0.185,Wright State,0.0
+Florida,reach_champ,0.185,UCF,0.0009
+Florida,reach_champ,0.185,North Dakota State,0.0
+Florida,reach_champ,0.185,Saint Louis,0.0009
+Furman,r64,1.0,UConn,1.0
+Furman,r32,0.058,UCF,0.308
+Furman,r32,0.058,UCLA,0.692
+Furman,s16,0.009,North Dakota State,0.01
+Furman,s16,0.009,Michigan State,0.54
+Furman,s16,0.009,Louisville,0.356
+Furman,s16,0.009,South Florida,0.094
+Furman,e8,0.001,Siena,0.0
+Furman,e8,0.001,TCU,0.014
+Furman,e8,0.001,Ohio State,0.053
+Furman,e8,0.001,Northern Iowa,0.007
+Furman,e8,0.001,St. John's (NY),0.166
+Furman,e8,0.001,California Baptist,0.001
+Furman,e8,0.001,Kansas,0.101
+Furman,e8,0.001,Duke,0.658
+Furman,f4,0.0,Iowa State,0.2408
+Furman,f4,0.0,Kentucky,0.025
+Furman,f4,0.0,Tennessee,0.049
+Furman,f4,0.0,Hofstra,0.0
+Furman,f4,0.0,Virginia,0.0729
+Furman,f4,0.0,Miami (OH),0.0
+Furman,f4,0.0,Georgia,0.009
+Furman,f4,0.0,Texas Tech,0.015
+Furman,f4,0.0,Akron,0.001
+Furman,f4,0.0,Tennessee State,0.0
+Furman,f4,0.0,Santa Clara,0.005
+Furman,f4,0.0,Wright State,0.0
+Furman,f4,0.0,Michigan,0.5145
+Furman,f4,0.0,Alabama,0.0629
+Furman,f4,0.0,Howard,0.0
+Furman,f4,0.0,Saint Louis,0.005
+Furman,reach_champ,0.0,Idaho,0.0
+Furman,reach_champ,0.0,LIU,0.0
+Furman,reach_champ,0.0,Utah State,0.0021
+Furman,reach_champ,0.0,Vanderbilt,0.0328
+Furman,reach_champ,0.0,Nebraska,0.018
+Furman,reach_champ,0.0,Troy,0.0
+Furman,reach_champ,0.0,Wisconsin,0.0138
+Furman,reach_champ,0.0,Gonzaga,0.0487
+Furman,reach_champ,0.0,Prairie View A&M,0.0
+Furman,reach_champ,0.0,Iowa,0.0032
+Furman,reach_champ,0.0,Texas,0.0021
+Furman,reach_champ,0.0,BYU,0.0032
+Furman,reach_champ,0.0,Queens (NC),0.0
+Furman,reach_champ,0.0,Arizona,0.3104
+Furman,reach_champ,0.0,High Point,0.0
+Furman,reach_champ,0.0,Miami (FL),0.0032
+Furman,reach_champ,0.0,Clemson,0.0021
+Furman,reach_champ,0.0,VCU,0.0011
+Furman,reach_champ,0.0,Kennesaw State,0.0
+Furman,reach_champ,0.0,Texas A&M,0.0021
+Furman,reach_champ,0.0,Florida,0.196
+Furman,reach_champ,0.0,Villanova,0.0011
+Furman,reach_champ,0.0,Purdue,0.0869
+Furman,reach_champ,0.0,Hawaii,0.0
+Furman,reach_champ,0.0,Missouri,0.0011
+Furman,reach_champ,0.0,Houston,0.1472
+Furman,reach_champ,0.0,Penn,0.0
+Furman,reach_champ,0.0,Arkansas,0.0233
+Furman,reach_champ,0.0,McNeese,0.0
+Furman,reach_champ,0.0,UNC,0.0011
+Furman,reach_champ,0.0,Saint Mary's,0.0053
+Furman,reach_champ,0.0,Illinois,0.0953
+Georgia,r64,1.0,Saint Louis,1.0
+Georgia,r32,0.574,Howard,0.019
+Georgia,r32,0.574,Michigan,0.981
+Georgia,s16,0.072,Texas Tech,0.2767
+Georgia,s16,0.072,Akron,0.0679
+Georgia,s16,0.072,Hofstra,0.04
+Georgia,s16,0.072,Alabama,0.6154
+Georgia,e8,0.032,Iowa State,0.512
+Georgia,e8,0.032,Virginia,0.222
+Georgia,e8,0.032,Miami (OH),0.002
+Georgia,e8,0.032,Tennessee State,0.0
+Georgia,e8,0.032,Santa Clara,0.024
+Georgia,e8,0.032,Wright State,0.0
+Georgia,e8,0.032,Tennessee,0.156
+Georgia,e8,0.032,Kentucky,0.084
+Georgia,f4,0.009,Siena,0.0
+Georgia,f4,0.009,UConn,0.1349
+Georgia,f4,0.009,South Florida,0.005
+Georgia,f4,0.009,Furman,0.0
+Georgia,f4,0.009,TCU,0.005
+Georgia,f4,0.009,UCLA,0.026
+Georgia,f4,0.009,Louisville,0.0579
+Georgia,f4,0.009,Ohio State,0.024
+Georgia,f4,0.009,Northern Iowa,0.002
+Georgia,f4,0.009,Michigan State,0.0939
+Georgia,f4,0.009,North Dakota State,0.0
+Georgia,f4,0.009,St. John's (NY),0.0949
+Georgia,f4,0.009,UCF,0.003
+Georgia,f4,0.009,California Baptist,0.0
+Georgia,f4,0.009,Kansas,0.048
+Georgia,f4,0.009,Duke,0.5055
+Georgia,reach_champ,0.002,Idaho,0.0
+Georgia,reach_champ,0.002,LIU,0.0
+Georgia,reach_champ,0.002,Utah State,0.0021
+Georgia,reach_champ,0.002,Vanderbilt,0.0328
+Georgia,reach_champ,0.002,Nebraska,0.018
+Georgia,reach_champ,0.002,Troy,0.0
+Georgia,reach_champ,0.002,Wisconsin,0.0138
+Georgia,reach_champ,0.002,Gonzaga,0.0487
+Georgia,reach_champ,0.002,Prairie View A&M,0.0
+Georgia,reach_champ,0.002,Iowa,0.0032
+Georgia,reach_champ,0.002,Texas,0.0021
+Georgia,reach_champ,0.002,BYU,0.0032
+Georgia,reach_champ,0.002,Queens (NC),0.0
+Georgia,reach_champ,0.002,Arizona,0.3104
+Georgia,reach_champ,0.002,High Point,0.0
+Georgia,reach_champ,0.002,Miami (FL),0.0032
+Georgia,reach_champ,0.002,Clemson,0.0021
+Georgia,reach_champ,0.002,VCU,0.0011
+Georgia,reach_champ,0.002,Kennesaw State,0.0
+Georgia,reach_champ,0.002,Texas A&M,0.0021
+Georgia,reach_champ,0.002,Florida,0.196
+Georgia,reach_champ,0.002,Villanova,0.0011
+Georgia,reach_champ,0.002,Purdue,0.0869
+Georgia,reach_champ,0.002,Hawaii,0.0
+Georgia,reach_champ,0.002,Missouri,0.0011
+Georgia,reach_champ,0.002,Houston,0.1472
+Georgia,reach_champ,0.002,Penn,0.0
+Georgia,reach_champ,0.002,Arkansas,0.0233
+Georgia,reach_champ,0.002,McNeese,0.0
+Georgia,reach_champ,0.002,UNC,0.0011
+Georgia,reach_champ,0.002,Saint Mary's,0.0053
+Georgia,reach_champ,0.002,Illinois,0.0953
+Gonzaga,r64,1.0,Kennesaw State,1.0
+Gonzaga,r32,0.965,Texas,0.437
+Gonzaga,r32,0.965,BYU,0.563
+Gonzaga,s16,0.714,Queens (NC),0.002
+Gonzaga,s16,0.714,Miami (FL),0.136
+Gonzaga,s16,0.714,Purdue,0.768
+Gonzaga,s16,0.714,Missouri,0.094
+Gonzaga,e8,0.368,LIU,0.0
+Gonzaga,e8,0.368,Utah State,0.028
+Gonzaga,e8,0.368,Wisconsin,0.094
+Gonzaga,e8,0.368,Hawaii,0.001
+Gonzaga,e8,0.368,Arizona,0.721
+Gonzaga,e8,0.368,High Point,0.002
+Gonzaga,e8,0.368,Arkansas,0.141
+Gonzaga,e8,0.368,Villanova,0.013
+Gonzaga,f4,0.134,Florida,0.3433
+Gonzaga,f4,0.134,Idaho,0.0
+Gonzaga,f4,0.134,Illinois,0.1866
+Gonzaga,f4,0.134,Vanderbilt,0.0788
+Gonzaga,f4,0.134,Nebraska,0.0489
+Gonzaga,f4,0.134,Prairie View A&M,0.0
+Gonzaga,f4,0.134,Iowa,0.012
+Gonzaga,f4,0.134,Houston,0.2884
+Gonzaga,f4,0.134,Penn,0.0
+Gonzaga,f4,0.134,Clemson,0.006
+Gonzaga,f4,0.134,VCU,0.005
+Gonzaga,f4,0.134,McNeese,0.001
+Gonzaga,f4,0.134,Texas A&M,0.007
+Gonzaga,f4,0.134,UNC,0.005
+Gonzaga,f4,0.134,Saint Mary's,0.018
+Gonzaga,f4,0.134,Troy,0.0
+Gonzaga,reach_champ,0.046,UConn,0.054
+Gonzaga,reach_champ,0.046,Tennessee,0.017
+Gonzaga,reach_champ,0.046,South Florida,0.0009
+Gonzaga,reach_champ,0.046,Hofstra,0.0
+Gonzaga,reach_champ,0.046,Howard,0.0
+Gonzaga,reach_champ,0.046,Furman,0.0
+Gonzaga,reach_champ,0.046,TCU,0.0009
+Gonzaga,reach_champ,0.046,UCLA,0.0076
+Gonzaga,reach_champ,0.046,Louisville,0.0227
+Gonzaga,reach_champ,0.046,Miami (OH),0.0
+Gonzaga,reach_champ,0.046,Georgia,0.0019
+Gonzaga,reach_champ,0.046,Akron,0.0
+Gonzaga,reach_champ,0.046,Santa Clara,0.0009
+Gonzaga,reach_champ,0.046,St. John's (NY),0.0379
+Gonzaga,reach_champ,0.046,Alabama,0.0218
+Gonzaga,reach_champ,0.046,California Baptist,0.0
+Gonzaga,reach_champ,0.046,Kansas,0.0161
+Gonzaga,reach_champ,0.046,Duke,0.3097
+Gonzaga,reach_champ,0.046,Iowa State,0.1184
+Gonzaga,reach_champ,0.046,Siena,0.0
+Gonzaga,reach_champ,0.046,Kentucky,0.0085
+Gonzaga,reach_champ,0.046,Virginia,0.0265
+Gonzaga,reach_champ,0.046,Michigan,0.3049
+Gonzaga,reach_champ,0.046,Ohio State,0.0076
+Gonzaga,reach_champ,0.046,Northern Iowa,0.0
+Gonzaga,reach_champ,0.046,Texas Tech,0.0038
+Gonzaga,reach_champ,0.046,Michigan State,0.0369
+Gonzaga,reach_champ,0.046,Tennessee State,0.0
+Gonzaga,reach_champ,0.046,Wright State,0.0
+Gonzaga,reach_champ,0.046,UCF,0.0009
+Gonzaga,reach_champ,0.046,North Dakota State,0.0
+Gonzaga,reach_champ,0.046,Saint Louis,0.0009
+Hawaii,r64,1.0,Arkansas,1.0
+Hawaii,r32,0.073,Wisconsin,0.831
+Hawaii,r32,0.073,High Point,0.169
+Hawaii,s16,0.011,Arizona,0.8891
+Hawaii,s16,0.011,Villanova,0.039
+Hawaii,s16,0.011,LIU,0.001
+Hawaii,s16,0.011,Utah State,0.0709
+Hawaii,e8,0.001,Purdue,0.4605
+Hawaii,e8,0.001,Gonzaga,0.3684
+Hawaii,e8,0.001,Texas,0.036
+Hawaii,e8,0.001,Missouri,0.029
+Hawaii,e8,0.001,BYU,0.0561
+Hawaii,e8,0.001,Queens (NC),0.0
+Hawaii,e8,0.001,Miami (FL),0.0501
+Hawaii,e8,0.001,Kennesaw State,0.0
+Hawaii,f4,0.0,Florida,0.3433
+Hawaii,f4,0.0,Idaho,0.0
+Hawaii,f4,0.0,Illinois,0.1866
+Hawaii,f4,0.0,Vanderbilt,0.0788
+Hawaii,f4,0.0,Nebraska,0.0489
+Hawaii,f4,0.0,Prairie View A&M,0.0
+Hawaii,f4,0.0,Iowa,0.012
+Hawaii,f4,0.0,Houston,0.2884
+Hawaii,f4,0.0,Penn,0.0
+Hawaii,f4,0.0,Clemson,0.006
+Hawaii,f4,0.0,VCU,0.005
+Hawaii,f4,0.0,McNeese,0.001
+Hawaii,f4,0.0,Texas A&M,0.007
+Hawaii,f4,0.0,UNC,0.005
+Hawaii,f4,0.0,Saint Mary's,0.018
+Hawaii,f4,0.0,Troy,0.0
+Hawaii,reach_champ,0.0,UConn,0.054
+Hawaii,reach_champ,0.0,Tennessee,0.017
+Hawaii,reach_champ,0.0,South Florida,0.0009
+Hawaii,reach_champ,0.0,Hofstra,0.0
+Hawaii,reach_champ,0.0,Howard,0.0
+Hawaii,reach_champ,0.0,Furman,0.0
+Hawaii,reach_champ,0.0,TCU,0.0009
+Hawaii,reach_champ,0.0,UCLA,0.0076
+Hawaii,reach_champ,0.0,Louisville,0.0227
+Hawaii,reach_champ,0.0,Miami (OH),0.0
+Hawaii,reach_champ,0.0,Georgia,0.0019
+Hawaii,reach_champ,0.0,Akron,0.0
+Hawaii,reach_champ,0.0,Santa Clara,0.0009
+Hawaii,reach_champ,0.0,St. John's (NY),0.0379
+Hawaii,reach_champ,0.0,Alabama,0.0218
+Hawaii,reach_champ,0.0,California Baptist,0.0
+Hawaii,reach_champ,0.0,Kansas,0.0161
+Hawaii,reach_champ,0.0,Duke,0.3097
+Hawaii,reach_champ,0.0,Iowa State,0.1184
+Hawaii,reach_champ,0.0,Siena,0.0
+Hawaii,reach_champ,0.0,Kentucky,0.0085
+Hawaii,reach_champ,0.0,Virginia,0.0265
+Hawaii,reach_champ,0.0,Michigan,0.3049
+Hawaii,reach_champ,0.0,Ohio State,0.0076
+Hawaii,reach_champ,0.0,Northern Iowa,0.0
+Hawaii,reach_champ,0.0,Texas Tech,0.0038
+Hawaii,reach_champ,0.0,Michigan State,0.0369
+Hawaii,reach_champ,0.0,Tennessee State,0.0
+Hawaii,reach_champ,0.0,Wright State,0.0
+Hawaii,reach_champ,0.0,UCF,0.0009
+Hawaii,reach_champ,0.0,North Dakota State,0.0
+Hawaii,reach_champ,0.0,Saint Louis,0.0009
+High Point,r64,1.0,Wisconsin,1.0
+High Point,r32,0.169,Arkansas,0.927
+High Point,r32,0.169,Hawaii,0.073
+High Point,s16,0.033,Arizona,0.8891
+High Point,s16,0.033,Villanova,0.039
+High Point,s16,0.033,LIU,0.001
+High Point,s16,0.033,Utah State,0.0709
+High Point,e8,0.002,Purdue,0.4605
+High Point,e8,0.002,Gonzaga,0.3684
+High Point,e8,0.002,Texas,0.036
+High Point,e8,0.002,Missouri,0.029
+High Point,e8,0.002,BYU,0.0561
+High Point,e8,0.002,Queens (NC),0.0
+High Point,e8,0.002,Miami (FL),0.0501
+High Point,e8,0.002,Kennesaw State,0.0
+High Point,f4,0.001,Florida,0.3433
+High Point,f4,0.001,Idaho,0.0
+High Point,f4,0.001,Illinois,0.1866
+High Point,f4,0.001,Vanderbilt,0.0788
+High Point,f4,0.001,Nebraska,0.0489
+High Point,f4,0.001,Prairie View A&M,0.0
+High Point,f4,0.001,Iowa,0.012
+High Point,f4,0.001,Houston,0.2884
+High Point,f4,0.001,Penn,0.0
+High Point,f4,0.001,Clemson,0.006
+High Point,f4,0.001,VCU,0.005
+High Point,f4,0.001,McNeese,0.001
+High Point,f4,0.001,Texas A&M,0.007
+High Point,f4,0.001,UNC,0.005
+High Point,f4,0.001,Saint Mary's,0.018
+High Point,f4,0.001,Troy,0.0
+High Point,reach_champ,0.0,UConn,0.054
+High Point,reach_champ,0.0,Tennessee,0.017
+High Point,reach_champ,0.0,South Florida,0.0009
+High Point,reach_champ,0.0,Hofstra,0.0
+High Point,reach_champ,0.0,Howard,0.0
+High Point,reach_champ,0.0,Furman,0.0
+High Point,reach_champ,0.0,TCU,0.0009
+High Point,reach_champ,0.0,UCLA,0.0076
+High Point,reach_champ,0.0,Louisville,0.0227
+High Point,reach_champ,0.0,Miami (OH),0.0
+High Point,reach_champ,0.0,Georgia,0.0019
+High Point,reach_champ,0.0,Akron,0.0
+High Point,reach_champ,0.0,Santa Clara,0.0009
+High Point,reach_champ,0.0,St. John's (NY),0.0379
+High Point,reach_champ,0.0,Alabama,0.0218
+High Point,reach_champ,0.0,California Baptist,0.0
+High Point,reach_champ,0.0,Kansas,0.0161
+High Point,reach_champ,0.0,Duke,0.3097
+High Point,reach_champ,0.0,Iowa State,0.1184
+High Point,reach_champ,0.0,Siena,0.0
+High Point,reach_champ,0.0,Kentucky,0.0085
+High Point,reach_champ,0.0,Virginia,0.0265
+High Point,reach_champ,0.0,Michigan,0.3049
+High Point,reach_champ,0.0,Ohio State,0.0076
+High Point,reach_champ,0.0,Northern Iowa,0.0
+High Point,reach_champ,0.0,Texas Tech,0.0038
+High Point,reach_champ,0.0,Michigan State,0.0369
+High Point,reach_champ,0.0,Tennessee State,0.0
+High Point,reach_champ,0.0,Wright State,0.0
+High Point,reach_champ,0.0,UCF,0.0009
+High Point,reach_champ,0.0,North Dakota State,0.0
+High Point,reach_champ,0.0,Saint Louis,0.0009
+Hofstra,r64,1.0,Alabama,1.0
+Hofstra,r32,0.127,Texas Tech,0.704
+Hofstra,r32,0.127,Akron,0.296
+Hofstra,s16,0.04,Georgia,0.072
+Hofstra,s16,0.04,Saint Louis,0.045
+Hofstra,s16,0.04,Howard,0.003
+Hofstra,s16,0.04,Michigan,0.88
+Hofstra,e8,0.003,Iowa State,0.512
+Hofstra,e8,0.003,Virginia,0.222
+Hofstra,e8,0.003,Miami (OH),0.002
+Hofstra,e8,0.003,Tennessee State,0.0
+Hofstra,e8,0.003,Santa Clara,0.024
+Hofstra,e8,0.003,Wright State,0.0
+Hofstra,e8,0.003,Tennessee,0.156
+Hofstra,e8,0.003,Kentucky,0.084
+Hofstra,f4,0.0,Siena,0.0
+Hofstra,f4,0.0,UConn,0.1349
+Hofstra,f4,0.0,South Florida,0.005
+Hofstra,f4,0.0,Furman,0.0
+Hofstra,f4,0.0,TCU,0.005
+Hofstra,f4,0.0,UCLA,0.026
+Hofstra,f4,0.0,Louisville,0.0579
+Hofstra,f4,0.0,Ohio State,0.024
+Hofstra,f4,0.0,Northern Iowa,0.002
+Hofstra,f4,0.0,Michigan State,0.0939
+Hofstra,f4,0.0,North Dakota State,0.0
+Hofstra,f4,0.0,St. John's (NY),0.0949
+Hofstra,f4,0.0,UCF,0.003
+Hofstra,f4,0.0,California Baptist,0.0
+Hofstra,f4,0.0,Kansas,0.048
+Hofstra,f4,0.0,Duke,0.5055
+Hofstra,reach_champ,0.0,Idaho,0.0
+Hofstra,reach_champ,0.0,LIU,0.0
+Hofstra,reach_champ,0.0,Utah State,0.0021
+Hofstra,reach_champ,0.0,Vanderbilt,0.0328
+Hofstra,reach_champ,0.0,Nebraska,0.018
+Hofstra,reach_champ,0.0,Troy,0.0
+Hofstra,reach_champ,0.0,Wisconsin,0.0138
+Hofstra,reach_champ,0.0,Gonzaga,0.0487
+Hofstra,reach_champ,0.0,Prairie View A&M,0.0
+Hofstra,reach_champ,0.0,Iowa,0.0032
+Hofstra,reach_champ,0.0,Texas,0.0021
+Hofstra,reach_champ,0.0,BYU,0.0032
+Hofstra,reach_champ,0.0,Queens (NC),0.0
+Hofstra,reach_champ,0.0,Arizona,0.3104
+Hofstra,reach_champ,0.0,High Point,0.0
+Hofstra,reach_champ,0.0,Miami (FL),0.0032
+Hofstra,reach_champ,0.0,Clemson,0.0021
+Hofstra,reach_champ,0.0,VCU,0.0011
+Hofstra,reach_champ,0.0,Kennesaw State,0.0
+Hofstra,reach_champ,0.0,Texas A&M,0.0021
+Hofstra,reach_champ,0.0,Florida,0.196
+Hofstra,reach_champ,0.0,Villanova,0.0011
+Hofstra,reach_champ,0.0,Purdue,0.0869
+Hofstra,reach_champ,0.0,Hawaii,0.0
+Hofstra,reach_champ,0.0,Missouri,0.0011
+Hofstra,reach_champ,0.0,Houston,0.1472
+Hofstra,reach_champ,0.0,Penn,0.0
+Hofstra,reach_champ,0.0,Arkansas,0.0233
+Hofstra,reach_champ,0.0,McNeese,0.0
+Hofstra,reach_champ,0.0,UNC,0.0011
+Hofstra,reach_champ,0.0,Saint Mary's,0.0053
+Hofstra,reach_champ,0.0,Illinois,0.0953
+Houston,r64,1.0,Idaho,1.0
+Houston,r32,0.968,Texas A&M,0.418
+Houston,r32,0.968,Saint Mary's,0.582
+Houston,s16,0.751,Penn,0.004
+Houston,s16,0.751,UNC,0.105
+Houston,s16,0.751,Illinois,0.788
+Houston,s16,0.751,VCU,0.103
+Houston,e8,0.493,Florida,0.601
+Houston,e8,0.493,Vanderbilt,0.188
+Houston,e8,0.493,Nebraska,0.14
+Houston,e8,0.493,Prairie View A&M,0.0
+Houston,e8,0.493,Iowa,0.041
+Houston,e8,0.493,Clemson,0.023
+Houston,e8,0.493,McNeese,0.007
+Houston,e8,0.493,Troy,0.0
+Houston,f4,0.289,LIU,0.0
+Houston,f4,0.289,Utah State,0.01
+Houston,f4,0.289,Wisconsin,0.04
+Houston,f4,0.289,Purdue,0.1818
+Houston,f4,0.289,Gonzaga,0.1339
+Houston,f4,0.289,Hawaii,0.0
+Houston,f4,0.289,Texas,0.007
+Houston,f4,0.289,Missouri,0.005
+Houston,f4,0.289,BYU,0.012
+Houston,f4,0.289,Queens (NC),0.0
+Houston,f4,0.289,Arizona,0.5285
+Houston,f4,0.289,High Point,0.001
+Houston,f4,0.289,Miami (FL),0.011
+Houston,f4,0.289,Kennesaw State,0.0
+Houston,f4,0.289,Arkansas,0.0659
+Houston,f4,0.289,Villanova,0.004
+Houston,reach_champ,0.139,UConn,0.054
+Houston,reach_champ,0.139,Tennessee,0.017
+Houston,reach_champ,0.139,South Florida,0.0009
+Houston,reach_champ,0.139,Hofstra,0.0
+Houston,reach_champ,0.139,Howard,0.0
+Houston,reach_champ,0.139,Furman,0.0
+Houston,reach_champ,0.139,TCU,0.0009
+Houston,reach_champ,0.139,UCLA,0.0076
+Houston,reach_champ,0.139,Louisville,0.0227
+Houston,reach_champ,0.139,Miami (OH),0.0
+Houston,reach_champ,0.139,Georgia,0.0019
+Houston,reach_champ,0.139,Akron,0.0
+Houston,reach_champ,0.139,Santa Clara,0.0009
+Houston,reach_champ,0.139,St. John's (NY),0.0379
+Houston,reach_champ,0.139,Alabama,0.0218
+Houston,reach_champ,0.139,California Baptist,0.0
+Houston,reach_champ,0.139,Kansas,0.0161
+Houston,reach_champ,0.139,Duke,0.3097
+Houston,reach_champ,0.139,Iowa State,0.1184
+Houston,reach_champ,0.139,Siena,0.0
+Houston,reach_champ,0.139,Kentucky,0.0085
+Houston,reach_champ,0.139,Virginia,0.0265
+Houston,reach_champ,0.139,Michigan,0.3049
+Houston,reach_champ,0.139,Ohio State,0.0076
+Houston,reach_champ,0.139,Northern Iowa,0.0
+Houston,reach_champ,0.139,Texas Tech,0.0038
+Houston,reach_champ,0.139,Michigan State,0.0369
+Houston,reach_champ,0.139,Tennessee State,0.0
+Houston,reach_champ,0.139,Wright State,0.0
+Houston,reach_champ,0.139,UCF,0.0009
+Houston,reach_champ,0.139,North Dakota State,0.0
+Houston,reach_champ,0.139,Saint Louis,0.0009
+Howard,r64,1.0,Michigan,1.0
+Howard,r32,0.019,Georgia,0.574
+Howard,r32,0.019,Saint Louis,0.426
+Howard,s16,0.003,Texas Tech,0.2767
+Howard,s16,0.003,Akron,0.0679
+Howard,s16,0.003,Hofstra,0.04
+Howard,s16,0.003,Alabama,0.6154
+Howard,e8,0.0,Iowa State,0.512
+Howard,e8,0.0,Virginia,0.222
+Howard,e8,0.0,Miami (OH),0.002
+Howard,e8,0.0,Tennessee State,0.0
+Howard,e8,0.0,Santa Clara,0.024
+Howard,e8,0.0,Wright State,0.0
+Howard,e8,0.0,Tennessee,0.156
+Howard,e8,0.0,Kentucky,0.084
+Howard,f4,0.0,Siena,0.0
+Howard,f4,0.0,UConn,0.1349
+Howard,f4,0.0,South Florida,0.005
+Howard,f4,0.0,Furman,0.0
+Howard,f4,0.0,TCU,0.005
+Howard,f4,0.0,UCLA,0.026
+Howard,f4,0.0,Louisville,0.0579
+Howard,f4,0.0,Ohio State,0.024
+Howard,f4,0.0,Northern Iowa,0.002
+Howard,f4,0.0,Michigan State,0.0939
+Howard,f4,0.0,North Dakota State,0.0
+Howard,f4,0.0,St. John's (NY),0.0949
+Howard,f4,0.0,UCF,0.003
+Howard,f4,0.0,California Baptist,0.0
+Howard,f4,0.0,Kansas,0.048
+Howard,f4,0.0,Duke,0.5055
+Howard,reach_champ,0.0,Idaho,0.0
+Howard,reach_champ,0.0,LIU,0.0
+Howard,reach_champ,0.0,Utah State,0.0021
+Howard,reach_champ,0.0,Vanderbilt,0.0328
+Howard,reach_champ,0.0,Nebraska,0.018
+Howard,reach_champ,0.0,Troy,0.0
+Howard,reach_champ,0.0,Wisconsin,0.0138
+Howard,reach_champ,0.0,Gonzaga,0.0487
+Howard,reach_champ,0.0,Prairie View A&M,0.0
+Howard,reach_champ,0.0,Iowa,0.0032
+Howard,reach_champ,0.0,Texas,0.0021
+Howard,reach_champ,0.0,BYU,0.0032
+Howard,reach_champ,0.0,Queens (NC),0.0
+Howard,reach_champ,0.0,Arizona,0.3104
+Howard,reach_champ,0.0,High Point,0.0
+Howard,reach_champ,0.0,Miami (FL),0.0032
+Howard,reach_champ,0.0,Clemson,0.0021
+Howard,reach_champ,0.0,VCU,0.0011
+Howard,reach_champ,0.0,Kennesaw State,0.0
+Howard,reach_champ,0.0,Texas A&M,0.0021
+Howard,reach_champ,0.0,Florida,0.196
+Howard,reach_champ,0.0,Villanova,0.0011
+Howard,reach_champ,0.0,Purdue,0.0869
+Howard,reach_champ,0.0,Hawaii,0.0
+Howard,reach_champ,0.0,Missouri,0.0011
+Howard,reach_champ,0.0,Houston,0.1472
+Howard,reach_champ,0.0,Penn,0.0
+Howard,reach_champ,0.0,Arkansas,0.0233
+Howard,reach_champ,0.0,McNeese,0.0
+Howard,reach_champ,0.0,UNC,0.0011
+Howard,reach_champ,0.0,Saint Mary's,0.0053
+Howard,reach_champ,0.0,Illinois,0.0953
+Idaho,r64,1.0,Houston,1.0
+Idaho,r32,0.032,Texas A&M,0.418
+Idaho,r32,0.032,Saint Mary's,0.582
+Idaho,s16,0.004,Penn,0.004
+Idaho,s16,0.004,UNC,0.105
+Idaho,s16,0.004,Illinois,0.788
+Idaho,s16,0.004,VCU,0.103
+Idaho,e8,0.0,Florida,0.601
+Idaho,e8,0.0,Vanderbilt,0.188
+Idaho,e8,0.0,Nebraska,0.14
+Idaho,e8,0.0,Prairie View A&M,0.0
+Idaho,e8,0.0,Iowa,0.041
+Idaho,e8,0.0,Clemson,0.023
+Idaho,e8,0.0,McNeese,0.007
+Idaho,e8,0.0,Troy,0.0
+Idaho,f4,0.0,LIU,0.0
+Idaho,f4,0.0,Utah State,0.01
+Idaho,f4,0.0,Wisconsin,0.04
+Idaho,f4,0.0,Purdue,0.1818
+Idaho,f4,0.0,Gonzaga,0.1339
+Idaho,f4,0.0,Hawaii,0.0
+Idaho,f4,0.0,Texas,0.007
+Idaho,f4,0.0,Missouri,0.005
+Idaho,f4,0.0,BYU,0.012
+Idaho,f4,0.0,Queens (NC),0.0
+Idaho,f4,0.0,Arizona,0.5285
+Idaho,f4,0.0,High Point,0.001
+Idaho,f4,0.0,Miami (FL),0.011
+Idaho,f4,0.0,Kennesaw State,0.0
+Idaho,f4,0.0,Arkansas,0.0659
+Idaho,f4,0.0,Villanova,0.004
+Idaho,reach_champ,0.0,UConn,0.054
+Idaho,reach_champ,0.0,Tennessee,0.017
+Idaho,reach_champ,0.0,South Florida,0.0009
+Idaho,reach_champ,0.0,Hofstra,0.0
+Idaho,reach_champ,0.0,Howard,0.0
+Idaho,reach_champ,0.0,Furman,0.0
+Idaho,reach_champ,0.0,TCU,0.0009
+Idaho,reach_champ,0.0,UCLA,0.0076
+Idaho,reach_champ,0.0,Louisville,0.0227
+Idaho,reach_champ,0.0,Miami (OH),0.0
+Idaho,reach_champ,0.0,Georgia,0.0019
+Idaho,reach_champ,0.0,Akron,0.0
+Idaho,reach_champ,0.0,Santa Clara,0.0009
+Idaho,reach_champ,0.0,St. John's (NY),0.0379
+Idaho,reach_champ,0.0,Alabama,0.0218
+Idaho,reach_champ,0.0,California Baptist,0.0
+Idaho,reach_champ,0.0,Kansas,0.0161
+Idaho,reach_champ,0.0,Duke,0.3097
+Idaho,reach_champ,0.0,Iowa State,0.1184
+Idaho,reach_champ,0.0,Siena,0.0
+Idaho,reach_champ,0.0,Kentucky,0.0085
+Idaho,reach_champ,0.0,Virginia,0.0265
+Idaho,reach_champ,0.0,Michigan,0.3049
+Idaho,reach_champ,0.0,Ohio State,0.0076
+Idaho,reach_champ,0.0,Northern Iowa,0.0
+Idaho,reach_champ,0.0,Texas Tech,0.0038
+Idaho,reach_champ,0.0,Michigan State,0.0369
+Idaho,reach_champ,0.0,Tennessee State,0.0
+Idaho,reach_champ,0.0,Wright State,0.0
+Idaho,reach_champ,0.0,UCF,0.0009
+Idaho,reach_champ,0.0,North Dakota State,0.0
+Idaho,reach_champ,0.0,Saint Louis,0.0009
+Illinois,r64,1.0,Penn,1.0
+Illinois,r32,0.971,UNC,0.502
+Illinois,r32,0.971,VCU,0.498
+Illinois,s16,0.788,Idaho,0.004
+Illinois,s16,0.788,Texas A&M,0.087
+Illinois,s16,0.788,Saint Mary's,0.158
+Illinois,s16,0.788,Houston,0.751
+Illinois,e8,0.377,Florida,0.601
+Illinois,e8,0.377,Vanderbilt,0.188
+Illinois,e8,0.377,Nebraska,0.14
+Illinois,e8,0.377,Prairie View A&M,0.0
+Illinois,e8,0.377,Iowa,0.041
+Illinois,e8,0.377,Clemson,0.023
+Illinois,e8,0.377,McNeese,0.007
+Illinois,e8,0.377,Troy,0.0
+Illinois,f4,0.187,LIU,0.0
+Illinois,f4,0.187,Utah State,0.01
+Illinois,f4,0.187,Wisconsin,0.04
+Illinois,f4,0.187,Purdue,0.1818
+Illinois,f4,0.187,Gonzaga,0.1339
+Illinois,f4,0.187,Hawaii,0.0
+Illinois,f4,0.187,Texas,0.007
+Illinois,f4,0.187,Missouri,0.005
+Illinois,f4,0.187,BYU,0.012
+Illinois,f4,0.187,Queens (NC),0.0
+Illinois,f4,0.187,Arizona,0.5285
+Illinois,f4,0.187,High Point,0.001
+Illinois,f4,0.187,Miami (FL),0.011
+Illinois,f4,0.187,Kennesaw State,0.0
+Illinois,f4,0.187,Arkansas,0.0659
+Illinois,f4,0.187,Villanova,0.004
+Illinois,reach_champ,0.09,UConn,0.054
+Illinois,reach_champ,0.09,Tennessee,0.017
+Illinois,reach_champ,0.09,South Florida,0.0009
+Illinois,reach_champ,0.09,Hofstra,0.0
+Illinois,reach_champ,0.09,Howard,0.0
+Illinois,reach_champ,0.09,Furman,0.0
+Illinois,reach_champ,0.09,TCU,0.0009
+Illinois,reach_champ,0.09,UCLA,0.0076
+Illinois,reach_champ,0.09,Louisville,0.0227
+Illinois,reach_champ,0.09,Miami (OH),0.0
+Illinois,reach_champ,0.09,Georgia,0.0019
+Illinois,reach_champ,0.09,Akron,0.0
+Illinois,reach_champ,0.09,Santa Clara,0.0009
+Illinois,reach_champ,0.09,St. John's (NY),0.0379
+Illinois,reach_champ,0.09,Alabama,0.0218
+Illinois,reach_champ,0.09,California Baptist,0.0
+Illinois,reach_champ,0.09,Kansas,0.0161
+Illinois,reach_champ,0.09,Duke,0.3097
+Illinois,reach_champ,0.09,Iowa State,0.1184
+Illinois,reach_champ,0.09,Siena,0.0
+Illinois,reach_champ,0.09,Kentucky,0.0085
+Illinois,reach_champ,0.09,Virginia,0.0265
+Illinois,reach_champ,0.09,Michigan,0.3049
+Illinois,reach_champ,0.09,Ohio State,0.0076
+Illinois,reach_champ,0.09,Northern Iowa,0.0
+Illinois,reach_champ,0.09,Texas Tech,0.0038
+Illinois,reach_champ,0.09,Michigan State,0.0369
+Illinois,reach_champ,0.09,Tennessee State,0.0
+Illinois,reach_champ,0.09,Wright State,0.0
+Illinois,reach_champ,0.09,UCF,0.0009
+Illinois,reach_champ,0.09,North Dakota State,0.0
+Illinois,reach_champ,0.09,Saint Louis,0.0009
+Iowa,r64,1.0,Clemson,1.0
+Iowa,r32,0.597,Florida,0.992
+Iowa,r32,0.597,Prairie View A&M,0.008
+Iowa,s16,0.102,Vanderbilt,0.501
+Iowa,s16,0.102,McNeese,0.045
+Iowa,s16,0.102,Nebraska,0.447
+Iowa,s16,0.102,Troy,0.007
+Iowa,e8,0.041,Idaho,0.0
+Iowa,e8,0.041,Houston,0.4925
+Iowa,e8,0.041,Penn,0.0
+Iowa,e8,0.041,VCU,0.022
+Iowa,e8,0.041,Texas A&M,0.029
+Iowa,e8,0.041,UNC,0.022
+Iowa,e8,0.041,Saint Mary's,0.0579
+Iowa,e8,0.041,Illinois,0.3766
+Iowa,f4,0.012,LIU,0.0
+Iowa,f4,0.012,Utah State,0.01
+Iowa,f4,0.012,Wisconsin,0.04
+Iowa,f4,0.012,Purdue,0.1818
+Iowa,f4,0.012,Gonzaga,0.1339
+Iowa,f4,0.012,Hawaii,0.0
+Iowa,f4,0.012,Texas,0.007
+Iowa,f4,0.012,Missouri,0.005
+Iowa,f4,0.012,BYU,0.012
+Iowa,f4,0.012,Queens (NC),0.0
+Iowa,f4,0.012,Arizona,0.5285
+Iowa,f4,0.012,High Point,0.001
+Iowa,f4,0.012,Miami (FL),0.011
+Iowa,f4,0.012,Kennesaw State,0.0
+Iowa,f4,0.012,Arkansas,0.0659
+Iowa,f4,0.012,Villanova,0.004
+Iowa,reach_champ,0.003,UConn,0.054
+Iowa,reach_champ,0.003,Tennessee,0.017
+Iowa,reach_champ,0.003,South Florida,0.0009
+Iowa,reach_champ,0.003,Hofstra,0.0
+Iowa,reach_champ,0.003,Howard,0.0
+Iowa,reach_champ,0.003,Furman,0.0
+Iowa,reach_champ,0.003,TCU,0.0009
+Iowa,reach_champ,0.003,UCLA,0.0076
+Iowa,reach_champ,0.003,Louisville,0.0227
+Iowa,reach_champ,0.003,Miami (OH),0.0
+Iowa,reach_champ,0.003,Georgia,0.0019
+Iowa,reach_champ,0.003,Akron,0.0
+Iowa,reach_champ,0.003,Santa Clara,0.0009
+Iowa,reach_champ,0.003,St. John's (NY),0.0379
+Iowa,reach_champ,0.003,Alabama,0.0218
+Iowa,reach_champ,0.003,California Baptist,0.0
+Iowa,reach_champ,0.003,Kansas,0.0161
+Iowa,reach_champ,0.003,Duke,0.3097
+Iowa,reach_champ,0.003,Iowa State,0.1184
+Iowa,reach_champ,0.003,Siena,0.0
+Iowa,reach_champ,0.003,Kentucky,0.0085
+Iowa,reach_champ,0.003,Virginia,0.0265
+Iowa,reach_champ,0.003,Michigan,0.3049
+Iowa,reach_champ,0.003,Ohio State,0.0076
+Iowa,reach_champ,0.003,Northern Iowa,0.0
+Iowa,reach_champ,0.003,Texas Tech,0.0038
+Iowa,reach_champ,0.003,Michigan State,0.0369
+Iowa,reach_champ,0.003,Tennessee State,0.0
+Iowa,reach_champ,0.003,Wright State,0.0
+Iowa,reach_champ,0.003,UCF,0.0009
+Iowa,reach_champ,0.003,North Dakota State,0.0
+Iowa,reach_champ,0.003,Saint Louis,0.0009
+Iowa State,r64,1.0,Tennessee State,1.0
+Iowa State,r32,0.975,Kentucky,0.639
+Iowa State,r32,0.975,Santa Clara,0.361
+Iowa State,s16,0.749,Virginia,0.558
+Iowa State,s16,0.749,Wright State,0.006
+Iowa State,s16,0.749,Tennessee,0.417
+Iowa State,s16,0.749,Miami (OH),0.019
+Iowa State,e8,0.512,Hofstra,0.003
+Iowa State,e8,0.512,Georgia,0.032
+Iowa State,e8,0.512,Texas Tech,0.049
+Iowa State,e8,0.512,Akron,0.007
+Iowa State,e8,0.512,Michigan,0.7383
+Iowa State,e8,0.512,Alabama,0.1518
+Iowa State,e8,0.512,Howard,0.0
+Iowa State,e8,0.512,Saint Louis,0.019
+Iowa State,f4,0.241,Siena,0.0
+Iowa State,f4,0.241,UConn,0.1349
+Iowa State,f4,0.241,South Florida,0.005
+Iowa State,f4,0.241,Furman,0.0
+Iowa State,f4,0.241,TCU,0.005
+Iowa State,f4,0.241,UCLA,0.026
+Iowa State,f4,0.241,Louisville,0.0579
+Iowa State,f4,0.241,Ohio State,0.024
+Iowa State,f4,0.241,Northern Iowa,0.002
+Iowa State,f4,0.241,Michigan State,0.0939
+Iowa State,f4,0.241,North Dakota State,0.0
+Iowa State,f4,0.241,St. John's (NY),0.0949
+Iowa State,f4,0.241,UCF,0.003
+Iowa State,f4,0.241,California Baptist,0.0
+Iowa State,f4,0.241,Kansas,0.048
+Iowa State,f4,0.241,Duke,0.5055
+Iowa State,reach_champ,0.125,Idaho,0.0
+Iowa State,reach_champ,0.125,LIU,0.0
+Iowa State,reach_champ,0.125,Utah State,0.0021
+Iowa State,reach_champ,0.125,Vanderbilt,0.0328
+Iowa State,reach_champ,0.125,Nebraska,0.018
+Iowa State,reach_champ,0.125,Troy,0.0
+Iowa State,reach_champ,0.125,Wisconsin,0.0138
+Iowa State,reach_champ,0.125,Gonzaga,0.0487
+Iowa State,reach_champ,0.125,Prairie View A&M,0.0
+Iowa State,reach_champ,0.125,Iowa,0.0032
+Iowa State,reach_champ,0.125,Texas,0.0021
+Iowa State,reach_champ,0.125,BYU,0.0032
+Iowa State,reach_champ,0.125,Queens (NC),0.0
+Iowa State,reach_champ,0.125,Arizona,0.3104
+Iowa State,reach_champ,0.125,High Point,0.0
+Iowa State,reach_champ,0.125,Miami (FL),0.0032
+Iowa State,reach_champ,0.125,Clemson,0.0021
+Iowa State,reach_champ,0.125,VCU,0.0011
+Iowa State,reach_champ,0.125,Kennesaw State,0.0
+Iowa State,reach_champ,0.125,Texas A&M,0.0021
+Iowa State,reach_champ,0.125,Florida,0.196
+Iowa State,reach_champ,0.125,Villanova,0.0011
+Iowa State,reach_champ,0.125,Purdue,0.0869
+Iowa State,reach_champ,0.125,Hawaii,0.0
+Iowa State,reach_champ,0.125,Missouri,0.0011
+Iowa State,reach_champ,0.125,Houston,0.1472
+Iowa State,reach_champ,0.125,Penn,0.0
+Iowa State,reach_champ,0.125,Arkansas,0.0233
+Iowa State,reach_champ,0.125,McNeese,0.0
+Iowa State,reach_champ,0.125,UNC,0.0011
+Iowa State,reach_champ,0.125,Saint Mary's,0.0053
+Iowa State,reach_champ,0.125,Illinois,0.0953
+Kansas,r64,1.0,California Baptist,1.0
+Kansas,r32,0.863,Northern Iowa,0.175
+Kansas,r32,0.863,St. John's (NY),0.825
+Kansas,s16,0.417,Siena,0.001
+Kansas,s16,0.417,TCU,0.041
+Kansas,s16,0.417,Ohio State,0.113
+Kansas,s16,0.417,Duke,0.845
+Kansas,e8,0.101,UConn,0.378
+Kansas,e8,0.101,South Florida,0.031
+Kansas,e8,0.101,Furman,0.001
+Kansas,e8,0.101,UCLA,0.105
+Kansas,e8,0.101,Louisville,0.183
+Kansas,e8,0.101,Michigan State,0.283
+Kansas,e8,0.101,UCF,0.018
+Kansas,e8,0.101,North Dakota State,0.001
+Kansas,f4,0.048,Iowa State,0.2408
+Kansas,f4,0.048,Kentucky,0.025
+Kansas,f4,0.048,Tennessee,0.049
+Kansas,f4,0.048,Hofstra,0.0
+Kansas,f4,0.048,Virginia,0.0729
+Kansas,f4,0.048,Miami (OH),0.0
+Kansas,f4,0.048,Georgia,0.009
+Kansas,f4,0.048,Texas Tech,0.015
+Kansas,f4,0.048,Akron,0.001
+Kansas,f4,0.048,Tennessee State,0.0
+Kansas,f4,0.048,Santa Clara,0.005
+Kansas,f4,0.048,Wright State,0.0
+Kansas,f4,0.048,Michigan,0.5145
+Kansas,f4,0.048,Alabama,0.0629
+Kansas,f4,0.048,Howard,0.0
+Kansas,f4,0.048,Saint Louis,0.005
+Kansas,reach_champ,0.017,Idaho,0.0
+Kansas,reach_champ,0.017,LIU,0.0
+Kansas,reach_champ,0.017,Utah State,0.0021
+Kansas,reach_champ,0.017,Vanderbilt,0.0328
+Kansas,reach_champ,0.017,Nebraska,0.018
+Kansas,reach_champ,0.017,Troy,0.0
+Kansas,reach_champ,0.017,Wisconsin,0.0138
+Kansas,reach_champ,0.017,Gonzaga,0.0487
+Kansas,reach_champ,0.017,Prairie View A&M,0.0
+Kansas,reach_champ,0.017,Iowa,0.0032
+Kansas,reach_champ,0.017,Texas,0.0021
+Kansas,reach_champ,0.017,BYU,0.0032
+Kansas,reach_champ,0.017,Queens (NC),0.0
+Kansas,reach_champ,0.017,Arizona,0.3104
+Kansas,reach_champ,0.017,High Point,0.0
+Kansas,reach_champ,0.017,Miami (FL),0.0032
+Kansas,reach_champ,0.017,Clemson,0.0021
+Kansas,reach_champ,0.017,VCU,0.0011
+Kansas,reach_champ,0.017,Kennesaw State,0.0
+Kansas,reach_champ,0.017,Texas A&M,0.0021
+Kansas,reach_champ,0.017,Florida,0.196
+Kansas,reach_champ,0.017,Villanova,0.0011
+Kansas,reach_champ,0.017,Purdue,0.0869
+Kansas,reach_champ,0.017,Hawaii,0.0
+Kansas,reach_champ,0.017,Missouri,0.0011
+Kansas,reach_champ,0.017,Houston,0.1472
+Kansas,reach_champ,0.017,Penn,0.0
+Kansas,reach_champ,0.017,Arkansas,0.0233
+Kansas,reach_champ,0.017,McNeese,0.0
+Kansas,reach_champ,0.017,UNC,0.0011
+Kansas,reach_champ,0.017,Saint Mary's,0.0053
+Kansas,reach_champ,0.017,Illinois,0.0953
+Kennesaw State,r64,1.0,Gonzaga,1.0
+Kennesaw State,r32,0.036,Texas,0.437
+Kennesaw State,r32,0.036,BYU,0.563
+Kennesaw State,s16,0.004,Queens (NC),0.002
+Kennesaw State,s16,0.004,Miami (FL),0.136
+Kennesaw State,s16,0.004,Purdue,0.768
+Kennesaw State,s16,0.004,Missouri,0.094
+Kennesaw State,e8,0.0,LIU,0.0
+Kennesaw State,e8,0.0,Utah State,0.028
+Kennesaw State,e8,0.0,Wisconsin,0.094
+Kennesaw State,e8,0.0,Hawaii,0.001
+Kennesaw State,e8,0.0,Arizona,0.721
+Kennesaw State,e8,0.0,High Point,0.002
+Kennesaw State,e8,0.0,Arkansas,0.141
+Kennesaw State,e8,0.0,Villanova,0.013
+Kennesaw State,f4,0.0,Florida,0.3433
+Kennesaw State,f4,0.0,Idaho,0.0
+Kennesaw State,f4,0.0,Illinois,0.1866
+Kennesaw State,f4,0.0,Vanderbilt,0.0788
+Kennesaw State,f4,0.0,Nebraska,0.0489
+Kennesaw State,f4,0.0,Prairie View A&M,0.0
+Kennesaw State,f4,0.0,Iowa,0.012
+Kennesaw State,f4,0.0,Houston,0.2884
+Kennesaw State,f4,0.0,Penn,0.0
+Kennesaw State,f4,0.0,Clemson,0.006
+Kennesaw State,f4,0.0,VCU,0.005
+Kennesaw State,f4,0.0,McNeese,0.001
+Kennesaw State,f4,0.0,Texas A&M,0.007
+Kennesaw State,f4,0.0,UNC,0.005
+Kennesaw State,f4,0.0,Saint Mary's,0.018
+Kennesaw State,f4,0.0,Troy,0.0
+Kennesaw State,reach_champ,0.0,UConn,0.054
+Kennesaw State,reach_champ,0.0,Tennessee,0.017
+Kennesaw State,reach_champ,0.0,South Florida,0.0009
+Kennesaw State,reach_champ,0.0,Hofstra,0.0
+Kennesaw State,reach_champ,0.0,Howard,0.0
+Kennesaw State,reach_champ,0.0,Furman,0.0
+Kennesaw State,reach_champ,0.0,TCU,0.0009
+Kennesaw State,reach_champ,0.0,UCLA,0.0076
+Kennesaw State,reach_champ,0.0,Louisville,0.0227
+Kennesaw State,reach_champ,0.0,Miami (OH),0.0
+Kennesaw State,reach_champ,0.0,Georgia,0.0019
+Kennesaw State,reach_champ,0.0,Akron,0.0
+Kennesaw State,reach_champ,0.0,Santa Clara,0.0009
+Kennesaw State,reach_champ,0.0,St. John's (NY),0.0379
+Kennesaw State,reach_champ,0.0,Alabama,0.0218
+Kennesaw State,reach_champ,0.0,California Baptist,0.0
+Kennesaw State,reach_champ,0.0,Kansas,0.0161
+Kennesaw State,reach_champ,0.0,Duke,0.3097
+Kennesaw State,reach_champ,0.0,Iowa State,0.1184
+Kennesaw State,reach_champ,0.0,Siena,0.0
+Kennesaw State,reach_champ,0.0,Kentucky,0.0085
+Kennesaw State,reach_champ,0.0,Virginia,0.0265
+Kennesaw State,reach_champ,0.0,Michigan,0.3049
+Kennesaw State,reach_champ,0.0,Ohio State,0.0076
+Kennesaw State,reach_champ,0.0,Northern Iowa,0.0
+Kennesaw State,reach_champ,0.0,Texas Tech,0.0038
+Kennesaw State,reach_champ,0.0,Michigan State,0.0369
+Kennesaw State,reach_champ,0.0,Tennessee State,0.0
+Kennesaw State,reach_champ,0.0,Wright State,0.0
+Kennesaw State,reach_champ,0.0,UCF,0.0009
+Kennesaw State,reach_champ,0.0,North Dakota State,0.0
+Kennesaw State,reach_champ,0.0,Saint Louis,0.0009
+Kentucky,r64,1.0,Santa Clara,1.0
+Kentucky,r32,0.639,Iowa State,0.975
+Kentucky,r32,0.639,Tennessee State,0.025
+Kentucky,s16,0.18,Virginia,0.558
+Kentucky,s16,0.18,Wright State,0.006
+Kentucky,s16,0.18,Tennessee,0.417
+Kentucky,s16,0.18,Miami (OH),0.019
+Kentucky,e8,0.084,Hofstra,0.003
+Kentucky,e8,0.084,Georgia,0.032
+Kentucky,e8,0.084,Texas Tech,0.049
+Kentucky,e8,0.084,Akron,0.007
+Kentucky,e8,0.084,Michigan,0.7383
+Kentucky,e8,0.084,Alabama,0.1518
+Kentucky,e8,0.084,Howard,0.0
+Kentucky,e8,0.084,Saint Louis,0.019
+Kentucky,f4,0.025,Siena,0.0
+Kentucky,f4,0.025,UConn,0.1349
+Kentucky,f4,0.025,South Florida,0.005
+Kentucky,f4,0.025,Furman,0.0
+Kentucky,f4,0.025,TCU,0.005
+Kentucky,f4,0.025,UCLA,0.026
+Kentucky,f4,0.025,Louisville,0.0579
+Kentucky,f4,0.025,Ohio State,0.024
+Kentucky,f4,0.025,Northern Iowa,0.002
+Kentucky,f4,0.025,Michigan State,0.0939
+Kentucky,f4,0.025,North Dakota State,0.0
+Kentucky,f4,0.025,St. John's (NY),0.0949
+Kentucky,f4,0.025,UCF,0.003
+Kentucky,f4,0.025,California Baptist,0.0
+Kentucky,f4,0.025,Kansas,0.048
+Kentucky,f4,0.025,Duke,0.5055
+Kentucky,reach_champ,0.009,Idaho,0.0
+Kentucky,reach_champ,0.009,LIU,0.0
+Kentucky,reach_champ,0.009,Utah State,0.0021
+Kentucky,reach_champ,0.009,Vanderbilt,0.0328
+Kentucky,reach_champ,0.009,Nebraska,0.018
+Kentucky,reach_champ,0.009,Troy,0.0
+Kentucky,reach_champ,0.009,Wisconsin,0.0138
+Kentucky,reach_champ,0.009,Gonzaga,0.0487
+Kentucky,reach_champ,0.009,Prairie View A&M,0.0
+Kentucky,reach_champ,0.009,Iowa,0.0032
+Kentucky,reach_champ,0.009,Texas,0.0021
+Kentucky,reach_champ,0.009,BYU,0.0032
+Kentucky,reach_champ,0.009,Queens (NC),0.0
+Kentucky,reach_champ,0.009,Arizona,0.3104
+Kentucky,reach_champ,0.009,High Point,0.0
+Kentucky,reach_champ,0.009,Miami (FL),0.0032
+Kentucky,reach_champ,0.009,Clemson,0.0021
+Kentucky,reach_champ,0.009,VCU,0.0011
+Kentucky,reach_champ,0.009,Kennesaw State,0.0
+Kentucky,reach_champ,0.009,Texas A&M,0.0021
+Kentucky,reach_champ,0.009,Florida,0.196
+Kentucky,reach_champ,0.009,Villanova,0.0011
+Kentucky,reach_champ,0.009,Purdue,0.0869
+Kentucky,reach_champ,0.009,Hawaii,0.0
+Kentucky,reach_champ,0.009,Missouri,0.0011
+Kentucky,reach_champ,0.009,Houston,0.1472
+Kentucky,reach_champ,0.009,Penn,0.0
+Kentucky,reach_champ,0.009,Arkansas,0.0233
+Kentucky,reach_champ,0.009,McNeese,0.0
+Kentucky,reach_champ,0.009,UNC,0.0011
+Kentucky,reach_champ,0.009,Saint Mary's,0.0053
+Kentucky,reach_champ,0.009,Illinois,0.0953
+LIU,r64,1.0,Arizona,1.0
+LIU,r32,0.01,Villanova,0.409
+LIU,r32,0.01,Utah State,0.591
+LIU,s16,0.001,Arkansas,0.5526
+LIU,s16,0.001,Wisconsin,0.4034
+LIU,s16,0.001,High Point,0.033
+LIU,s16,0.001,Hawaii,0.011
+LIU,e8,0.0,Purdue,0.4605
+LIU,e8,0.0,Gonzaga,0.3684
+LIU,e8,0.0,Texas,0.036
+LIU,e8,0.0,Missouri,0.029
+LIU,e8,0.0,BYU,0.0561
+LIU,e8,0.0,Queens (NC),0.0
+LIU,e8,0.0,Miami (FL),0.0501
+LIU,e8,0.0,Kennesaw State,0.0
+LIU,f4,0.0,Florida,0.3433
+LIU,f4,0.0,Idaho,0.0
+LIU,f4,0.0,Illinois,0.1866
+LIU,f4,0.0,Vanderbilt,0.0788
+LIU,f4,0.0,Nebraska,0.0489
+LIU,f4,0.0,Prairie View A&M,0.0
+LIU,f4,0.0,Iowa,0.012
+LIU,f4,0.0,Houston,0.2884
+LIU,f4,0.0,Penn,0.0
+LIU,f4,0.0,Clemson,0.006
+LIU,f4,0.0,VCU,0.005
+LIU,f4,0.0,McNeese,0.001
+LIU,f4,0.0,Texas A&M,0.007
+LIU,f4,0.0,UNC,0.005
+LIU,f4,0.0,Saint Mary's,0.018
+LIU,f4,0.0,Troy,0.0
+LIU,reach_champ,0.0,UConn,0.054
+LIU,reach_champ,0.0,Tennessee,0.017
+LIU,reach_champ,0.0,South Florida,0.0009
+LIU,reach_champ,0.0,Hofstra,0.0
+LIU,reach_champ,0.0,Howard,0.0
+LIU,reach_champ,0.0,Furman,0.0
+LIU,reach_champ,0.0,TCU,0.0009
+LIU,reach_champ,0.0,UCLA,0.0076
+LIU,reach_champ,0.0,Louisville,0.0227
+LIU,reach_champ,0.0,Miami (OH),0.0
+LIU,reach_champ,0.0,Georgia,0.0019
+LIU,reach_champ,0.0,Akron,0.0
+LIU,reach_champ,0.0,Santa Clara,0.0009
+LIU,reach_champ,0.0,St. John's (NY),0.0379
+LIU,reach_champ,0.0,Alabama,0.0218
+LIU,reach_champ,0.0,California Baptist,0.0
+LIU,reach_champ,0.0,Kansas,0.0161
+LIU,reach_champ,0.0,Duke,0.3097
+LIU,reach_champ,0.0,Iowa State,0.1184
+LIU,reach_champ,0.0,Siena,0.0
+LIU,reach_champ,0.0,Kentucky,0.0085
+LIU,reach_champ,0.0,Virginia,0.0265
+LIU,reach_champ,0.0,Michigan,0.3049
+LIU,reach_champ,0.0,Ohio State,0.0076
+LIU,reach_champ,0.0,Northern Iowa,0.0
+LIU,reach_champ,0.0,Texas Tech,0.0038
+LIU,reach_champ,0.0,Michigan State,0.0369
+LIU,reach_champ,0.0,Tennessee State,0.0
+LIU,reach_champ,0.0,Wright State,0.0
+LIU,reach_champ,0.0,UCF,0.0009
+LIU,reach_champ,0.0,North Dakota State,0.0
+LIU,reach_champ,0.0,Saint Louis,0.0009
+Louisville,r64,1.0,South Florida,1.0
+Louisville,r32,0.699,North Dakota State,0.076
+Louisville,r32,0.699,Michigan State,0.924
+Louisville,s16,0.356,Furman,0.009
+Louisville,s16,0.356,UCF,0.068
+Louisville,s16,0.356,UCLA,0.252
+Louisville,s16,0.356,UConn,0.671
+Louisville,e8,0.183,Siena,0.0
+Louisville,e8,0.183,TCU,0.014
+Louisville,e8,0.183,Ohio State,0.053
+Louisville,e8,0.183,Northern Iowa,0.007
+Louisville,e8,0.183,St. John's (NY),0.166
+Louisville,e8,0.183,California Baptist,0.001
+Louisville,e8,0.183,Kansas,0.101
+Louisville,e8,0.183,Duke,0.658
+Louisville,f4,0.058,Iowa State,0.2408
+Louisville,f4,0.058,Kentucky,0.025
+Louisville,f4,0.058,Tennessee,0.049
+Louisville,f4,0.058,Hofstra,0.0
+Louisville,f4,0.058,Virginia,0.0729
+Louisville,f4,0.058,Miami (OH),0.0
+Louisville,f4,0.058,Georgia,0.009
+Louisville,f4,0.058,Texas Tech,0.015
+Louisville,f4,0.058,Akron,0.001
+Louisville,f4,0.058,Tennessee State,0.0
+Louisville,f4,0.058,Santa Clara,0.005
+Louisville,f4,0.058,Wright State,0.0
+Louisville,f4,0.058,Michigan,0.5145
+Louisville,f4,0.058,Alabama,0.0629
+Louisville,f4,0.058,Howard,0.0
+Louisville,f4,0.058,Saint Louis,0.005
+Louisville,reach_champ,0.024,Idaho,0.0
+Louisville,reach_champ,0.024,LIU,0.0
+Louisville,reach_champ,0.024,Utah State,0.0021
+Louisville,reach_champ,0.024,Vanderbilt,0.0328
+Louisville,reach_champ,0.024,Nebraska,0.018
+Louisville,reach_champ,0.024,Troy,0.0
+Louisville,reach_champ,0.024,Wisconsin,0.0138
+Louisville,reach_champ,0.024,Gonzaga,0.0487
+Louisville,reach_champ,0.024,Prairie View A&M,0.0
+Louisville,reach_champ,0.024,Iowa,0.0032
+Louisville,reach_champ,0.024,Texas,0.0021
+Louisville,reach_champ,0.024,BYU,0.0032
+Louisville,reach_champ,0.024,Queens (NC),0.0
+Louisville,reach_champ,0.024,Arizona,0.3104
+Louisville,reach_champ,0.024,High Point,0.0
+Louisville,reach_champ,0.024,Miami (FL),0.0032
+Louisville,reach_champ,0.024,Clemson,0.0021
+Louisville,reach_champ,0.024,VCU,0.0011
+Louisville,reach_champ,0.024,Kennesaw State,0.0
+Louisville,reach_champ,0.024,Texas A&M,0.0021
+Louisville,reach_champ,0.024,Florida,0.196
+Louisville,reach_champ,0.024,Villanova,0.0011
+Louisville,reach_champ,0.024,Purdue,0.0869
+Louisville,reach_champ,0.024,Hawaii,0.0
+Louisville,reach_champ,0.024,Missouri,0.0011
+Louisville,reach_champ,0.024,Houston,0.1472
+Louisville,reach_champ,0.024,Penn,0.0
+Louisville,reach_champ,0.024,Arkansas,0.0233
+Louisville,reach_champ,0.024,McNeese,0.0
+Louisville,reach_champ,0.024,UNC,0.0011
+Louisville,reach_champ,0.024,Saint Mary's,0.0053
+Louisville,reach_champ,0.024,Illinois,0.0953
+McNeese,r64,1.0,Vanderbilt,1.0
+McNeese,r32,0.16,Nebraska,0.927
+McNeese,r32,0.16,Troy,0.073
+McNeese,s16,0.045,Florida,0.836
+McNeese,s16,0.045,Prairie View A&M,0.0
+McNeese,s16,0.045,Clemson,0.062
+McNeese,s16,0.045,Iowa,0.102
+McNeese,e8,0.007,Idaho,0.0
+McNeese,e8,0.007,Houston,0.4925
+McNeese,e8,0.007,Penn,0.0
+McNeese,e8,0.007,VCU,0.022
+McNeese,e8,0.007,Texas A&M,0.029
+McNeese,e8,0.007,UNC,0.022
+McNeese,e8,0.007,Saint Mary's,0.0579
+McNeese,e8,0.007,Illinois,0.3766
+McNeese,f4,0.001,LIU,0.0
+McNeese,f4,0.001,Utah State,0.01
+McNeese,f4,0.001,Wisconsin,0.04
+McNeese,f4,0.001,Purdue,0.1818
+McNeese,f4,0.001,Gonzaga,0.1339
+McNeese,f4,0.001,Hawaii,0.0
+McNeese,f4,0.001,Texas,0.007
+McNeese,f4,0.001,Missouri,0.005
+McNeese,f4,0.001,BYU,0.012
+McNeese,f4,0.001,Queens (NC),0.0
+McNeese,f4,0.001,Arizona,0.5285
+McNeese,f4,0.001,High Point,0.001
+McNeese,f4,0.001,Miami (FL),0.011
+McNeese,f4,0.001,Kennesaw State,0.0
+McNeese,f4,0.001,Arkansas,0.0659
+McNeese,f4,0.001,Villanova,0.004
+McNeese,reach_champ,0.0,UConn,0.054
+McNeese,reach_champ,0.0,Tennessee,0.017
+McNeese,reach_champ,0.0,South Florida,0.0009
+McNeese,reach_champ,0.0,Hofstra,0.0
+McNeese,reach_champ,0.0,Howard,0.0
+McNeese,reach_champ,0.0,Furman,0.0
+McNeese,reach_champ,0.0,TCU,0.0009
+McNeese,reach_champ,0.0,UCLA,0.0076
+McNeese,reach_champ,0.0,Louisville,0.0227
+McNeese,reach_champ,0.0,Miami (OH),0.0
+McNeese,reach_champ,0.0,Georgia,0.0019
+McNeese,reach_champ,0.0,Akron,0.0
+McNeese,reach_champ,0.0,Santa Clara,0.0009
+McNeese,reach_champ,0.0,St. John's (NY),0.0379
+McNeese,reach_champ,0.0,Alabama,0.0218
+McNeese,reach_champ,0.0,California Baptist,0.0
+McNeese,reach_champ,0.0,Kansas,0.0161
+McNeese,reach_champ,0.0,Duke,0.3097
+McNeese,reach_champ,0.0,Iowa State,0.1184
+McNeese,reach_champ,0.0,Siena,0.0
+McNeese,reach_champ,0.0,Kentucky,0.0085
+McNeese,reach_champ,0.0,Virginia,0.0265
+McNeese,reach_champ,0.0,Michigan,0.3049
+McNeese,reach_champ,0.0,Ohio State,0.0076
+McNeese,reach_champ,0.0,Northern Iowa,0.0
+McNeese,reach_champ,0.0,Texas Tech,0.0038
+McNeese,reach_champ,0.0,Michigan State,0.0369
+McNeese,reach_champ,0.0,Tennessee State,0.0
+McNeese,reach_champ,0.0,Wright State,0.0
+McNeese,reach_champ,0.0,UCF,0.0009
+McNeese,reach_champ,0.0,North Dakota State,0.0
+McNeese,reach_champ,0.0,Saint Louis,0.0009
+Miami (FL),r64,1.0,Missouri,1.0
+Miami (FL),r32,0.56,Queens (NC),0.022
+Miami (FL),r32,0.56,Purdue,0.978
+Miami (FL),s16,0.136,Gonzaga,0.7133
+Miami (FL),s16,0.136,Texas,0.1169
+Miami (FL),s16,0.136,Kennesaw State,0.004
+Miami (FL),s16,0.136,BYU,0.1658
+Miami (FL),e8,0.05,LIU,0.0
+Miami (FL),e8,0.05,Utah State,0.028
+Miami (FL),e8,0.05,Wisconsin,0.094
+Miami (FL),e8,0.05,Hawaii,0.001
+Miami (FL),e8,0.05,Arizona,0.721
+Miami (FL),e8,0.05,High Point,0.002
+Miami (FL),e8,0.05,Arkansas,0.141
+Miami (FL),e8,0.05,Villanova,0.013
+Miami (FL),f4,0.011,Florida,0.3433
+Miami (FL),f4,0.011,Idaho,0.0
+Miami (FL),f4,0.011,Illinois,0.1866
+Miami (FL),f4,0.011,Vanderbilt,0.0788
+Miami (FL),f4,0.011,Nebraska,0.0489
+Miami (FL),f4,0.011,Prairie View A&M,0.0
+Miami (FL),f4,0.011,Iowa,0.012
+Miami (FL),f4,0.011,Houston,0.2884
+Miami (FL),f4,0.011,Penn,0.0
+Miami (FL),f4,0.011,Clemson,0.006
+Miami (FL),f4,0.011,VCU,0.005
+Miami (FL),f4,0.011,McNeese,0.001
+Miami (FL),f4,0.011,Texas A&M,0.007
+Miami (FL),f4,0.011,UNC,0.005
+Miami (FL),f4,0.011,Saint Mary's,0.018
+Miami (FL),f4,0.011,Troy,0.0
+Miami (FL),reach_champ,0.003,UConn,0.054
+Miami (FL),reach_champ,0.003,Tennessee,0.017
+Miami (FL),reach_champ,0.003,South Florida,0.0009
+Miami (FL),reach_champ,0.003,Hofstra,0.0
+Miami (FL),reach_champ,0.003,Howard,0.0
+Miami (FL),reach_champ,0.003,Furman,0.0
+Miami (FL),reach_champ,0.003,TCU,0.0009
+Miami (FL),reach_champ,0.003,UCLA,0.0076
+Miami (FL),reach_champ,0.003,Louisville,0.0227
+Miami (FL),reach_champ,0.003,Miami (OH),0.0
+Miami (FL),reach_champ,0.003,Georgia,0.0019
+Miami (FL),reach_champ,0.003,Akron,0.0
+Miami (FL),reach_champ,0.003,Santa Clara,0.0009
+Miami (FL),reach_champ,0.003,St. John's (NY),0.0379
+Miami (FL),reach_champ,0.003,Alabama,0.0218
+Miami (FL),reach_champ,0.003,California Baptist,0.0
+Miami (FL),reach_champ,0.003,Kansas,0.0161
+Miami (FL),reach_champ,0.003,Duke,0.3097
+Miami (FL),reach_champ,0.003,Iowa State,0.1184
+Miami (FL),reach_champ,0.003,Siena,0.0
+Miami (FL),reach_champ,0.003,Kentucky,0.0085
+Miami (FL),reach_champ,0.003,Virginia,0.0265
+Miami (FL),reach_champ,0.003,Michigan,0.3049
+Miami (FL),reach_champ,0.003,Ohio State,0.0076
+Miami (FL),reach_champ,0.003,Northern Iowa,0.0
+Miami (FL),reach_champ,0.003,Texas Tech,0.0038
+Miami (FL),reach_champ,0.003,Michigan State,0.0369
+Miami (FL),reach_champ,0.003,Tennessee State,0.0
+Miami (FL),reach_champ,0.003,Wright State,0.0
+Miami (FL),reach_champ,0.003,UCF,0.0009
+Miami (FL),reach_champ,0.003,North Dakota State,0.0
+Miami (FL),reach_champ,0.003,Saint Louis,0.0009
+Miami (OH),r64,1.0,Tennessee,1.0
+Miami (OH),r32,0.125,Wright State,0.056
+Miami (OH),r32,0.125,Virginia,0.944
+Miami (OH),s16,0.019,Iowa State,0.749
+Miami (OH),s16,0.019,Kentucky,0.18
+Miami (OH),s16,0.019,Tennessee State,0.002
+Miami (OH),s16,0.019,Santa Clara,0.069
+Miami (OH),e8,0.002,Hofstra,0.003
+Miami (OH),e8,0.002,Georgia,0.032
+Miami (OH),e8,0.002,Texas Tech,0.049
+Miami (OH),e8,0.002,Akron,0.007
+Miami (OH),e8,0.002,Michigan,0.7383
+Miami (OH),e8,0.002,Alabama,0.1518
+Miami (OH),e8,0.002,Howard,0.0
+Miami (OH),e8,0.002,Saint Louis,0.019
+Miami (OH),f4,0.0,Siena,0.0
+Miami (OH),f4,0.0,UConn,0.1349
+Miami (OH),f4,0.0,South Florida,0.005
+Miami (OH),f4,0.0,Furman,0.0
+Miami (OH),f4,0.0,TCU,0.005
+Miami (OH),f4,0.0,UCLA,0.026
+Miami (OH),f4,0.0,Louisville,0.0579
+Miami (OH),f4,0.0,Ohio State,0.024
+Miami (OH),f4,0.0,Northern Iowa,0.002
+Miami (OH),f4,0.0,Michigan State,0.0939
+Miami (OH),f4,0.0,North Dakota State,0.0
+Miami (OH),f4,0.0,St. John's (NY),0.0949
+Miami (OH),f4,0.0,UCF,0.003
+Miami (OH),f4,0.0,California Baptist,0.0
+Miami (OH),f4,0.0,Kansas,0.048
+Miami (OH),f4,0.0,Duke,0.5055
+Miami (OH),reach_champ,0.0,Idaho,0.0
+Miami (OH),reach_champ,0.0,LIU,0.0
+Miami (OH),reach_champ,0.0,Utah State,0.0021
+Miami (OH),reach_champ,0.0,Vanderbilt,0.0328
+Miami (OH),reach_champ,0.0,Nebraska,0.018
+Miami (OH),reach_champ,0.0,Troy,0.0
+Miami (OH),reach_champ,0.0,Wisconsin,0.0138
+Miami (OH),reach_champ,0.0,Gonzaga,0.0487
+Miami (OH),reach_champ,0.0,Prairie View A&M,0.0
+Miami (OH),reach_champ,0.0,Iowa,0.0032
+Miami (OH),reach_champ,0.0,Texas,0.0021
+Miami (OH),reach_champ,0.0,BYU,0.0032
+Miami (OH),reach_champ,0.0,Queens (NC),0.0
+Miami (OH),reach_champ,0.0,Arizona,0.3104
+Miami (OH),reach_champ,0.0,High Point,0.0
+Miami (OH),reach_champ,0.0,Miami (FL),0.0032
+Miami (OH),reach_champ,0.0,Clemson,0.0021
+Miami (OH),reach_champ,0.0,VCU,0.0011
+Miami (OH),reach_champ,0.0,Kennesaw State,0.0
+Miami (OH),reach_champ,0.0,Texas A&M,0.0021
+Miami (OH),reach_champ,0.0,Florida,0.196
+Miami (OH),reach_champ,0.0,Villanova,0.0011
+Miami (OH),reach_champ,0.0,Purdue,0.0869
+Miami (OH),reach_champ,0.0,Hawaii,0.0
+Miami (OH),reach_champ,0.0,Missouri,0.0011
+Miami (OH),reach_champ,0.0,Houston,0.1472
+Miami (OH),reach_champ,0.0,Penn,0.0
+Miami (OH),reach_champ,0.0,Arkansas,0.0233
+Miami (OH),reach_champ,0.0,McNeese,0.0
+Miami (OH),reach_champ,0.0,UNC,0.0011
+Miami (OH),reach_champ,0.0,Saint Mary's,0.0053
+Miami (OH),reach_champ,0.0,Illinois,0.0953
+Michigan,r64,1.0,Howard,1.0
+Michigan,r32,0.981,Georgia,0.574
+Michigan,r32,0.981,Saint Louis,0.426
+Michigan,s16,0.88,Texas Tech,0.2767
+Michigan,s16,0.88,Akron,0.0679
+Michigan,s16,0.88,Hofstra,0.04
+Michigan,s16,0.88,Alabama,0.6154
+Michigan,e8,0.739,Iowa State,0.512
+Michigan,e8,0.739,Virginia,0.222
+Michigan,e8,0.739,Miami (OH),0.002
+Michigan,e8,0.739,Tennessee State,0.0
+Michigan,e8,0.739,Santa Clara,0.024
+Michigan,e8,0.739,Wright State,0.0
+Michigan,e8,0.739,Tennessee,0.156
+Michigan,e8,0.739,Kentucky,0.084
+Michigan,f4,0.515,Siena,0.0
+Michigan,f4,0.515,UConn,0.1349
+Michigan,f4,0.515,South Florida,0.005
+Michigan,f4,0.515,Furman,0.0
+Michigan,f4,0.515,TCU,0.005
+Michigan,f4,0.515,UCLA,0.026
+Michigan,f4,0.515,Louisville,0.0579
+Michigan,f4,0.515,Ohio State,0.024
+Michigan,f4,0.515,Northern Iowa,0.002
+Michigan,f4,0.515,Michigan State,0.0939
+Michigan,f4,0.515,North Dakota State,0.0
+Michigan,f4,0.515,St. John's (NY),0.0949
+Michigan,f4,0.515,UCF,0.003
+Michigan,f4,0.515,California Baptist,0.0
+Michigan,f4,0.515,Kansas,0.048
+Michigan,f4,0.515,Duke,0.5055
+Michigan,reach_champ,0.322,Idaho,0.0
+Michigan,reach_champ,0.322,LIU,0.0
+Michigan,reach_champ,0.322,Utah State,0.0021
+Michigan,reach_champ,0.322,Vanderbilt,0.0328
+Michigan,reach_champ,0.322,Nebraska,0.018
+Michigan,reach_champ,0.322,Troy,0.0
+Michigan,reach_champ,0.322,Wisconsin,0.0138
+Michigan,reach_champ,0.322,Gonzaga,0.0487
+Michigan,reach_champ,0.322,Prairie View A&M,0.0
+Michigan,reach_champ,0.322,Iowa,0.0032
+Michigan,reach_champ,0.322,Texas,0.0021
+Michigan,reach_champ,0.322,BYU,0.0032
+Michigan,reach_champ,0.322,Queens (NC),0.0
+Michigan,reach_champ,0.322,Arizona,0.3104
+Michigan,reach_champ,0.322,High Point,0.0
+Michigan,reach_champ,0.322,Miami (FL),0.0032
+Michigan,reach_champ,0.322,Clemson,0.0021
+Michigan,reach_champ,0.322,VCU,0.0011
+Michigan,reach_champ,0.322,Kennesaw State,0.0
+Michigan,reach_champ,0.322,Texas A&M,0.0021
+Michigan,reach_champ,0.322,Florida,0.196
+Michigan,reach_champ,0.322,Villanova,0.0011
+Michigan,reach_champ,0.322,Purdue,0.0869
+Michigan,reach_champ,0.322,Hawaii,0.0
+Michigan,reach_champ,0.322,Missouri,0.0011
+Michigan,reach_champ,0.322,Houston,0.1472
+Michigan,reach_champ,0.322,Penn,0.0
+Michigan,reach_champ,0.322,Arkansas,0.0233
+Michigan,reach_champ,0.322,McNeese,0.0
+Michigan,reach_champ,0.322,UNC,0.0011
+Michigan,reach_champ,0.322,Saint Mary's,0.0053
+Michigan,reach_champ,0.322,Illinois,0.0953
+Michigan State,r64,1.0,North Dakota State,1.0
+Michigan State,r32,0.924,Louisville,0.699
+Michigan State,r32,0.924,South Florida,0.301
+Michigan State,s16,0.54,Furman,0.009
+Michigan State,s16,0.54,UCF,0.068
+Michigan State,s16,0.54,UCLA,0.252
+Michigan State,s16,0.54,UConn,0.671
+Michigan State,e8,0.283,Siena,0.0
+Michigan State,e8,0.283,TCU,0.014
+Michigan State,e8,0.283,Ohio State,0.053
+Michigan State,e8,0.283,Northern Iowa,0.007
+Michigan State,e8,0.283,St. John's (NY),0.166
+Michigan State,e8,0.283,California Baptist,0.001
+Michigan State,e8,0.283,Kansas,0.101
+Michigan State,e8,0.283,Duke,0.658
+Michigan State,f4,0.094,Iowa State,0.2408
+Michigan State,f4,0.094,Kentucky,0.025
+Michigan State,f4,0.094,Tennessee,0.049
+Michigan State,f4,0.094,Hofstra,0.0
+Michigan State,f4,0.094,Virginia,0.0729
+Michigan State,f4,0.094,Miami (OH),0.0
+Michigan State,f4,0.094,Georgia,0.009
+Michigan State,f4,0.094,Texas Tech,0.015
+Michigan State,f4,0.094,Akron,0.001
+Michigan State,f4,0.094,Tennessee State,0.0
+Michigan State,f4,0.094,Santa Clara,0.005
+Michigan State,f4,0.094,Wright State,0.0
+Michigan State,f4,0.094,Michigan,0.5145
+Michigan State,f4,0.094,Alabama,0.0629
+Michigan State,f4,0.094,Howard,0.0
+Michigan State,f4,0.094,Saint Louis,0.005
+Michigan State,reach_champ,0.039,Idaho,0.0
+Michigan State,reach_champ,0.039,LIU,0.0
+Michigan State,reach_champ,0.039,Utah State,0.0021
+Michigan State,reach_champ,0.039,Vanderbilt,0.0328
+Michigan State,reach_champ,0.039,Nebraska,0.018
+Michigan State,reach_champ,0.039,Troy,0.0
+Michigan State,reach_champ,0.039,Wisconsin,0.0138
+Michigan State,reach_champ,0.039,Gonzaga,0.0487
+Michigan State,reach_champ,0.039,Prairie View A&M,0.0
+Michigan State,reach_champ,0.039,Iowa,0.0032
+Michigan State,reach_champ,0.039,Texas,0.0021
+Michigan State,reach_champ,0.039,BYU,0.0032
+Michigan State,reach_champ,0.039,Queens (NC),0.0
+Michigan State,reach_champ,0.039,Arizona,0.3104
+Michigan State,reach_champ,0.039,High Point,0.0
+Michigan State,reach_champ,0.039,Miami (FL),0.0032
+Michigan State,reach_champ,0.039,Clemson,0.0021
+Michigan State,reach_champ,0.039,VCU,0.0011
+Michigan State,reach_champ,0.039,Kennesaw State,0.0
+Michigan State,reach_champ,0.039,Texas A&M,0.0021
+Michigan State,reach_champ,0.039,Florida,0.196
+Michigan State,reach_champ,0.039,Villanova,0.0011
+Michigan State,reach_champ,0.039,Purdue,0.0869
+Michigan State,reach_champ,0.039,Hawaii,0.0
+Michigan State,reach_champ,0.039,Missouri,0.0011
+Michigan State,reach_champ,0.039,Houston,0.1472
+Michigan State,reach_champ,0.039,Penn,0.0
+Michigan State,reach_champ,0.039,Arkansas,0.0233
+Michigan State,reach_champ,0.039,McNeese,0.0
+Michigan State,reach_champ,0.039,UNC,0.0011
+Michigan State,reach_champ,0.039,Saint Mary's,0.0053
+Michigan State,reach_champ,0.039,Illinois,0.0953
+Missouri,r64,1.0,Miami (FL),1.0
+Missouri,r32,0.44,Queens (NC),0.022
+Missouri,r32,0.44,Purdue,0.978
+Missouri,s16,0.094,Gonzaga,0.7133
+Missouri,s16,0.094,Texas,0.1169
+Missouri,s16,0.094,Kennesaw State,0.004
+Missouri,s16,0.094,BYU,0.1658
+Missouri,e8,0.029,LIU,0.0
+Missouri,e8,0.029,Utah State,0.028
+Missouri,e8,0.029,Wisconsin,0.094
+Missouri,e8,0.029,Hawaii,0.001
+Missouri,e8,0.029,Arizona,0.721
+Missouri,e8,0.029,High Point,0.002
+Missouri,e8,0.029,Arkansas,0.141
+Missouri,e8,0.029,Villanova,0.013
+Missouri,f4,0.005,Florida,0.3433
+Missouri,f4,0.005,Idaho,0.0
+Missouri,f4,0.005,Illinois,0.1866
+Missouri,f4,0.005,Vanderbilt,0.0788
+Missouri,f4,0.005,Nebraska,0.0489
+Missouri,f4,0.005,Prairie View A&M,0.0
+Missouri,f4,0.005,Iowa,0.012
+Missouri,f4,0.005,Houston,0.2884
+Missouri,f4,0.005,Penn,0.0
+Missouri,f4,0.005,Clemson,0.006
+Missouri,f4,0.005,VCU,0.005
+Missouri,f4,0.005,McNeese,0.001
+Missouri,f4,0.005,Texas A&M,0.007
+Missouri,f4,0.005,UNC,0.005
+Missouri,f4,0.005,Saint Mary's,0.018
+Missouri,f4,0.005,Troy,0.0
+Missouri,reach_champ,0.001,UConn,0.054
+Missouri,reach_champ,0.001,Tennessee,0.017
+Missouri,reach_champ,0.001,South Florida,0.0009
+Missouri,reach_champ,0.001,Hofstra,0.0
+Missouri,reach_champ,0.001,Howard,0.0
+Missouri,reach_champ,0.001,Furman,0.0
+Missouri,reach_champ,0.001,TCU,0.0009
+Missouri,reach_champ,0.001,UCLA,0.0076
+Missouri,reach_champ,0.001,Louisville,0.0227
+Missouri,reach_champ,0.001,Miami (OH),0.0
+Missouri,reach_champ,0.001,Georgia,0.0019
+Missouri,reach_champ,0.001,Akron,0.0
+Missouri,reach_champ,0.001,Santa Clara,0.0009
+Missouri,reach_champ,0.001,St. John's (NY),0.0379
+Missouri,reach_champ,0.001,Alabama,0.0218
+Missouri,reach_champ,0.001,California Baptist,0.0
+Missouri,reach_champ,0.001,Kansas,0.0161
+Missouri,reach_champ,0.001,Duke,0.3097
+Missouri,reach_champ,0.001,Iowa State,0.1184
+Missouri,reach_champ,0.001,Siena,0.0
+Missouri,reach_champ,0.001,Kentucky,0.0085
+Missouri,reach_champ,0.001,Virginia,0.0265
+Missouri,reach_champ,0.001,Michigan,0.3049
+Missouri,reach_champ,0.001,Ohio State,0.0076
+Missouri,reach_champ,0.001,Northern Iowa,0.0
+Missouri,reach_champ,0.001,Texas Tech,0.0038
+Missouri,reach_champ,0.001,Michigan State,0.0369
+Missouri,reach_champ,0.001,Tennessee State,0.0
+Missouri,reach_champ,0.001,Wright State,0.0
+Missouri,reach_champ,0.001,UCF,0.0009
+Missouri,reach_champ,0.001,North Dakota State,0.0
+Missouri,reach_champ,0.001,Saint Louis,0.0009
+Nebraska,r64,1.0,Troy,1.0
+Nebraska,r32,0.927,Vanderbilt,0.84
+Nebraska,r32,0.927,McNeese,0.16
+Nebraska,s16,0.447,Florida,0.836
+Nebraska,s16,0.447,Prairie View A&M,0.0
+Nebraska,s16,0.447,Clemson,0.062
+Nebraska,s16,0.447,Iowa,0.102
+Nebraska,e8,0.14,Idaho,0.0
+Nebraska,e8,0.14,Houston,0.4925
+Nebraska,e8,0.14,Penn,0.0
+Nebraska,e8,0.14,VCU,0.022
+Nebraska,e8,0.14,Texas A&M,0.029
+Nebraska,e8,0.14,UNC,0.022
+Nebraska,e8,0.14,Saint Mary's,0.0579
+Nebraska,e8,0.14,Illinois,0.3766
+Nebraska,f4,0.049,LIU,0.0
+Nebraska,f4,0.049,Utah State,0.01
+Nebraska,f4,0.049,Wisconsin,0.04
+Nebraska,f4,0.049,Purdue,0.1818
+Nebraska,f4,0.049,Gonzaga,0.1339
+Nebraska,f4,0.049,Hawaii,0.0
+Nebraska,f4,0.049,Texas,0.007
+Nebraska,f4,0.049,Missouri,0.005
+Nebraska,f4,0.049,BYU,0.012
+Nebraska,f4,0.049,Queens (NC),0.0
+Nebraska,f4,0.049,Arizona,0.5285
+Nebraska,f4,0.049,High Point,0.001
+Nebraska,f4,0.049,Miami (FL),0.011
+Nebraska,f4,0.049,Kennesaw State,0.0
+Nebraska,f4,0.049,Arkansas,0.0659
+Nebraska,f4,0.049,Villanova,0.004
+Nebraska,reach_champ,0.017,UConn,0.054
+Nebraska,reach_champ,0.017,Tennessee,0.017
+Nebraska,reach_champ,0.017,South Florida,0.0009
+Nebraska,reach_champ,0.017,Hofstra,0.0
+Nebraska,reach_champ,0.017,Howard,0.0
+Nebraska,reach_champ,0.017,Furman,0.0
+Nebraska,reach_champ,0.017,TCU,0.0009
+Nebraska,reach_champ,0.017,UCLA,0.0076
+Nebraska,reach_champ,0.017,Louisville,0.0227
+Nebraska,reach_champ,0.017,Miami (OH),0.0
+Nebraska,reach_champ,0.017,Georgia,0.0019
+Nebraska,reach_champ,0.017,Akron,0.0
+Nebraska,reach_champ,0.017,Santa Clara,0.0009
+Nebraska,reach_champ,0.017,St. John's (NY),0.0379
+Nebraska,reach_champ,0.017,Alabama,0.0218
+Nebraska,reach_champ,0.017,California Baptist,0.0
+Nebraska,reach_champ,0.017,Kansas,0.0161
+Nebraska,reach_champ,0.017,Duke,0.3097
+Nebraska,reach_champ,0.017,Iowa State,0.1184
+Nebraska,reach_champ,0.017,Siena,0.0
+Nebraska,reach_champ,0.017,Kentucky,0.0085
+Nebraska,reach_champ,0.017,Virginia,0.0265
+Nebraska,reach_champ,0.017,Michigan,0.3049
+Nebraska,reach_champ,0.017,Ohio State,0.0076
+Nebraska,reach_champ,0.017,Northern Iowa,0.0
+Nebraska,reach_champ,0.017,Texas Tech,0.0038
+Nebraska,reach_champ,0.017,Michigan State,0.0369
+Nebraska,reach_champ,0.017,Tennessee State,0.0
+Nebraska,reach_champ,0.017,Wright State,0.0
+Nebraska,reach_champ,0.017,UCF,0.0009
+Nebraska,reach_champ,0.017,North Dakota State,0.0
+Nebraska,reach_champ,0.017,Saint Louis,0.0009
+North Dakota State,r64,1.0,Michigan State,1.0
+North Dakota State,r32,0.076,Louisville,0.699
+North Dakota State,r32,0.076,South Florida,0.301
+North Dakota State,s16,0.01,Furman,0.009
+North Dakota State,s16,0.01,UCF,0.068
+North Dakota State,s16,0.01,UCLA,0.252
+North Dakota State,s16,0.01,UConn,0.671
+North Dakota State,e8,0.001,Siena,0.0
+North Dakota State,e8,0.001,TCU,0.014
+North Dakota State,e8,0.001,Ohio State,0.053
+North Dakota State,e8,0.001,Northern Iowa,0.007
+North Dakota State,e8,0.001,St. John's (NY),0.166
+North Dakota State,e8,0.001,California Baptist,0.001
+North Dakota State,e8,0.001,Kansas,0.101
+North Dakota State,e8,0.001,Duke,0.658
+North Dakota State,f4,0.0,Iowa State,0.2408
+North Dakota State,f4,0.0,Kentucky,0.025
+North Dakota State,f4,0.0,Tennessee,0.049
+North Dakota State,f4,0.0,Hofstra,0.0
+North Dakota State,f4,0.0,Virginia,0.0729
+North Dakota State,f4,0.0,Miami (OH),0.0
+North Dakota State,f4,0.0,Georgia,0.009
+North Dakota State,f4,0.0,Texas Tech,0.015
+North Dakota State,f4,0.0,Akron,0.001
+North Dakota State,f4,0.0,Tennessee State,0.0
+North Dakota State,f4,0.0,Santa Clara,0.005
+North Dakota State,f4,0.0,Wright State,0.0
+North Dakota State,f4,0.0,Michigan,0.5145
+North Dakota State,f4,0.0,Alabama,0.0629
+North Dakota State,f4,0.0,Howard,0.0
+North Dakota State,f4,0.0,Saint Louis,0.005
+North Dakota State,reach_champ,0.0,Idaho,0.0
+North Dakota State,reach_champ,0.0,LIU,0.0
+North Dakota State,reach_champ,0.0,Utah State,0.0021
+North Dakota State,reach_champ,0.0,Vanderbilt,0.0328
+North Dakota State,reach_champ,0.0,Nebraska,0.018
+North Dakota State,reach_champ,0.0,Troy,0.0
+North Dakota State,reach_champ,0.0,Wisconsin,0.0138
+North Dakota State,reach_champ,0.0,Gonzaga,0.0487
+North Dakota State,reach_champ,0.0,Prairie View A&M,0.0
+North Dakota State,reach_champ,0.0,Iowa,0.0032
+North Dakota State,reach_champ,0.0,Texas,0.0021
+North Dakota State,reach_champ,0.0,BYU,0.0032
+North Dakota State,reach_champ,0.0,Queens (NC),0.0
+North Dakota State,reach_champ,0.0,Arizona,0.3104
+North Dakota State,reach_champ,0.0,High Point,0.0
+North Dakota State,reach_champ,0.0,Miami (FL),0.0032
+North Dakota State,reach_champ,0.0,Clemson,0.0021
+North Dakota State,reach_champ,0.0,VCU,0.0011
+North Dakota State,reach_champ,0.0,Kennesaw State,0.0
+North Dakota State,reach_champ,0.0,Texas A&M,0.0021
+North Dakota State,reach_champ,0.0,Florida,0.196
+North Dakota State,reach_champ,0.0,Villanova,0.0011
+North Dakota State,reach_champ,0.0,Purdue,0.0869
+North Dakota State,reach_champ,0.0,Hawaii,0.0
+North Dakota State,reach_champ,0.0,Missouri,0.0011
+North Dakota State,reach_champ,0.0,Houston,0.1472
+North Dakota State,reach_champ,0.0,Penn,0.0
+North Dakota State,reach_champ,0.0,Arkansas,0.0233
+North Dakota State,reach_champ,0.0,McNeese,0.0
+North Dakota State,reach_champ,0.0,UNC,0.0011
+North Dakota State,reach_champ,0.0,Saint Mary's,0.0053
+North Dakota State,reach_champ,0.0,Illinois,0.0953
+Northern Iowa,r64,1.0,St. John's (NY),1.0
+Northern Iowa,r32,0.175,California Baptist,0.137
+Northern Iowa,r32,0.175,Kansas,0.863
+Northern Iowa,s16,0.054,Siena,0.001
+Northern Iowa,s16,0.054,TCU,0.041
+Northern Iowa,s16,0.054,Ohio State,0.113
+Northern Iowa,s16,0.054,Duke,0.845
+Northern Iowa,e8,0.007,UConn,0.378
+Northern Iowa,e8,0.007,South Florida,0.031
+Northern Iowa,e8,0.007,Furman,0.001
+Northern Iowa,e8,0.007,UCLA,0.105
+Northern Iowa,e8,0.007,Louisville,0.183
+Northern Iowa,e8,0.007,Michigan State,0.283
+Northern Iowa,e8,0.007,UCF,0.018
+Northern Iowa,e8,0.007,North Dakota State,0.001
+Northern Iowa,f4,0.002,Iowa State,0.2408
+Northern Iowa,f4,0.002,Kentucky,0.025
+Northern Iowa,f4,0.002,Tennessee,0.049
+Northern Iowa,f4,0.002,Hofstra,0.0
+Northern Iowa,f4,0.002,Virginia,0.0729
+Northern Iowa,f4,0.002,Miami (OH),0.0
+Northern Iowa,f4,0.002,Georgia,0.009
+Northern Iowa,f4,0.002,Texas Tech,0.015
+Northern Iowa,f4,0.002,Akron,0.001
+Northern Iowa,f4,0.002,Tennessee State,0.0
+Northern Iowa,f4,0.002,Santa Clara,0.005
+Northern Iowa,f4,0.002,Wright State,0.0
+Northern Iowa,f4,0.002,Michigan,0.5145
+Northern Iowa,f4,0.002,Alabama,0.0629
+Northern Iowa,f4,0.002,Howard,0.0
+Northern Iowa,f4,0.002,Saint Louis,0.005
+Northern Iowa,reach_champ,0.0,Idaho,0.0
+Northern Iowa,reach_champ,0.0,LIU,0.0
+Northern Iowa,reach_champ,0.0,Utah State,0.0021
+Northern Iowa,reach_champ,0.0,Vanderbilt,0.0328
+Northern Iowa,reach_champ,0.0,Nebraska,0.018
+Northern Iowa,reach_champ,0.0,Troy,0.0
+Northern Iowa,reach_champ,0.0,Wisconsin,0.0138
+Northern Iowa,reach_champ,0.0,Gonzaga,0.0487
+Northern Iowa,reach_champ,0.0,Prairie View A&M,0.0
+Northern Iowa,reach_champ,0.0,Iowa,0.0032
+Northern Iowa,reach_champ,0.0,Texas,0.0021
+Northern Iowa,reach_champ,0.0,BYU,0.0032
+Northern Iowa,reach_champ,0.0,Queens (NC),0.0
+Northern Iowa,reach_champ,0.0,Arizona,0.3104
+Northern Iowa,reach_champ,0.0,High Point,0.0
+Northern Iowa,reach_champ,0.0,Miami (FL),0.0032
+Northern Iowa,reach_champ,0.0,Clemson,0.0021
+Northern Iowa,reach_champ,0.0,VCU,0.0011
+Northern Iowa,reach_champ,0.0,Kennesaw State,0.0
+Northern Iowa,reach_champ,0.0,Texas A&M,0.0021
+Northern Iowa,reach_champ,0.0,Florida,0.196
+Northern Iowa,reach_champ,0.0,Villanova,0.0011
+Northern Iowa,reach_champ,0.0,Purdue,0.0869
+Northern Iowa,reach_champ,0.0,Hawaii,0.0
+Northern Iowa,reach_champ,0.0,Missouri,0.0011
+Northern Iowa,reach_champ,0.0,Houston,0.1472
+Northern Iowa,reach_champ,0.0,Penn,0.0
+Northern Iowa,reach_champ,0.0,Arkansas,0.0233
+Northern Iowa,reach_champ,0.0,McNeese,0.0
+Northern Iowa,reach_champ,0.0,UNC,0.0011
+Northern Iowa,reach_champ,0.0,Saint Mary's,0.0053
+Northern Iowa,reach_champ,0.0,Illinois,0.0953
+Ohio State,r64,1.0,TCU,1.0
+Ohio State,r32,0.642,Siena,0.012
+Ohio State,r32,0.642,Duke,0.988
+Ohio State,s16,0.113,Northern Iowa,0.0539
+Ohio State,s16,0.113,St. John's (NY),0.5065
+Ohio State,s16,0.113,California Baptist,0.023
+Ohio State,s16,0.113,Kansas,0.4166
+Ohio State,e8,0.053,UConn,0.378
+Ohio State,e8,0.053,South Florida,0.031
+Ohio State,e8,0.053,Furman,0.001
+Ohio State,e8,0.053,UCLA,0.105
+Ohio State,e8,0.053,Louisville,0.183
+Ohio State,e8,0.053,Michigan State,0.283
+Ohio State,e8,0.053,UCF,0.018
+Ohio State,e8,0.053,North Dakota State,0.001
+Ohio State,f4,0.024,Iowa State,0.2408
+Ohio State,f4,0.024,Kentucky,0.025
+Ohio State,f4,0.024,Tennessee,0.049
+Ohio State,f4,0.024,Hofstra,0.0
+Ohio State,f4,0.024,Virginia,0.0729
+Ohio State,f4,0.024,Miami (OH),0.0
+Ohio State,f4,0.024,Georgia,0.009
+Ohio State,f4,0.024,Texas Tech,0.015
+Ohio State,f4,0.024,Akron,0.001
+Ohio State,f4,0.024,Tennessee State,0.0
+Ohio State,f4,0.024,Santa Clara,0.005
+Ohio State,f4,0.024,Wright State,0.0
+Ohio State,f4,0.024,Michigan,0.5145
+Ohio State,f4,0.024,Alabama,0.0629
+Ohio State,f4,0.024,Howard,0.0
+Ohio State,f4,0.024,Saint Louis,0.005
+Ohio State,reach_champ,0.008,Idaho,0.0
+Ohio State,reach_champ,0.008,LIU,0.0
+Ohio State,reach_champ,0.008,Utah State,0.0021
+Ohio State,reach_champ,0.008,Vanderbilt,0.0328
+Ohio State,reach_champ,0.008,Nebraska,0.018
+Ohio State,reach_champ,0.008,Troy,0.0
+Ohio State,reach_champ,0.008,Wisconsin,0.0138
+Ohio State,reach_champ,0.008,Gonzaga,0.0487
+Ohio State,reach_champ,0.008,Prairie View A&M,0.0
+Ohio State,reach_champ,0.008,Iowa,0.0032
+Ohio State,reach_champ,0.008,Texas,0.0021
+Ohio State,reach_champ,0.008,BYU,0.0032
+Ohio State,reach_champ,0.008,Queens (NC),0.0
+Ohio State,reach_champ,0.008,Arizona,0.3104
+Ohio State,reach_champ,0.008,High Point,0.0
+Ohio State,reach_champ,0.008,Miami (FL),0.0032
+Ohio State,reach_champ,0.008,Clemson,0.0021
+Ohio State,reach_champ,0.008,VCU,0.0011
+Ohio State,reach_champ,0.008,Kennesaw State,0.0
+Ohio State,reach_champ,0.008,Texas A&M,0.0021
+Ohio State,reach_champ,0.008,Florida,0.196
+Ohio State,reach_champ,0.008,Villanova,0.0011
+Ohio State,reach_champ,0.008,Purdue,0.0869
+Ohio State,reach_champ,0.008,Hawaii,0.0
+Ohio State,reach_champ,0.008,Missouri,0.0011
+Ohio State,reach_champ,0.008,Houston,0.1472
+Ohio State,reach_champ,0.008,Penn,0.0
+Ohio State,reach_champ,0.008,Arkansas,0.0233
+Ohio State,reach_champ,0.008,McNeese,0.0
+Ohio State,reach_champ,0.008,UNC,0.0011
+Ohio State,reach_champ,0.008,Saint Mary's,0.0053
+Ohio State,reach_champ,0.008,Illinois,0.0953
+Penn,r64,1.0,Illinois,1.0
+Penn,r32,0.029,UNC,0.502
+Penn,r32,0.029,VCU,0.498
+Penn,s16,0.004,Idaho,0.004
+Penn,s16,0.004,Texas A&M,0.087
+Penn,s16,0.004,Saint Mary's,0.158
+Penn,s16,0.004,Houston,0.751
+Penn,e8,0.0,Florida,0.601
+Penn,e8,0.0,Vanderbilt,0.188
+Penn,e8,0.0,Nebraska,0.14
+Penn,e8,0.0,Prairie View A&M,0.0
+Penn,e8,0.0,Iowa,0.041
+Penn,e8,0.0,Clemson,0.023
+Penn,e8,0.0,McNeese,0.007
+Penn,e8,0.0,Troy,0.0
+Penn,f4,0.0,LIU,0.0
+Penn,f4,0.0,Utah State,0.01
+Penn,f4,0.0,Wisconsin,0.04
+Penn,f4,0.0,Purdue,0.1818
+Penn,f4,0.0,Gonzaga,0.1339
+Penn,f4,0.0,Hawaii,0.0
+Penn,f4,0.0,Texas,0.007
+Penn,f4,0.0,Missouri,0.005
+Penn,f4,0.0,BYU,0.012
+Penn,f4,0.0,Queens (NC),0.0
+Penn,f4,0.0,Arizona,0.5285
+Penn,f4,0.0,High Point,0.001
+Penn,f4,0.0,Miami (FL),0.011
+Penn,f4,0.0,Kennesaw State,0.0
+Penn,f4,0.0,Arkansas,0.0659
+Penn,f4,0.0,Villanova,0.004
+Penn,reach_champ,0.0,UConn,0.054
+Penn,reach_champ,0.0,Tennessee,0.017
+Penn,reach_champ,0.0,South Florida,0.0009
+Penn,reach_champ,0.0,Hofstra,0.0
+Penn,reach_champ,0.0,Howard,0.0
+Penn,reach_champ,0.0,Furman,0.0
+Penn,reach_champ,0.0,TCU,0.0009
+Penn,reach_champ,0.0,UCLA,0.0076
+Penn,reach_champ,0.0,Louisville,0.0227
+Penn,reach_champ,0.0,Miami (OH),0.0
+Penn,reach_champ,0.0,Georgia,0.0019
+Penn,reach_champ,0.0,Akron,0.0
+Penn,reach_champ,0.0,Santa Clara,0.0009
+Penn,reach_champ,0.0,St. John's (NY),0.0379
+Penn,reach_champ,0.0,Alabama,0.0218
+Penn,reach_champ,0.0,California Baptist,0.0
+Penn,reach_champ,0.0,Kansas,0.0161
+Penn,reach_champ,0.0,Duke,0.3097
+Penn,reach_champ,0.0,Iowa State,0.1184
+Penn,reach_champ,0.0,Siena,0.0
+Penn,reach_champ,0.0,Kentucky,0.0085
+Penn,reach_champ,0.0,Virginia,0.0265
+Penn,reach_champ,0.0,Michigan,0.3049
+Penn,reach_champ,0.0,Ohio State,0.0076
+Penn,reach_champ,0.0,Northern Iowa,0.0
+Penn,reach_champ,0.0,Texas Tech,0.0038
+Penn,reach_champ,0.0,Michigan State,0.0369
+Penn,reach_champ,0.0,Tennessee State,0.0
+Penn,reach_champ,0.0,Wright State,0.0
+Penn,reach_champ,0.0,UCF,0.0009
+Penn,reach_champ,0.0,North Dakota State,0.0
+Penn,reach_champ,0.0,Saint Louis,0.0009
+Prairie View A&M,r64,1.0,Florida,1.0
+Prairie View A&M,r32,0.008,Iowa,0.597
+Prairie View A&M,r32,0.008,Clemson,0.403
+Prairie View A&M,s16,0.0,Vanderbilt,0.501
+Prairie View A&M,s16,0.0,McNeese,0.045
+Prairie View A&M,s16,0.0,Nebraska,0.447
+Prairie View A&M,s16,0.0,Troy,0.007
+Prairie View A&M,e8,0.0,Idaho,0.0
+Prairie View A&M,e8,0.0,Houston,0.4925
+Prairie View A&M,e8,0.0,Penn,0.0
+Prairie View A&M,e8,0.0,VCU,0.022
+Prairie View A&M,e8,0.0,Texas A&M,0.029
+Prairie View A&M,e8,0.0,UNC,0.022
+Prairie View A&M,e8,0.0,Saint Mary's,0.0579
+Prairie View A&M,e8,0.0,Illinois,0.3766
+Prairie View A&M,f4,0.0,LIU,0.0
+Prairie View A&M,f4,0.0,Utah State,0.01
+Prairie View A&M,f4,0.0,Wisconsin,0.04
+Prairie View A&M,f4,0.0,Purdue,0.1818
+Prairie View A&M,f4,0.0,Gonzaga,0.1339
+Prairie View A&M,f4,0.0,Hawaii,0.0
+Prairie View A&M,f4,0.0,Texas,0.007
+Prairie View A&M,f4,0.0,Missouri,0.005
+Prairie View A&M,f4,0.0,BYU,0.012
+Prairie View A&M,f4,0.0,Queens (NC),0.0
+Prairie View A&M,f4,0.0,Arizona,0.5285
+Prairie View A&M,f4,0.0,High Point,0.001
+Prairie View A&M,f4,0.0,Miami (FL),0.011
+Prairie View A&M,f4,0.0,Kennesaw State,0.0
+Prairie View A&M,f4,0.0,Arkansas,0.0659
+Prairie View A&M,f4,0.0,Villanova,0.004
+Prairie View A&M,reach_champ,0.0,UConn,0.054
+Prairie View A&M,reach_champ,0.0,Tennessee,0.017
+Prairie View A&M,reach_champ,0.0,South Florida,0.0009
+Prairie View A&M,reach_champ,0.0,Hofstra,0.0
+Prairie View A&M,reach_champ,0.0,Howard,0.0
+Prairie View A&M,reach_champ,0.0,Furman,0.0
+Prairie View A&M,reach_champ,0.0,TCU,0.0009
+Prairie View A&M,reach_champ,0.0,UCLA,0.0076
+Prairie View A&M,reach_champ,0.0,Louisville,0.0227
+Prairie View A&M,reach_champ,0.0,Miami (OH),0.0
+Prairie View A&M,reach_champ,0.0,Georgia,0.0019
+Prairie View A&M,reach_champ,0.0,Akron,0.0
+Prairie View A&M,reach_champ,0.0,Santa Clara,0.0009
+Prairie View A&M,reach_champ,0.0,St. John's (NY),0.0379
+Prairie View A&M,reach_champ,0.0,Alabama,0.0218
+Prairie View A&M,reach_champ,0.0,California Baptist,0.0
+Prairie View A&M,reach_champ,0.0,Kansas,0.0161
+Prairie View A&M,reach_champ,0.0,Duke,0.3097
+Prairie View A&M,reach_champ,0.0,Iowa State,0.1184
+Prairie View A&M,reach_champ,0.0,Siena,0.0
+Prairie View A&M,reach_champ,0.0,Kentucky,0.0085
+Prairie View A&M,reach_champ,0.0,Virginia,0.0265
+Prairie View A&M,reach_champ,0.0,Michigan,0.3049
+Prairie View A&M,reach_champ,0.0,Ohio State,0.0076
+Prairie View A&M,reach_champ,0.0,Northern Iowa,0.0
+Prairie View A&M,reach_champ,0.0,Texas Tech,0.0038
+Prairie View A&M,reach_champ,0.0,Michigan State,0.0369
+Prairie View A&M,reach_champ,0.0,Tennessee State,0.0
+Prairie View A&M,reach_champ,0.0,Wright State,0.0
+Prairie View A&M,reach_champ,0.0,UCF,0.0009
+Prairie View A&M,reach_champ,0.0,North Dakota State,0.0
+Prairie View A&M,reach_champ,0.0,Saint Louis,0.0009
+Purdue,r64,1.0,Queens (NC),1.0
+Purdue,r32,0.978,Miami (FL),0.56
+Purdue,r32,0.978,Missouri,0.44
+Purdue,s16,0.768,Gonzaga,0.7133
+Purdue,s16,0.768,Texas,0.1169
+Purdue,s16,0.768,Kennesaw State,0.004
+Purdue,s16,0.768,BYU,0.1658
+Purdue,e8,0.46,LIU,0.0
+Purdue,e8,0.46,Utah State,0.028
+Purdue,e8,0.46,Wisconsin,0.094
+Purdue,e8,0.46,Hawaii,0.001
+Purdue,e8,0.46,Arizona,0.721
+Purdue,e8,0.46,High Point,0.002
+Purdue,e8,0.46,Arkansas,0.141
+Purdue,e8,0.46,Villanova,0.013
+Purdue,f4,0.182,Florida,0.3433
+Purdue,f4,0.182,Idaho,0.0
+Purdue,f4,0.182,Illinois,0.1866
+Purdue,f4,0.182,Vanderbilt,0.0788
+Purdue,f4,0.182,Nebraska,0.0489
+Purdue,f4,0.182,Prairie View A&M,0.0
+Purdue,f4,0.182,Iowa,0.012
+Purdue,f4,0.182,Houston,0.2884
+Purdue,f4,0.182,Penn,0.0
+Purdue,f4,0.182,Clemson,0.006
+Purdue,f4,0.182,VCU,0.005
+Purdue,f4,0.182,McNeese,0.001
+Purdue,f4,0.182,Texas A&M,0.007
+Purdue,f4,0.182,UNC,0.005
+Purdue,f4,0.182,Saint Mary's,0.018
+Purdue,f4,0.182,Troy,0.0
+Purdue,reach_champ,0.082,UConn,0.054
+Purdue,reach_champ,0.082,Tennessee,0.017
+Purdue,reach_champ,0.082,South Florida,0.0009
+Purdue,reach_champ,0.082,Hofstra,0.0
+Purdue,reach_champ,0.082,Howard,0.0
+Purdue,reach_champ,0.082,Furman,0.0
+Purdue,reach_champ,0.082,TCU,0.0009
+Purdue,reach_champ,0.082,UCLA,0.0076
+Purdue,reach_champ,0.082,Louisville,0.0227
+Purdue,reach_champ,0.082,Miami (OH),0.0
+Purdue,reach_champ,0.082,Georgia,0.0019
+Purdue,reach_champ,0.082,Akron,0.0
+Purdue,reach_champ,0.082,Santa Clara,0.0009
+Purdue,reach_champ,0.082,St. John's (NY),0.0379
+Purdue,reach_champ,0.082,Alabama,0.0218
+Purdue,reach_champ,0.082,California Baptist,0.0
+Purdue,reach_champ,0.082,Kansas,0.0161
+Purdue,reach_champ,0.082,Duke,0.3097
+Purdue,reach_champ,0.082,Iowa State,0.1184
+Purdue,reach_champ,0.082,Siena,0.0
+Purdue,reach_champ,0.082,Kentucky,0.0085
+Purdue,reach_champ,0.082,Virginia,0.0265
+Purdue,reach_champ,0.082,Michigan,0.3049
+Purdue,reach_champ,0.082,Ohio State,0.0076
+Purdue,reach_champ,0.082,Northern Iowa,0.0
+Purdue,reach_champ,0.082,Texas Tech,0.0038
+Purdue,reach_champ,0.082,Michigan State,0.0369
+Purdue,reach_champ,0.082,Tennessee State,0.0
+Purdue,reach_champ,0.082,Wright State,0.0
+Purdue,reach_champ,0.082,UCF,0.0009
+Purdue,reach_champ,0.082,North Dakota State,0.0
+Purdue,reach_champ,0.082,Saint Louis,0.0009
+Queens (NC),r64,1.0,Purdue,1.0
+Queens (NC),r32,0.022,Miami (FL),0.56
+Queens (NC),r32,0.022,Missouri,0.44
+Queens (NC),s16,0.002,Gonzaga,0.7133
+Queens (NC),s16,0.002,Texas,0.1169
+Queens (NC),s16,0.002,Kennesaw State,0.004
+Queens (NC),s16,0.002,BYU,0.1658
+Queens (NC),e8,0.0,LIU,0.0
+Queens (NC),e8,0.0,Utah State,0.028
+Queens (NC),e8,0.0,Wisconsin,0.094
+Queens (NC),e8,0.0,Hawaii,0.001
+Queens (NC),e8,0.0,Arizona,0.721
+Queens (NC),e8,0.0,High Point,0.002
+Queens (NC),e8,0.0,Arkansas,0.141
+Queens (NC),e8,0.0,Villanova,0.013
+Queens (NC),f4,0.0,Florida,0.3433
+Queens (NC),f4,0.0,Idaho,0.0
+Queens (NC),f4,0.0,Illinois,0.1866
+Queens (NC),f4,0.0,Vanderbilt,0.0788
+Queens (NC),f4,0.0,Nebraska,0.0489
+Queens (NC),f4,0.0,Prairie View A&M,0.0
+Queens (NC),f4,0.0,Iowa,0.012
+Queens (NC),f4,0.0,Houston,0.2884
+Queens (NC),f4,0.0,Penn,0.0
+Queens (NC),f4,0.0,Clemson,0.006
+Queens (NC),f4,0.0,VCU,0.005
+Queens (NC),f4,0.0,McNeese,0.001
+Queens (NC),f4,0.0,Texas A&M,0.007
+Queens (NC),f4,0.0,UNC,0.005
+Queens (NC),f4,0.0,Saint Mary's,0.018
+Queens (NC),f4,0.0,Troy,0.0
+Queens (NC),reach_champ,0.0,UConn,0.054
+Queens (NC),reach_champ,0.0,Tennessee,0.017
+Queens (NC),reach_champ,0.0,South Florida,0.0009
+Queens (NC),reach_champ,0.0,Hofstra,0.0
+Queens (NC),reach_champ,0.0,Howard,0.0
+Queens (NC),reach_champ,0.0,Furman,0.0
+Queens (NC),reach_champ,0.0,TCU,0.0009
+Queens (NC),reach_champ,0.0,UCLA,0.0076
+Queens (NC),reach_champ,0.0,Louisville,0.0227
+Queens (NC),reach_champ,0.0,Miami (OH),0.0
+Queens (NC),reach_champ,0.0,Georgia,0.0019
+Queens (NC),reach_champ,0.0,Akron,0.0
+Queens (NC),reach_champ,0.0,Santa Clara,0.0009
+Queens (NC),reach_champ,0.0,St. John's (NY),0.0379
+Queens (NC),reach_champ,0.0,Alabama,0.0218
+Queens (NC),reach_champ,0.0,California Baptist,0.0
+Queens (NC),reach_champ,0.0,Kansas,0.0161
+Queens (NC),reach_champ,0.0,Duke,0.3097
+Queens (NC),reach_champ,0.0,Iowa State,0.1184
+Queens (NC),reach_champ,0.0,Siena,0.0
+Queens (NC),reach_champ,0.0,Kentucky,0.0085
+Queens (NC),reach_champ,0.0,Virginia,0.0265
+Queens (NC),reach_champ,0.0,Michigan,0.3049
+Queens (NC),reach_champ,0.0,Ohio State,0.0076
+Queens (NC),reach_champ,0.0,Northern Iowa,0.0
+Queens (NC),reach_champ,0.0,Texas Tech,0.0038
+Queens (NC),reach_champ,0.0,Michigan State,0.0369
+Queens (NC),reach_champ,0.0,Tennessee State,0.0
+Queens (NC),reach_champ,0.0,Wright State,0.0
+Queens (NC),reach_champ,0.0,UCF,0.0009
+Queens (NC),reach_champ,0.0,North Dakota State,0.0
+Queens (NC),reach_champ,0.0,Saint Louis,0.0009
+Saint Louis,r64,1.0,Georgia,1.0
+Saint Louis,r32,0.426,Howard,0.019
+Saint Louis,r32,0.426,Michigan,0.981
+Saint Louis,s16,0.045,Texas Tech,0.2767
+Saint Louis,s16,0.045,Akron,0.0679
+Saint Louis,s16,0.045,Hofstra,0.04
+Saint Louis,s16,0.045,Alabama,0.6154
+Saint Louis,e8,0.019,Iowa State,0.512
+Saint Louis,e8,0.019,Virginia,0.222
+Saint Louis,e8,0.019,Miami (OH),0.002
+Saint Louis,e8,0.019,Tennessee State,0.0
+Saint Louis,e8,0.019,Santa Clara,0.024
+Saint Louis,e8,0.019,Wright State,0.0
+Saint Louis,e8,0.019,Tennessee,0.156
+Saint Louis,e8,0.019,Kentucky,0.084
+Saint Louis,f4,0.005,Siena,0.0
+Saint Louis,f4,0.005,UConn,0.1349
+Saint Louis,f4,0.005,South Florida,0.005
+Saint Louis,f4,0.005,Furman,0.0
+Saint Louis,f4,0.005,TCU,0.005
+Saint Louis,f4,0.005,UCLA,0.026
+Saint Louis,f4,0.005,Louisville,0.0579
+Saint Louis,f4,0.005,Ohio State,0.024
+Saint Louis,f4,0.005,Northern Iowa,0.002
+Saint Louis,f4,0.005,Michigan State,0.0939
+Saint Louis,f4,0.005,North Dakota State,0.0
+Saint Louis,f4,0.005,St. John's (NY),0.0949
+Saint Louis,f4,0.005,UCF,0.003
+Saint Louis,f4,0.005,California Baptist,0.0
+Saint Louis,f4,0.005,Kansas,0.048
+Saint Louis,f4,0.005,Duke,0.5055
+Saint Louis,reach_champ,0.001,Idaho,0.0
+Saint Louis,reach_champ,0.001,LIU,0.0
+Saint Louis,reach_champ,0.001,Utah State,0.0021
+Saint Louis,reach_champ,0.001,Vanderbilt,0.0328
+Saint Louis,reach_champ,0.001,Nebraska,0.018
+Saint Louis,reach_champ,0.001,Troy,0.0
+Saint Louis,reach_champ,0.001,Wisconsin,0.0138
+Saint Louis,reach_champ,0.001,Gonzaga,0.0487
+Saint Louis,reach_champ,0.001,Prairie View A&M,0.0
+Saint Louis,reach_champ,0.001,Iowa,0.0032
+Saint Louis,reach_champ,0.001,Texas,0.0021
+Saint Louis,reach_champ,0.001,BYU,0.0032
+Saint Louis,reach_champ,0.001,Queens (NC),0.0
+Saint Louis,reach_champ,0.001,Arizona,0.3104
+Saint Louis,reach_champ,0.001,High Point,0.0
+Saint Louis,reach_champ,0.001,Miami (FL),0.0032
+Saint Louis,reach_champ,0.001,Clemson,0.0021
+Saint Louis,reach_champ,0.001,VCU,0.0011
+Saint Louis,reach_champ,0.001,Kennesaw State,0.0
+Saint Louis,reach_champ,0.001,Texas A&M,0.0021
+Saint Louis,reach_champ,0.001,Florida,0.196
+Saint Louis,reach_champ,0.001,Villanova,0.0011
+Saint Louis,reach_champ,0.001,Purdue,0.0869
+Saint Louis,reach_champ,0.001,Hawaii,0.0
+Saint Louis,reach_champ,0.001,Missouri,0.0011
+Saint Louis,reach_champ,0.001,Houston,0.1472
+Saint Louis,reach_champ,0.001,Penn,0.0
+Saint Louis,reach_champ,0.001,Arkansas,0.0233
+Saint Louis,reach_champ,0.001,McNeese,0.0
+Saint Louis,reach_champ,0.001,UNC,0.0011
+Saint Louis,reach_champ,0.001,Saint Mary's,0.0053
+Saint Louis,reach_champ,0.001,Illinois,0.0953
+Saint Mary's,r64,1.0,Texas A&M,1.0
+Saint Mary's,r32,0.582,Idaho,0.032
+Saint Mary's,r32,0.582,Houston,0.968
+Saint Mary's,s16,0.158,Penn,0.004
+Saint Mary's,s16,0.158,UNC,0.105
+Saint Mary's,s16,0.158,Illinois,0.788
+Saint Mary's,s16,0.158,VCU,0.103
+Saint Mary's,e8,0.058,Florida,0.601
+Saint Mary's,e8,0.058,Vanderbilt,0.188
+Saint Mary's,e8,0.058,Nebraska,0.14
+Saint Mary's,e8,0.058,Prairie View A&M,0.0
+Saint Mary's,e8,0.058,Iowa,0.041
+Saint Mary's,e8,0.058,Clemson,0.023
+Saint Mary's,e8,0.058,McNeese,0.007
+Saint Mary's,e8,0.058,Troy,0.0
+Saint Mary's,f4,0.018,LIU,0.0
+Saint Mary's,f4,0.018,Utah State,0.01
+Saint Mary's,f4,0.018,Wisconsin,0.04
+Saint Mary's,f4,0.018,Purdue,0.1818
+Saint Mary's,f4,0.018,Gonzaga,0.1339
+Saint Mary's,f4,0.018,Hawaii,0.0
+Saint Mary's,f4,0.018,Texas,0.007
+Saint Mary's,f4,0.018,Missouri,0.005
+Saint Mary's,f4,0.018,BYU,0.012
+Saint Mary's,f4,0.018,Queens (NC),0.0
+Saint Mary's,f4,0.018,Arizona,0.5285
+Saint Mary's,f4,0.018,High Point,0.001
+Saint Mary's,f4,0.018,Miami (FL),0.011
+Saint Mary's,f4,0.018,Kennesaw State,0.0
+Saint Mary's,f4,0.018,Arkansas,0.0659
+Saint Mary's,f4,0.018,Villanova,0.004
+Saint Mary's,reach_champ,0.005,UConn,0.054
+Saint Mary's,reach_champ,0.005,Tennessee,0.017
+Saint Mary's,reach_champ,0.005,South Florida,0.0009
+Saint Mary's,reach_champ,0.005,Hofstra,0.0
+Saint Mary's,reach_champ,0.005,Howard,0.0
+Saint Mary's,reach_champ,0.005,Furman,0.0
+Saint Mary's,reach_champ,0.005,TCU,0.0009
+Saint Mary's,reach_champ,0.005,UCLA,0.0076
+Saint Mary's,reach_champ,0.005,Louisville,0.0227
+Saint Mary's,reach_champ,0.005,Miami (OH),0.0
+Saint Mary's,reach_champ,0.005,Georgia,0.0019
+Saint Mary's,reach_champ,0.005,Akron,0.0
+Saint Mary's,reach_champ,0.005,Santa Clara,0.0009
+Saint Mary's,reach_champ,0.005,St. John's (NY),0.0379
+Saint Mary's,reach_champ,0.005,Alabama,0.0218
+Saint Mary's,reach_champ,0.005,California Baptist,0.0
+Saint Mary's,reach_champ,0.005,Kansas,0.0161
+Saint Mary's,reach_champ,0.005,Duke,0.3097
+Saint Mary's,reach_champ,0.005,Iowa State,0.1184
+Saint Mary's,reach_champ,0.005,Siena,0.0
+Saint Mary's,reach_champ,0.005,Kentucky,0.0085
+Saint Mary's,reach_champ,0.005,Virginia,0.0265
+Saint Mary's,reach_champ,0.005,Michigan,0.3049
+Saint Mary's,reach_champ,0.005,Ohio State,0.0076
+Saint Mary's,reach_champ,0.005,Northern Iowa,0.0
+Saint Mary's,reach_champ,0.005,Texas Tech,0.0038
+Saint Mary's,reach_champ,0.005,Michigan State,0.0369
+Saint Mary's,reach_champ,0.005,Tennessee State,0.0
+Saint Mary's,reach_champ,0.005,Wright State,0.0
+Saint Mary's,reach_champ,0.005,UCF,0.0009
+Saint Mary's,reach_champ,0.005,North Dakota State,0.0
+Saint Mary's,reach_champ,0.005,Saint Louis,0.0009
+Santa Clara,r64,1.0,Kentucky,1.0
+Santa Clara,r32,0.361,Iowa State,0.975
+Santa Clara,r32,0.361,Tennessee State,0.025
+Santa Clara,s16,0.069,Virginia,0.558
+Santa Clara,s16,0.069,Wright State,0.006
+Santa Clara,s16,0.069,Tennessee,0.417
+Santa Clara,s16,0.069,Miami (OH),0.019
+Santa Clara,e8,0.024,Hofstra,0.003
+Santa Clara,e8,0.024,Georgia,0.032
+Santa Clara,e8,0.024,Texas Tech,0.049
+Santa Clara,e8,0.024,Akron,0.007
+Santa Clara,e8,0.024,Michigan,0.7383
+Santa Clara,e8,0.024,Alabama,0.1518
+Santa Clara,e8,0.024,Howard,0.0
+Santa Clara,e8,0.024,Saint Louis,0.019
+Santa Clara,f4,0.005,Siena,0.0
+Santa Clara,f4,0.005,UConn,0.1349
+Santa Clara,f4,0.005,South Florida,0.005
+Santa Clara,f4,0.005,Furman,0.0
+Santa Clara,f4,0.005,TCU,0.005
+Santa Clara,f4,0.005,UCLA,0.026
+Santa Clara,f4,0.005,Louisville,0.0579
+Santa Clara,f4,0.005,Ohio State,0.024
+Santa Clara,f4,0.005,Northern Iowa,0.002
+Santa Clara,f4,0.005,Michigan State,0.0939
+Santa Clara,f4,0.005,North Dakota State,0.0
+Santa Clara,f4,0.005,St. John's (NY),0.0949
+Santa Clara,f4,0.005,UCF,0.003
+Santa Clara,f4,0.005,California Baptist,0.0
+Santa Clara,f4,0.005,Kansas,0.048
+Santa Clara,f4,0.005,Duke,0.5055
+Santa Clara,reach_champ,0.001,Idaho,0.0
+Santa Clara,reach_champ,0.001,LIU,0.0
+Santa Clara,reach_champ,0.001,Utah State,0.0021
+Santa Clara,reach_champ,0.001,Vanderbilt,0.0328
+Santa Clara,reach_champ,0.001,Nebraska,0.018
+Santa Clara,reach_champ,0.001,Troy,0.0
+Santa Clara,reach_champ,0.001,Wisconsin,0.0138
+Santa Clara,reach_champ,0.001,Gonzaga,0.0487
+Santa Clara,reach_champ,0.001,Prairie View A&M,0.0
+Santa Clara,reach_champ,0.001,Iowa,0.0032
+Santa Clara,reach_champ,0.001,Texas,0.0021
+Santa Clara,reach_champ,0.001,BYU,0.0032
+Santa Clara,reach_champ,0.001,Queens (NC),0.0
+Santa Clara,reach_champ,0.001,Arizona,0.3104
+Santa Clara,reach_champ,0.001,High Point,0.0
+Santa Clara,reach_champ,0.001,Miami (FL),0.0032
+Santa Clara,reach_champ,0.001,Clemson,0.0021
+Santa Clara,reach_champ,0.001,VCU,0.0011
+Santa Clara,reach_champ,0.001,Kennesaw State,0.0
+Santa Clara,reach_champ,0.001,Texas A&M,0.0021
+Santa Clara,reach_champ,0.001,Florida,0.196
+Santa Clara,reach_champ,0.001,Villanova,0.0011
+Santa Clara,reach_champ,0.001,Purdue,0.0869
+Santa Clara,reach_champ,0.001,Hawaii,0.0
+Santa Clara,reach_champ,0.001,Missouri,0.0011
+Santa Clara,reach_champ,0.001,Houston,0.1472
+Santa Clara,reach_champ,0.001,Penn,0.0
+Santa Clara,reach_champ,0.001,Arkansas,0.0233
+Santa Clara,reach_champ,0.001,McNeese,0.0
+Santa Clara,reach_champ,0.001,UNC,0.0011
+Santa Clara,reach_champ,0.001,Saint Mary's,0.0053
+Santa Clara,reach_champ,0.001,Illinois,0.0953
+Siena,r64,1.0,Duke,1.0
+Siena,r32,0.012,TCU,0.358
+Siena,r32,0.012,Ohio State,0.642
+Siena,s16,0.001,Northern Iowa,0.0539
+Siena,s16,0.001,St. John's (NY),0.5065
+Siena,s16,0.001,California Baptist,0.023
+Siena,s16,0.001,Kansas,0.4166
+Siena,e8,0.0,UConn,0.378
+Siena,e8,0.0,South Florida,0.031
+Siena,e8,0.0,Furman,0.001
+Siena,e8,0.0,UCLA,0.105
+Siena,e8,0.0,Louisville,0.183
+Siena,e8,0.0,Michigan State,0.283
+Siena,e8,0.0,UCF,0.018
+Siena,e8,0.0,North Dakota State,0.001
+Siena,f4,0.0,Iowa State,0.2408
+Siena,f4,0.0,Kentucky,0.025
+Siena,f4,0.0,Tennessee,0.049
+Siena,f4,0.0,Hofstra,0.0
+Siena,f4,0.0,Virginia,0.0729
+Siena,f4,0.0,Miami (OH),0.0
+Siena,f4,0.0,Georgia,0.009
+Siena,f4,0.0,Texas Tech,0.015
+Siena,f4,0.0,Akron,0.001
+Siena,f4,0.0,Tennessee State,0.0
+Siena,f4,0.0,Santa Clara,0.005
+Siena,f4,0.0,Wright State,0.0
+Siena,f4,0.0,Michigan,0.5145
+Siena,f4,0.0,Alabama,0.0629
+Siena,f4,0.0,Howard,0.0
+Siena,f4,0.0,Saint Louis,0.005
+Siena,reach_champ,0.0,Idaho,0.0
+Siena,reach_champ,0.0,LIU,0.0
+Siena,reach_champ,0.0,Utah State,0.0021
+Siena,reach_champ,0.0,Vanderbilt,0.0328
+Siena,reach_champ,0.0,Nebraska,0.018
+Siena,reach_champ,0.0,Troy,0.0
+Siena,reach_champ,0.0,Wisconsin,0.0138
+Siena,reach_champ,0.0,Gonzaga,0.0487
+Siena,reach_champ,0.0,Prairie View A&M,0.0
+Siena,reach_champ,0.0,Iowa,0.0032
+Siena,reach_champ,0.0,Texas,0.0021
+Siena,reach_champ,0.0,BYU,0.0032
+Siena,reach_champ,0.0,Queens (NC),0.0
+Siena,reach_champ,0.0,Arizona,0.3104
+Siena,reach_champ,0.0,High Point,0.0
+Siena,reach_champ,0.0,Miami (FL),0.0032
+Siena,reach_champ,0.0,Clemson,0.0021
+Siena,reach_champ,0.0,VCU,0.0011
+Siena,reach_champ,0.0,Kennesaw State,0.0
+Siena,reach_champ,0.0,Texas A&M,0.0021
+Siena,reach_champ,0.0,Florida,0.196
+Siena,reach_champ,0.0,Villanova,0.0011
+Siena,reach_champ,0.0,Purdue,0.0869
+Siena,reach_champ,0.0,Hawaii,0.0
+Siena,reach_champ,0.0,Missouri,0.0011
+Siena,reach_champ,0.0,Houston,0.1472
+Siena,reach_champ,0.0,Penn,0.0
+Siena,reach_champ,0.0,Arkansas,0.0233
+Siena,reach_champ,0.0,McNeese,0.0
+Siena,reach_champ,0.0,UNC,0.0011
+Siena,reach_champ,0.0,Saint Mary's,0.0053
+Siena,reach_champ,0.0,Illinois,0.0953
+South Florida,r64,1.0,Louisville,1.0
+South Florida,r32,0.301,North Dakota State,0.076
+South Florida,r32,0.301,Michigan State,0.924
+South Florida,s16,0.094,Furman,0.009
+South Florida,s16,0.094,UCF,0.068
+South Florida,s16,0.094,UCLA,0.252
+South Florida,s16,0.094,UConn,0.671
+South Florida,e8,0.031,Siena,0.0
+South Florida,e8,0.031,TCU,0.014
+South Florida,e8,0.031,Ohio State,0.053
+South Florida,e8,0.031,Northern Iowa,0.007
+South Florida,e8,0.031,St. John's (NY),0.166
+South Florida,e8,0.031,California Baptist,0.001
+South Florida,e8,0.031,Kansas,0.101
+South Florida,e8,0.031,Duke,0.658
+South Florida,f4,0.005,Iowa State,0.2408
+South Florida,f4,0.005,Kentucky,0.025
+South Florida,f4,0.005,Tennessee,0.049
+South Florida,f4,0.005,Hofstra,0.0
+South Florida,f4,0.005,Virginia,0.0729
+South Florida,f4,0.005,Miami (OH),0.0
+South Florida,f4,0.005,Georgia,0.009
+South Florida,f4,0.005,Texas Tech,0.015
+South Florida,f4,0.005,Akron,0.001
+South Florida,f4,0.005,Tennessee State,0.0
+South Florida,f4,0.005,Santa Clara,0.005
+South Florida,f4,0.005,Wright State,0.0
+South Florida,f4,0.005,Michigan,0.5145
+South Florida,f4,0.005,Alabama,0.0629
+South Florida,f4,0.005,Howard,0.0
+South Florida,f4,0.005,Saint Louis,0.005
+South Florida,reach_champ,0.001,Idaho,0.0
+South Florida,reach_champ,0.001,LIU,0.0
+South Florida,reach_champ,0.001,Utah State,0.0021
+South Florida,reach_champ,0.001,Vanderbilt,0.0328
+South Florida,reach_champ,0.001,Nebraska,0.018
+South Florida,reach_champ,0.001,Troy,0.0
+South Florida,reach_champ,0.001,Wisconsin,0.0138
+South Florida,reach_champ,0.001,Gonzaga,0.0487
+South Florida,reach_champ,0.001,Prairie View A&M,0.0
+South Florida,reach_champ,0.001,Iowa,0.0032
+South Florida,reach_champ,0.001,Texas,0.0021
+South Florida,reach_champ,0.001,BYU,0.0032
+South Florida,reach_champ,0.001,Queens (NC),0.0
+South Florida,reach_champ,0.001,Arizona,0.3104
+South Florida,reach_champ,0.001,High Point,0.0
+South Florida,reach_champ,0.001,Miami (FL),0.0032
+South Florida,reach_champ,0.001,Clemson,0.0021
+South Florida,reach_champ,0.001,VCU,0.0011
+South Florida,reach_champ,0.001,Kennesaw State,0.0
+South Florida,reach_champ,0.001,Texas A&M,0.0021
+South Florida,reach_champ,0.001,Florida,0.196
+South Florida,reach_champ,0.001,Villanova,0.0011
+South Florida,reach_champ,0.001,Purdue,0.0869
+South Florida,reach_champ,0.001,Hawaii,0.0
+South Florida,reach_champ,0.001,Missouri,0.0011
+South Florida,reach_champ,0.001,Houston,0.1472
+South Florida,reach_champ,0.001,Penn,0.0
+South Florida,reach_champ,0.001,Arkansas,0.0233
+South Florida,reach_champ,0.001,McNeese,0.0
+South Florida,reach_champ,0.001,UNC,0.0011
+South Florida,reach_champ,0.001,Saint Mary's,0.0053
+South Florida,reach_champ,0.001,Illinois,0.0953
+St. John's (NY),r64,1.0,Northern Iowa,1.0
+St. John's (NY),r32,0.825,California Baptist,0.137
+St. John's (NY),r32,0.825,Kansas,0.863
+St. John's (NY),s16,0.507,Siena,0.001
+St. John's (NY),s16,0.507,TCU,0.041
+St. John's (NY),s16,0.507,Ohio State,0.113
+St. John's (NY),s16,0.507,Duke,0.845
+St. John's (NY),e8,0.166,UConn,0.378
+St. John's (NY),e8,0.166,South Florida,0.031
+St. John's (NY),e8,0.166,Furman,0.001
+St. John's (NY),e8,0.166,UCLA,0.105
+St. John's (NY),e8,0.166,Louisville,0.183
+St. John's (NY),e8,0.166,Michigan State,0.283
+St. John's (NY),e8,0.166,UCF,0.018
+St. John's (NY),e8,0.166,North Dakota State,0.001
+St. John's (NY),f4,0.095,Iowa State,0.2408
+St. John's (NY),f4,0.095,Kentucky,0.025
+St. John's (NY),f4,0.095,Tennessee,0.049
+St. John's (NY),f4,0.095,Hofstra,0.0
+St. John's (NY),f4,0.095,Virginia,0.0729
+St. John's (NY),f4,0.095,Miami (OH),0.0
+St. John's (NY),f4,0.095,Georgia,0.009
+St. John's (NY),f4,0.095,Texas Tech,0.015
+St. John's (NY),f4,0.095,Akron,0.001
+St. John's (NY),f4,0.095,Tennessee State,0.0
+St. John's (NY),f4,0.095,Santa Clara,0.005
+St. John's (NY),f4,0.095,Wright State,0.0
+St. John's (NY),f4,0.095,Michigan,0.5145
+St. John's (NY),f4,0.095,Alabama,0.0629
+St. John's (NY),f4,0.095,Howard,0.0
+St. John's (NY),f4,0.095,Saint Louis,0.005
+St. John's (NY),reach_champ,0.04,Idaho,0.0
+St. John's (NY),reach_champ,0.04,LIU,0.0
+St. John's (NY),reach_champ,0.04,Utah State,0.0021
+St. John's (NY),reach_champ,0.04,Vanderbilt,0.0328
+St. John's (NY),reach_champ,0.04,Nebraska,0.018
+St. John's (NY),reach_champ,0.04,Troy,0.0
+St. John's (NY),reach_champ,0.04,Wisconsin,0.0138
+St. John's (NY),reach_champ,0.04,Gonzaga,0.0487
+St. John's (NY),reach_champ,0.04,Prairie View A&M,0.0
+St. John's (NY),reach_champ,0.04,Iowa,0.0032
+St. John's (NY),reach_champ,0.04,Texas,0.0021
+St. John's (NY),reach_champ,0.04,BYU,0.0032
+St. John's (NY),reach_champ,0.04,Queens (NC),0.0
+St. John's (NY),reach_champ,0.04,Arizona,0.3104
+St. John's (NY),reach_champ,0.04,High Point,0.0
+St. John's (NY),reach_champ,0.04,Miami (FL),0.0032
+St. John's (NY),reach_champ,0.04,Clemson,0.0021
+St. John's (NY),reach_champ,0.04,VCU,0.0011
+St. John's (NY),reach_champ,0.04,Kennesaw State,0.0
+St. John's (NY),reach_champ,0.04,Texas A&M,0.0021
+St. John's (NY),reach_champ,0.04,Florida,0.196
+St. John's (NY),reach_champ,0.04,Villanova,0.0011
+St. John's (NY),reach_champ,0.04,Purdue,0.0869
+St. John's (NY),reach_champ,0.04,Hawaii,0.0
+St. John's (NY),reach_champ,0.04,Missouri,0.0011
+St. John's (NY),reach_champ,0.04,Houston,0.1472
+St. John's (NY),reach_champ,0.04,Penn,0.0
+St. John's (NY),reach_champ,0.04,Arkansas,0.0233
+St. John's (NY),reach_champ,0.04,McNeese,0.0
+St. John's (NY),reach_champ,0.04,UNC,0.0011
+St. John's (NY),reach_champ,0.04,Saint Mary's,0.0053
+St. John's (NY),reach_champ,0.04,Illinois,0.0953
+TCU,r64,1.0,Ohio State,1.0
+TCU,r32,0.358,Siena,0.012
+TCU,r32,0.358,Duke,0.988
+TCU,s16,0.041,Northern Iowa,0.0539
+TCU,s16,0.041,St. John's (NY),0.5065
+TCU,s16,0.041,California Baptist,0.023
+TCU,s16,0.041,Kansas,0.4166
+TCU,e8,0.014,UConn,0.378
+TCU,e8,0.014,South Florida,0.031
+TCU,e8,0.014,Furman,0.001
+TCU,e8,0.014,UCLA,0.105
+TCU,e8,0.014,Louisville,0.183
+TCU,e8,0.014,Michigan State,0.283
+TCU,e8,0.014,UCF,0.018
+TCU,e8,0.014,North Dakota State,0.001
+TCU,f4,0.005,Iowa State,0.2408
+TCU,f4,0.005,Kentucky,0.025
+TCU,f4,0.005,Tennessee,0.049
+TCU,f4,0.005,Hofstra,0.0
+TCU,f4,0.005,Virginia,0.0729
+TCU,f4,0.005,Miami (OH),0.0
+TCU,f4,0.005,Georgia,0.009
+TCU,f4,0.005,Texas Tech,0.015
+TCU,f4,0.005,Akron,0.001
+TCU,f4,0.005,Tennessee State,0.0
+TCU,f4,0.005,Santa Clara,0.005
+TCU,f4,0.005,Wright State,0.0
+TCU,f4,0.005,Michigan,0.5145
+TCU,f4,0.005,Alabama,0.0629
+TCU,f4,0.005,Howard,0.0
+TCU,f4,0.005,Saint Louis,0.005
+TCU,reach_champ,0.001,Idaho,0.0
+TCU,reach_champ,0.001,LIU,0.0
+TCU,reach_champ,0.001,Utah State,0.0021
+TCU,reach_champ,0.001,Vanderbilt,0.0328
+TCU,reach_champ,0.001,Nebraska,0.018
+TCU,reach_champ,0.001,Troy,0.0
+TCU,reach_champ,0.001,Wisconsin,0.0138
+TCU,reach_champ,0.001,Gonzaga,0.0487
+TCU,reach_champ,0.001,Prairie View A&M,0.0
+TCU,reach_champ,0.001,Iowa,0.0032
+TCU,reach_champ,0.001,Texas,0.0021
+TCU,reach_champ,0.001,BYU,0.0032
+TCU,reach_champ,0.001,Queens (NC),0.0
+TCU,reach_champ,0.001,Arizona,0.3104
+TCU,reach_champ,0.001,High Point,0.0
+TCU,reach_champ,0.001,Miami (FL),0.0032
+TCU,reach_champ,0.001,Clemson,0.0021
+TCU,reach_champ,0.001,VCU,0.0011
+TCU,reach_champ,0.001,Kennesaw State,0.0
+TCU,reach_champ,0.001,Texas A&M,0.0021
+TCU,reach_champ,0.001,Florida,0.196
+TCU,reach_champ,0.001,Villanova,0.0011
+TCU,reach_champ,0.001,Purdue,0.0869
+TCU,reach_champ,0.001,Hawaii,0.0
+TCU,reach_champ,0.001,Missouri,0.0011
+TCU,reach_champ,0.001,Houston,0.1472
+TCU,reach_champ,0.001,Penn,0.0
+TCU,reach_champ,0.001,Arkansas,0.0233
+TCU,reach_champ,0.001,McNeese,0.0
+TCU,reach_champ,0.001,UNC,0.0011
+TCU,reach_champ,0.001,Saint Mary's,0.0053
+TCU,reach_champ,0.001,Illinois,0.0953
+Tennessee,r64,1.0,Miami (OH),1.0
+Tennessee,r32,0.875,Wright State,0.056
+Tennessee,r32,0.875,Virginia,0.944
+Tennessee,s16,0.417,Iowa State,0.749
+Tennessee,s16,0.417,Kentucky,0.18
+Tennessee,s16,0.417,Tennessee State,0.002
+Tennessee,s16,0.417,Santa Clara,0.069
+Tennessee,e8,0.156,Hofstra,0.003
+Tennessee,e8,0.156,Georgia,0.032
+Tennessee,e8,0.156,Texas Tech,0.049
+Tennessee,e8,0.156,Akron,0.007
+Tennessee,e8,0.156,Michigan,0.7383
+Tennessee,e8,0.156,Alabama,0.1518
+Tennessee,e8,0.156,Howard,0.0
+Tennessee,e8,0.156,Saint Louis,0.019
+Tennessee,f4,0.049,Siena,0.0
+Tennessee,f4,0.049,UConn,0.1349
+Tennessee,f4,0.049,South Florida,0.005
+Tennessee,f4,0.049,Furman,0.0
+Tennessee,f4,0.049,TCU,0.005
+Tennessee,f4,0.049,UCLA,0.026
+Tennessee,f4,0.049,Louisville,0.0579
+Tennessee,f4,0.049,Ohio State,0.024
+Tennessee,f4,0.049,Northern Iowa,0.002
+Tennessee,f4,0.049,Michigan State,0.0939
+Tennessee,f4,0.049,North Dakota State,0.0
+Tennessee,f4,0.049,St. John's (NY),0.0949
+Tennessee,f4,0.049,UCF,0.003
+Tennessee,f4,0.049,California Baptist,0.0
+Tennessee,f4,0.049,Kansas,0.048
+Tennessee,f4,0.049,Duke,0.5055
+Tennessee,reach_champ,0.018,Idaho,0.0
+Tennessee,reach_champ,0.018,LIU,0.0
+Tennessee,reach_champ,0.018,Utah State,0.0021
+Tennessee,reach_champ,0.018,Vanderbilt,0.0328
+Tennessee,reach_champ,0.018,Nebraska,0.018
+Tennessee,reach_champ,0.018,Troy,0.0
+Tennessee,reach_champ,0.018,Wisconsin,0.0138
+Tennessee,reach_champ,0.018,Gonzaga,0.0487
+Tennessee,reach_champ,0.018,Prairie View A&M,0.0
+Tennessee,reach_champ,0.018,Iowa,0.0032
+Tennessee,reach_champ,0.018,Texas,0.0021
+Tennessee,reach_champ,0.018,BYU,0.0032
+Tennessee,reach_champ,0.018,Queens (NC),0.0
+Tennessee,reach_champ,0.018,Arizona,0.3104
+Tennessee,reach_champ,0.018,High Point,0.0
+Tennessee,reach_champ,0.018,Miami (FL),0.0032
+Tennessee,reach_champ,0.018,Clemson,0.0021
+Tennessee,reach_champ,0.018,VCU,0.0011
+Tennessee,reach_champ,0.018,Kennesaw State,0.0
+Tennessee,reach_champ,0.018,Texas A&M,0.0021
+Tennessee,reach_champ,0.018,Florida,0.196
+Tennessee,reach_champ,0.018,Villanova,0.0011
+Tennessee,reach_champ,0.018,Purdue,0.0869
+Tennessee,reach_champ,0.018,Hawaii,0.0
+Tennessee,reach_champ,0.018,Missouri,0.0011
+Tennessee,reach_champ,0.018,Houston,0.1472
+Tennessee,reach_champ,0.018,Penn,0.0
+Tennessee,reach_champ,0.018,Arkansas,0.0233
+Tennessee,reach_champ,0.018,McNeese,0.0
+Tennessee,reach_champ,0.018,UNC,0.0011
+Tennessee,reach_champ,0.018,Saint Mary's,0.0053
+Tennessee,reach_champ,0.018,Illinois,0.0953
+Tennessee State,r64,1.0,Iowa State,1.0
+Tennessee State,r32,0.025,Kentucky,0.639
+Tennessee State,r32,0.025,Santa Clara,0.361
+Tennessee State,s16,0.002,Virginia,0.558
+Tennessee State,s16,0.002,Wright State,0.006
+Tennessee State,s16,0.002,Tennessee,0.417
+Tennessee State,s16,0.002,Miami (OH),0.019
+Tennessee State,e8,0.0,Hofstra,0.003
+Tennessee State,e8,0.0,Georgia,0.032
+Tennessee State,e8,0.0,Texas Tech,0.049
+Tennessee State,e8,0.0,Akron,0.007
+Tennessee State,e8,0.0,Michigan,0.7383
+Tennessee State,e8,0.0,Alabama,0.1518
+Tennessee State,e8,0.0,Howard,0.0
+Tennessee State,e8,0.0,Saint Louis,0.019
+Tennessee State,f4,0.0,Siena,0.0
+Tennessee State,f4,0.0,UConn,0.1349
+Tennessee State,f4,0.0,South Florida,0.005
+Tennessee State,f4,0.0,Furman,0.0
+Tennessee State,f4,0.0,TCU,0.005
+Tennessee State,f4,0.0,UCLA,0.026
+Tennessee State,f4,0.0,Louisville,0.0579
+Tennessee State,f4,0.0,Ohio State,0.024
+Tennessee State,f4,0.0,Northern Iowa,0.002
+Tennessee State,f4,0.0,Michigan State,0.0939
+Tennessee State,f4,0.0,North Dakota State,0.0
+Tennessee State,f4,0.0,St. John's (NY),0.0949
+Tennessee State,f4,0.0,UCF,0.003
+Tennessee State,f4,0.0,California Baptist,0.0
+Tennessee State,f4,0.0,Kansas,0.048
+Tennessee State,f4,0.0,Duke,0.5055
+Tennessee State,reach_champ,0.0,Idaho,0.0
+Tennessee State,reach_champ,0.0,LIU,0.0
+Tennessee State,reach_champ,0.0,Utah State,0.0021
+Tennessee State,reach_champ,0.0,Vanderbilt,0.0328
+Tennessee State,reach_champ,0.0,Nebraska,0.018
+Tennessee State,reach_champ,0.0,Troy,0.0
+Tennessee State,reach_champ,0.0,Wisconsin,0.0138
+Tennessee State,reach_champ,0.0,Gonzaga,0.0487
+Tennessee State,reach_champ,0.0,Prairie View A&M,0.0
+Tennessee State,reach_champ,0.0,Iowa,0.0032
+Tennessee State,reach_champ,0.0,Texas,0.0021
+Tennessee State,reach_champ,0.0,BYU,0.0032
+Tennessee State,reach_champ,0.0,Queens (NC),0.0
+Tennessee State,reach_champ,0.0,Arizona,0.3104
+Tennessee State,reach_champ,0.0,High Point,0.0
+Tennessee State,reach_champ,0.0,Miami (FL),0.0032
+Tennessee State,reach_champ,0.0,Clemson,0.0021
+Tennessee State,reach_champ,0.0,VCU,0.0011
+Tennessee State,reach_champ,0.0,Kennesaw State,0.0
+Tennessee State,reach_champ,0.0,Texas A&M,0.0021
+Tennessee State,reach_champ,0.0,Florida,0.196
+Tennessee State,reach_champ,0.0,Villanova,0.0011
+Tennessee State,reach_champ,0.0,Purdue,0.0869
+Tennessee State,reach_champ,0.0,Hawaii,0.0
+Tennessee State,reach_champ,0.0,Missouri,0.0011
+Tennessee State,reach_champ,0.0,Houston,0.1472
+Tennessee State,reach_champ,0.0,Penn,0.0
+Tennessee State,reach_champ,0.0,Arkansas,0.0233
+Tennessee State,reach_champ,0.0,McNeese,0.0
+Tennessee State,reach_champ,0.0,UNC,0.0011
+Tennessee State,reach_champ,0.0,Saint Mary's,0.0053
+Tennessee State,reach_champ,0.0,Illinois,0.0953
+Texas,r64,1.0,BYU,1.0
+Texas,r32,0.437,Gonzaga,0.964
+Texas,r32,0.437,Kennesaw State,0.036
+Texas,s16,0.117,Queens (NC),0.002
+Texas,s16,0.117,Miami (FL),0.136
+Texas,s16,0.117,Purdue,0.768
+Texas,s16,0.117,Missouri,0.094
+Texas,e8,0.036,LIU,0.0
+Texas,e8,0.036,Utah State,0.028
+Texas,e8,0.036,Wisconsin,0.094
+Texas,e8,0.036,Hawaii,0.001
+Texas,e8,0.036,Arizona,0.721
+Texas,e8,0.036,High Point,0.002
+Texas,e8,0.036,Arkansas,0.141
+Texas,e8,0.036,Villanova,0.013
+Texas,f4,0.007,Florida,0.3433
+Texas,f4,0.007,Idaho,0.0
+Texas,f4,0.007,Illinois,0.1866
+Texas,f4,0.007,Vanderbilt,0.0788
+Texas,f4,0.007,Nebraska,0.0489
+Texas,f4,0.007,Prairie View A&M,0.0
+Texas,f4,0.007,Iowa,0.012
+Texas,f4,0.007,Houston,0.2884
+Texas,f4,0.007,Penn,0.0
+Texas,f4,0.007,Clemson,0.006
+Texas,f4,0.007,VCU,0.005
+Texas,f4,0.007,McNeese,0.001
+Texas,f4,0.007,Texas A&M,0.007
+Texas,f4,0.007,UNC,0.005
+Texas,f4,0.007,Saint Mary's,0.018
+Texas,f4,0.007,Troy,0.0
+Texas,reach_champ,0.002,UConn,0.054
+Texas,reach_champ,0.002,Tennessee,0.017
+Texas,reach_champ,0.002,South Florida,0.0009
+Texas,reach_champ,0.002,Hofstra,0.0
+Texas,reach_champ,0.002,Howard,0.0
+Texas,reach_champ,0.002,Furman,0.0
+Texas,reach_champ,0.002,TCU,0.0009
+Texas,reach_champ,0.002,UCLA,0.0076
+Texas,reach_champ,0.002,Louisville,0.0227
+Texas,reach_champ,0.002,Miami (OH),0.0
+Texas,reach_champ,0.002,Georgia,0.0019
+Texas,reach_champ,0.002,Akron,0.0
+Texas,reach_champ,0.002,Santa Clara,0.0009
+Texas,reach_champ,0.002,St. John's (NY),0.0379
+Texas,reach_champ,0.002,Alabama,0.0218
+Texas,reach_champ,0.002,California Baptist,0.0
+Texas,reach_champ,0.002,Kansas,0.0161
+Texas,reach_champ,0.002,Duke,0.3097
+Texas,reach_champ,0.002,Iowa State,0.1184
+Texas,reach_champ,0.002,Siena,0.0
+Texas,reach_champ,0.002,Kentucky,0.0085
+Texas,reach_champ,0.002,Virginia,0.0265
+Texas,reach_champ,0.002,Michigan,0.3049
+Texas,reach_champ,0.002,Ohio State,0.0076
+Texas,reach_champ,0.002,Northern Iowa,0.0
+Texas,reach_champ,0.002,Texas Tech,0.0038
+Texas,reach_champ,0.002,Michigan State,0.0369
+Texas,reach_champ,0.002,Tennessee State,0.0
+Texas,reach_champ,0.002,Wright State,0.0
+Texas,reach_champ,0.002,UCF,0.0009
+Texas,reach_champ,0.002,North Dakota State,0.0
+Texas,reach_champ,0.002,Saint Louis,0.0009
+Texas A&M,r64,1.0,Saint Mary's,1.0
+Texas A&M,r32,0.418,Idaho,0.032
+Texas A&M,r32,0.418,Houston,0.968
+Texas A&M,s16,0.087,Penn,0.004
+Texas A&M,s16,0.087,UNC,0.105
+Texas A&M,s16,0.087,Illinois,0.788
+Texas A&M,s16,0.087,VCU,0.103
+Texas A&M,e8,0.029,Florida,0.601
+Texas A&M,e8,0.029,Vanderbilt,0.188
+Texas A&M,e8,0.029,Nebraska,0.14
+Texas A&M,e8,0.029,Prairie View A&M,0.0
+Texas A&M,e8,0.029,Iowa,0.041
+Texas A&M,e8,0.029,Clemson,0.023
+Texas A&M,e8,0.029,McNeese,0.007
+Texas A&M,e8,0.029,Troy,0.0
+Texas A&M,f4,0.007,LIU,0.0
+Texas A&M,f4,0.007,Utah State,0.01
+Texas A&M,f4,0.007,Wisconsin,0.04
+Texas A&M,f4,0.007,Purdue,0.1818
+Texas A&M,f4,0.007,Gonzaga,0.1339
+Texas A&M,f4,0.007,Hawaii,0.0
+Texas A&M,f4,0.007,Texas,0.007
+Texas A&M,f4,0.007,Missouri,0.005
+Texas A&M,f4,0.007,BYU,0.012
+Texas A&M,f4,0.007,Queens (NC),0.0
+Texas A&M,f4,0.007,Arizona,0.5285
+Texas A&M,f4,0.007,High Point,0.001
+Texas A&M,f4,0.007,Miami (FL),0.011
+Texas A&M,f4,0.007,Kennesaw State,0.0
+Texas A&M,f4,0.007,Arkansas,0.0659
+Texas A&M,f4,0.007,Villanova,0.004
+Texas A&M,reach_champ,0.002,UConn,0.054
+Texas A&M,reach_champ,0.002,Tennessee,0.017
+Texas A&M,reach_champ,0.002,South Florida,0.0009
+Texas A&M,reach_champ,0.002,Hofstra,0.0
+Texas A&M,reach_champ,0.002,Howard,0.0
+Texas A&M,reach_champ,0.002,Furman,0.0
+Texas A&M,reach_champ,0.002,TCU,0.0009
+Texas A&M,reach_champ,0.002,UCLA,0.0076
+Texas A&M,reach_champ,0.002,Louisville,0.0227
+Texas A&M,reach_champ,0.002,Miami (OH),0.0
+Texas A&M,reach_champ,0.002,Georgia,0.0019
+Texas A&M,reach_champ,0.002,Akron,0.0
+Texas A&M,reach_champ,0.002,Santa Clara,0.0009
+Texas A&M,reach_champ,0.002,St. John's (NY),0.0379
+Texas A&M,reach_champ,0.002,Alabama,0.0218
+Texas A&M,reach_champ,0.002,California Baptist,0.0
+Texas A&M,reach_champ,0.002,Kansas,0.0161
+Texas A&M,reach_champ,0.002,Duke,0.3097
+Texas A&M,reach_champ,0.002,Iowa State,0.1184
+Texas A&M,reach_champ,0.002,Siena,0.0
+Texas A&M,reach_champ,0.002,Kentucky,0.0085
+Texas A&M,reach_champ,0.002,Virginia,0.0265
+Texas A&M,reach_champ,0.002,Michigan,0.3049
+Texas A&M,reach_champ,0.002,Ohio State,0.0076
+Texas A&M,reach_champ,0.002,Northern Iowa,0.0
+Texas A&M,reach_champ,0.002,Texas Tech,0.0038
+Texas A&M,reach_champ,0.002,Michigan State,0.0369
+Texas A&M,reach_champ,0.002,Tennessee State,0.0
+Texas A&M,reach_champ,0.002,Wright State,0.0
+Texas A&M,reach_champ,0.002,UCF,0.0009
+Texas A&M,reach_champ,0.002,North Dakota State,0.0
+Texas A&M,reach_champ,0.002,Saint Louis,0.0009
+Texas Tech,r64,1.0,Akron,1.0
+Texas Tech,r32,0.704,Alabama,0.873
+Texas Tech,r32,0.704,Hofstra,0.127
+Texas Tech,s16,0.277,Georgia,0.072
+Texas Tech,s16,0.277,Saint Louis,0.045
+Texas Tech,s16,0.277,Howard,0.003
+Texas Tech,s16,0.277,Michigan,0.88
+Texas Tech,e8,0.049,Iowa State,0.512
+Texas Tech,e8,0.049,Virginia,0.222
+Texas Tech,e8,0.049,Miami (OH),0.002
+Texas Tech,e8,0.049,Tennessee State,0.0
+Texas Tech,e8,0.049,Santa Clara,0.024
+Texas Tech,e8,0.049,Wright State,0.0
+Texas Tech,e8,0.049,Tennessee,0.156
+Texas Tech,e8,0.049,Kentucky,0.084
+Texas Tech,f4,0.015,Siena,0.0
+Texas Tech,f4,0.015,UConn,0.1349
+Texas Tech,f4,0.015,South Florida,0.005
+Texas Tech,f4,0.015,Furman,0.0
+Texas Tech,f4,0.015,TCU,0.005
+Texas Tech,f4,0.015,UCLA,0.026
+Texas Tech,f4,0.015,Louisville,0.0579
+Texas Tech,f4,0.015,Ohio State,0.024
+Texas Tech,f4,0.015,Northern Iowa,0.002
+Texas Tech,f4,0.015,Michigan State,0.0939
+Texas Tech,f4,0.015,North Dakota State,0.0
+Texas Tech,f4,0.015,St. John's (NY),0.0949
+Texas Tech,f4,0.015,UCF,0.003
+Texas Tech,f4,0.015,California Baptist,0.0
+Texas Tech,f4,0.015,Kansas,0.048
+Texas Tech,f4,0.015,Duke,0.5055
+Texas Tech,reach_champ,0.004,Idaho,0.0
+Texas Tech,reach_champ,0.004,LIU,0.0
+Texas Tech,reach_champ,0.004,Utah State,0.0021
+Texas Tech,reach_champ,0.004,Vanderbilt,0.0328
+Texas Tech,reach_champ,0.004,Nebraska,0.018
+Texas Tech,reach_champ,0.004,Troy,0.0
+Texas Tech,reach_champ,0.004,Wisconsin,0.0138
+Texas Tech,reach_champ,0.004,Gonzaga,0.0487
+Texas Tech,reach_champ,0.004,Prairie View A&M,0.0
+Texas Tech,reach_champ,0.004,Iowa,0.0032
+Texas Tech,reach_champ,0.004,Texas,0.0021
+Texas Tech,reach_champ,0.004,BYU,0.0032
+Texas Tech,reach_champ,0.004,Queens (NC),0.0
+Texas Tech,reach_champ,0.004,Arizona,0.3104
+Texas Tech,reach_champ,0.004,High Point,0.0
+Texas Tech,reach_champ,0.004,Miami (FL),0.0032
+Texas Tech,reach_champ,0.004,Clemson,0.0021
+Texas Tech,reach_champ,0.004,VCU,0.0011
+Texas Tech,reach_champ,0.004,Kennesaw State,0.0
+Texas Tech,reach_champ,0.004,Texas A&M,0.0021
+Texas Tech,reach_champ,0.004,Florida,0.196
+Texas Tech,reach_champ,0.004,Villanova,0.0011
+Texas Tech,reach_champ,0.004,Purdue,0.0869
+Texas Tech,reach_champ,0.004,Hawaii,0.0
+Texas Tech,reach_champ,0.004,Missouri,0.0011
+Texas Tech,reach_champ,0.004,Houston,0.1472
+Texas Tech,reach_champ,0.004,Penn,0.0
+Texas Tech,reach_champ,0.004,Arkansas,0.0233
+Texas Tech,reach_champ,0.004,McNeese,0.0
+Texas Tech,reach_champ,0.004,UNC,0.0011
+Texas Tech,reach_champ,0.004,Saint Mary's,0.0053
+Texas Tech,reach_champ,0.004,Illinois,0.0953
+Troy,r64,1.0,Nebraska,1.0
+Troy,r32,0.073,Vanderbilt,0.84
+Troy,r32,0.073,McNeese,0.16
+Troy,s16,0.007,Florida,0.836
+Troy,s16,0.007,Prairie View A&M,0.0
+Troy,s16,0.007,Clemson,0.062
+Troy,s16,0.007,Iowa,0.102
+Troy,e8,0.0,Idaho,0.0
+Troy,e8,0.0,Houston,0.4925
+Troy,e8,0.0,Penn,0.0
+Troy,e8,0.0,VCU,0.022
+Troy,e8,0.0,Texas A&M,0.029
+Troy,e8,0.0,UNC,0.022
+Troy,e8,0.0,Saint Mary's,0.0579
+Troy,e8,0.0,Illinois,0.3766
+Troy,f4,0.0,LIU,0.0
+Troy,f4,0.0,Utah State,0.01
+Troy,f4,0.0,Wisconsin,0.04
+Troy,f4,0.0,Purdue,0.1818
+Troy,f4,0.0,Gonzaga,0.1339
+Troy,f4,0.0,Hawaii,0.0
+Troy,f4,0.0,Texas,0.007
+Troy,f4,0.0,Missouri,0.005
+Troy,f4,0.0,BYU,0.012
+Troy,f4,0.0,Queens (NC),0.0
+Troy,f4,0.0,Arizona,0.5285
+Troy,f4,0.0,High Point,0.001
+Troy,f4,0.0,Miami (FL),0.011
+Troy,f4,0.0,Kennesaw State,0.0
+Troy,f4,0.0,Arkansas,0.0659
+Troy,f4,0.0,Villanova,0.004
+Troy,reach_champ,0.0,UConn,0.054
+Troy,reach_champ,0.0,Tennessee,0.017
+Troy,reach_champ,0.0,South Florida,0.0009
+Troy,reach_champ,0.0,Hofstra,0.0
+Troy,reach_champ,0.0,Howard,0.0
+Troy,reach_champ,0.0,Furman,0.0
+Troy,reach_champ,0.0,TCU,0.0009
+Troy,reach_champ,0.0,UCLA,0.0076
+Troy,reach_champ,0.0,Louisville,0.0227
+Troy,reach_champ,0.0,Miami (OH),0.0
+Troy,reach_champ,0.0,Georgia,0.0019
+Troy,reach_champ,0.0,Akron,0.0
+Troy,reach_champ,0.0,Santa Clara,0.0009
+Troy,reach_champ,0.0,St. John's (NY),0.0379
+Troy,reach_champ,0.0,Alabama,0.0218
+Troy,reach_champ,0.0,California Baptist,0.0
+Troy,reach_champ,0.0,Kansas,0.0161
+Troy,reach_champ,0.0,Duke,0.3097
+Troy,reach_champ,0.0,Iowa State,0.1184
+Troy,reach_champ,0.0,Siena,0.0
+Troy,reach_champ,0.0,Kentucky,0.0085
+Troy,reach_champ,0.0,Virginia,0.0265
+Troy,reach_champ,0.0,Michigan,0.3049
+Troy,reach_champ,0.0,Ohio State,0.0076
+Troy,reach_champ,0.0,Northern Iowa,0.0
+Troy,reach_champ,0.0,Texas Tech,0.0038
+Troy,reach_champ,0.0,Michigan State,0.0369
+Troy,reach_champ,0.0,Tennessee State,0.0
+Troy,reach_champ,0.0,Wright State,0.0
+Troy,reach_champ,0.0,UCF,0.0009
+Troy,reach_champ,0.0,North Dakota State,0.0
+Troy,reach_champ,0.0,Saint Louis,0.0009
+UCF,r64,1.0,UCLA,1.0
+UCF,r32,0.308,Furman,0.058
+UCF,r32,0.308,UConn,0.942
+UCF,s16,0.068,North Dakota State,0.01
+UCF,s16,0.068,Michigan State,0.54
+UCF,s16,0.068,Louisville,0.356
+UCF,s16,0.068,South Florida,0.094
+UCF,e8,0.018,Siena,0.0
+UCF,e8,0.018,TCU,0.014
+UCF,e8,0.018,Ohio State,0.053
+UCF,e8,0.018,Northern Iowa,0.007
+UCF,e8,0.018,St. John's (NY),0.166
+UCF,e8,0.018,California Baptist,0.001
+UCF,e8,0.018,Kansas,0.101
+UCF,e8,0.018,Duke,0.658
+UCF,f4,0.003,Iowa State,0.2408
+UCF,f4,0.003,Kentucky,0.025
+UCF,f4,0.003,Tennessee,0.049
+UCF,f4,0.003,Hofstra,0.0
+UCF,f4,0.003,Virginia,0.0729
+UCF,f4,0.003,Miami (OH),0.0
+UCF,f4,0.003,Georgia,0.009
+UCF,f4,0.003,Texas Tech,0.015
+UCF,f4,0.003,Akron,0.001
+UCF,f4,0.003,Tennessee State,0.0
+UCF,f4,0.003,Santa Clara,0.005
+UCF,f4,0.003,Wright State,0.0
+UCF,f4,0.003,Michigan,0.5145
+UCF,f4,0.003,Alabama,0.0629
+UCF,f4,0.003,Howard,0.0
+UCF,f4,0.003,Saint Louis,0.005
+UCF,reach_champ,0.001,Idaho,0.0
+UCF,reach_champ,0.001,LIU,0.0
+UCF,reach_champ,0.001,Utah State,0.0021
+UCF,reach_champ,0.001,Vanderbilt,0.0328
+UCF,reach_champ,0.001,Nebraska,0.018
+UCF,reach_champ,0.001,Troy,0.0
+UCF,reach_champ,0.001,Wisconsin,0.0138
+UCF,reach_champ,0.001,Gonzaga,0.0487
+UCF,reach_champ,0.001,Prairie View A&M,0.0
+UCF,reach_champ,0.001,Iowa,0.0032
+UCF,reach_champ,0.001,Texas,0.0021
+UCF,reach_champ,0.001,BYU,0.0032
+UCF,reach_champ,0.001,Queens (NC),0.0
+UCF,reach_champ,0.001,Arizona,0.3104
+UCF,reach_champ,0.001,High Point,0.0
+UCF,reach_champ,0.001,Miami (FL),0.0032
+UCF,reach_champ,0.001,Clemson,0.0021
+UCF,reach_champ,0.001,VCU,0.0011
+UCF,reach_champ,0.001,Kennesaw State,0.0
+UCF,reach_champ,0.001,Texas A&M,0.0021
+UCF,reach_champ,0.001,Florida,0.196
+UCF,reach_champ,0.001,Villanova,0.0011
+UCF,reach_champ,0.001,Purdue,0.0869
+UCF,reach_champ,0.001,Hawaii,0.0
+UCF,reach_champ,0.001,Missouri,0.0011
+UCF,reach_champ,0.001,Houston,0.1472
+UCF,reach_champ,0.001,Penn,0.0
+UCF,reach_champ,0.001,Arkansas,0.0233
+UCF,reach_champ,0.001,McNeese,0.0
+UCF,reach_champ,0.001,UNC,0.0011
+UCF,reach_champ,0.001,Saint Mary's,0.0053
+UCF,reach_champ,0.001,Illinois,0.0953
+UCLA,r64,1.0,UCF,1.0
+UCLA,r32,0.692,Furman,0.058
+UCLA,r32,0.692,UConn,0.942
+UCLA,s16,0.252,North Dakota State,0.01
+UCLA,s16,0.252,Michigan State,0.54
+UCLA,s16,0.252,Louisville,0.356
+UCLA,s16,0.252,South Florida,0.094
+UCLA,e8,0.105,Siena,0.0
+UCLA,e8,0.105,TCU,0.014
+UCLA,e8,0.105,Ohio State,0.053
+UCLA,e8,0.105,Northern Iowa,0.007
+UCLA,e8,0.105,St. John's (NY),0.166
+UCLA,e8,0.105,California Baptist,0.001
+UCLA,e8,0.105,Kansas,0.101
+UCLA,e8,0.105,Duke,0.658
+UCLA,f4,0.026,Iowa State,0.2408
+UCLA,f4,0.026,Kentucky,0.025
+UCLA,f4,0.026,Tennessee,0.049
+UCLA,f4,0.026,Hofstra,0.0
+UCLA,f4,0.026,Virginia,0.0729
+UCLA,f4,0.026,Miami (OH),0.0
+UCLA,f4,0.026,Georgia,0.009
+UCLA,f4,0.026,Texas Tech,0.015
+UCLA,f4,0.026,Akron,0.001
+UCLA,f4,0.026,Tennessee State,0.0
+UCLA,f4,0.026,Santa Clara,0.005
+UCLA,f4,0.026,Wright State,0.0
+UCLA,f4,0.026,Michigan,0.5145
+UCLA,f4,0.026,Alabama,0.0629
+UCLA,f4,0.026,Howard,0.0
+UCLA,f4,0.026,Saint Louis,0.005
+UCLA,reach_champ,0.008,Idaho,0.0
+UCLA,reach_champ,0.008,LIU,0.0
+UCLA,reach_champ,0.008,Utah State,0.0021
+UCLA,reach_champ,0.008,Vanderbilt,0.0328
+UCLA,reach_champ,0.008,Nebraska,0.018
+UCLA,reach_champ,0.008,Troy,0.0
+UCLA,reach_champ,0.008,Wisconsin,0.0138
+UCLA,reach_champ,0.008,Gonzaga,0.0487
+UCLA,reach_champ,0.008,Prairie View A&M,0.0
+UCLA,reach_champ,0.008,Iowa,0.0032
+UCLA,reach_champ,0.008,Texas,0.0021
+UCLA,reach_champ,0.008,BYU,0.0032
+UCLA,reach_champ,0.008,Queens (NC),0.0
+UCLA,reach_champ,0.008,Arizona,0.3104
+UCLA,reach_champ,0.008,High Point,0.0
+UCLA,reach_champ,0.008,Miami (FL),0.0032
+UCLA,reach_champ,0.008,Clemson,0.0021
+UCLA,reach_champ,0.008,VCU,0.0011
+UCLA,reach_champ,0.008,Kennesaw State,0.0
+UCLA,reach_champ,0.008,Texas A&M,0.0021
+UCLA,reach_champ,0.008,Florida,0.196
+UCLA,reach_champ,0.008,Villanova,0.0011
+UCLA,reach_champ,0.008,Purdue,0.0869
+UCLA,reach_champ,0.008,Hawaii,0.0
+UCLA,reach_champ,0.008,Missouri,0.0011
+UCLA,reach_champ,0.008,Houston,0.1472
+UCLA,reach_champ,0.008,Penn,0.0
+UCLA,reach_champ,0.008,Arkansas,0.0233
+UCLA,reach_champ,0.008,McNeese,0.0
+UCLA,reach_champ,0.008,UNC,0.0011
+UCLA,reach_champ,0.008,Saint Mary's,0.0053
+UCLA,reach_champ,0.008,Illinois,0.0953
+UConn,r64,1.0,Furman,1.0
+UConn,r32,0.942,UCF,0.308
+UConn,r32,0.942,UCLA,0.692
+UConn,s16,0.671,North Dakota State,0.01
+UConn,s16,0.671,Michigan State,0.54
+UConn,s16,0.671,Louisville,0.356
+UConn,s16,0.671,South Florida,0.094
+UConn,e8,0.378,Siena,0.0
+UConn,e8,0.378,TCU,0.014
+UConn,e8,0.378,Ohio State,0.053
+UConn,e8,0.378,Northern Iowa,0.007
+UConn,e8,0.378,St. John's (NY),0.166
+UConn,e8,0.378,California Baptist,0.001
+UConn,e8,0.378,Kansas,0.101
+UConn,e8,0.378,Duke,0.658
+UConn,f4,0.135,Iowa State,0.2408
+UConn,f4,0.135,Kentucky,0.025
+UConn,f4,0.135,Tennessee,0.049
+UConn,f4,0.135,Hofstra,0.0
+UConn,f4,0.135,Virginia,0.0729
+UConn,f4,0.135,Miami (OH),0.0
+UConn,f4,0.135,Georgia,0.009
+UConn,f4,0.135,Texas Tech,0.015
+UConn,f4,0.135,Akron,0.001
+UConn,f4,0.135,Tennessee State,0.0
+UConn,f4,0.135,Santa Clara,0.005
+UConn,f4,0.135,Wright State,0.0
+UConn,f4,0.135,Michigan,0.5145
+UConn,f4,0.135,Alabama,0.0629
+UConn,f4,0.135,Howard,0.0
+UConn,f4,0.135,Saint Louis,0.005
+UConn,reach_champ,0.057,Idaho,0.0
+UConn,reach_champ,0.057,LIU,0.0
+UConn,reach_champ,0.057,Utah State,0.0021
+UConn,reach_champ,0.057,Vanderbilt,0.0328
+UConn,reach_champ,0.057,Nebraska,0.018
+UConn,reach_champ,0.057,Troy,0.0
+UConn,reach_champ,0.057,Wisconsin,0.0138
+UConn,reach_champ,0.057,Gonzaga,0.0487
+UConn,reach_champ,0.057,Prairie View A&M,0.0
+UConn,reach_champ,0.057,Iowa,0.0032
+UConn,reach_champ,0.057,Texas,0.0021
+UConn,reach_champ,0.057,BYU,0.0032
+UConn,reach_champ,0.057,Queens (NC),0.0
+UConn,reach_champ,0.057,Arizona,0.3104
+UConn,reach_champ,0.057,High Point,0.0
+UConn,reach_champ,0.057,Miami (FL),0.0032
+UConn,reach_champ,0.057,Clemson,0.0021
+UConn,reach_champ,0.057,VCU,0.0011
+UConn,reach_champ,0.057,Kennesaw State,0.0
+UConn,reach_champ,0.057,Texas A&M,0.0021
+UConn,reach_champ,0.057,Florida,0.196
+UConn,reach_champ,0.057,Villanova,0.0011
+UConn,reach_champ,0.057,Purdue,0.0869
+UConn,reach_champ,0.057,Hawaii,0.0
+UConn,reach_champ,0.057,Missouri,0.0011
+UConn,reach_champ,0.057,Houston,0.1472
+UConn,reach_champ,0.057,Penn,0.0
+UConn,reach_champ,0.057,Arkansas,0.0233
+UConn,reach_champ,0.057,McNeese,0.0
+UConn,reach_champ,0.057,UNC,0.0011
+UConn,reach_champ,0.057,Saint Mary's,0.0053
+UConn,reach_champ,0.057,Illinois,0.0953
+UNC,r64,1.0,VCU,1.0
+UNC,r32,0.502,Penn,0.029
+UNC,r32,0.502,Illinois,0.971
+UNC,s16,0.105,Idaho,0.004
+UNC,s16,0.105,Texas A&M,0.087
+UNC,s16,0.105,Saint Mary's,0.158
+UNC,s16,0.105,Houston,0.751
+UNC,e8,0.022,Florida,0.601
+UNC,e8,0.022,Vanderbilt,0.188
+UNC,e8,0.022,Nebraska,0.14
+UNC,e8,0.022,Prairie View A&M,0.0
+UNC,e8,0.022,Iowa,0.041
+UNC,e8,0.022,Clemson,0.023
+UNC,e8,0.022,McNeese,0.007
+UNC,e8,0.022,Troy,0.0
+UNC,f4,0.005,LIU,0.0
+UNC,f4,0.005,Utah State,0.01
+UNC,f4,0.005,Wisconsin,0.04
+UNC,f4,0.005,Purdue,0.1818
+UNC,f4,0.005,Gonzaga,0.1339
+UNC,f4,0.005,Hawaii,0.0
+UNC,f4,0.005,Texas,0.007
+UNC,f4,0.005,Missouri,0.005
+UNC,f4,0.005,BYU,0.012
+UNC,f4,0.005,Queens (NC),0.0
+UNC,f4,0.005,Arizona,0.5285
+UNC,f4,0.005,High Point,0.001
+UNC,f4,0.005,Miami (FL),0.011
+UNC,f4,0.005,Kennesaw State,0.0
+UNC,f4,0.005,Arkansas,0.0659
+UNC,f4,0.005,Villanova,0.004
+UNC,reach_champ,0.001,UConn,0.054
+UNC,reach_champ,0.001,Tennessee,0.017
+UNC,reach_champ,0.001,South Florida,0.0009
+UNC,reach_champ,0.001,Hofstra,0.0
+UNC,reach_champ,0.001,Howard,0.0
+UNC,reach_champ,0.001,Furman,0.0
+UNC,reach_champ,0.001,TCU,0.0009
+UNC,reach_champ,0.001,UCLA,0.0076
+UNC,reach_champ,0.001,Louisville,0.0227
+UNC,reach_champ,0.001,Miami (OH),0.0
+UNC,reach_champ,0.001,Georgia,0.0019
+UNC,reach_champ,0.001,Akron,0.0
+UNC,reach_champ,0.001,Santa Clara,0.0009
+UNC,reach_champ,0.001,St. John's (NY),0.0379
+UNC,reach_champ,0.001,Alabama,0.0218
+UNC,reach_champ,0.001,California Baptist,0.0
+UNC,reach_champ,0.001,Kansas,0.0161
+UNC,reach_champ,0.001,Duke,0.3097
+UNC,reach_champ,0.001,Iowa State,0.1184
+UNC,reach_champ,0.001,Siena,0.0
+UNC,reach_champ,0.001,Kentucky,0.0085
+UNC,reach_champ,0.001,Virginia,0.0265
+UNC,reach_champ,0.001,Michigan,0.3049
+UNC,reach_champ,0.001,Ohio State,0.0076
+UNC,reach_champ,0.001,Northern Iowa,0.0
+UNC,reach_champ,0.001,Texas Tech,0.0038
+UNC,reach_champ,0.001,Michigan State,0.0369
+UNC,reach_champ,0.001,Tennessee State,0.0
+UNC,reach_champ,0.001,Wright State,0.0
+UNC,reach_champ,0.001,UCF,0.0009
+UNC,reach_champ,0.001,North Dakota State,0.0
+UNC,reach_champ,0.001,Saint Louis,0.0009
+Utah State,r64,1.0,Villanova,1.0
+Utah State,r32,0.591,Arizona,0.99
+Utah State,r32,0.591,LIU,0.01
+Utah State,s16,0.071,Arkansas,0.5526
+Utah State,s16,0.071,Wisconsin,0.4034
+Utah State,s16,0.071,High Point,0.033
+Utah State,s16,0.071,Hawaii,0.011
+Utah State,e8,0.028,Purdue,0.4605
+Utah State,e8,0.028,Gonzaga,0.3684
+Utah State,e8,0.028,Texas,0.036
+Utah State,e8,0.028,Missouri,0.029
+Utah State,e8,0.028,BYU,0.0561
+Utah State,e8,0.028,Queens (NC),0.0
+Utah State,e8,0.028,Miami (FL),0.0501
+Utah State,e8,0.028,Kennesaw State,0.0
+Utah State,f4,0.01,Florida,0.3433
+Utah State,f4,0.01,Idaho,0.0
+Utah State,f4,0.01,Illinois,0.1866
+Utah State,f4,0.01,Vanderbilt,0.0788
+Utah State,f4,0.01,Nebraska,0.0489
+Utah State,f4,0.01,Prairie View A&M,0.0
+Utah State,f4,0.01,Iowa,0.012
+Utah State,f4,0.01,Houston,0.2884
+Utah State,f4,0.01,Penn,0.0
+Utah State,f4,0.01,Clemson,0.006
+Utah State,f4,0.01,VCU,0.005
+Utah State,f4,0.01,McNeese,0.001
+Utah State,f4,0.01,Texas A&M,0.007
+Utah State,f4,0.01,UNC,0.005
+Utah State,f4,0.01,Saint Mary's,0.018
+Utah State,f4,0.01,Troy,0.0
+Utah State,reach_champ,0.002,UConn,0.054
+Utah State,reach_champ,0.002,Tennessee,0.017
+Utah State,reach_champ,0.002,South Florida,0.0009
+Utah State,reach_champ,0.002,Hofstra,0.0
+Utah State,reach_champ,0.002,Howard,0.0
+Utah State,reach_champ,0.002,Furman,0.0
+Utah State,reach_champ,0.002,TCU,0.0009
+Utah State,reach_champ,0.002,UCLA,0.0076
+Utah State,reach_champ,0.002,Louisville,0.0227
+Utah State,reach_champ,0.002,Miami (OH),0.0
+Utah State,reach_champ,0.002,Georgia,0.0019
+Utah State,reach_champ,0.002,Akron,0.0
+Utah State,reach_champ,0.002,Santa Clara,0.0009
+Utah State,reach_champ,0.002,St. John's (NY),0.0379
+Utah State,reach_champ,0.002,Alabama,0.0218
+Utah State,reach_champ,0.002,California Baptist,0.0
+Utah State,reach_champ,0.002,Kansas,0.0161
+Utah State,reach_champ,0.002,Duke,0.3097
+Utah State,reach_champ,0.002,Iowa State,0.1184
+Utah State,reach_champ,0.002,Siena,0.0
+Utah State,reach_champ,0.002,Kentucky,0.0085
+Utah State,reach_champ,0.002,Virginia,0.0265
+Utah State,reach_champ,0.002,Michigan,0.3049
+Utah State,reach_champ,0.002,Ohio State,0.0076
+Utah State,reach_champ,0.002,Northern Iowa,0.0
+Utah State,reach_champ,0.002,Texas Tech,0.0038
+Utah State,reach_champ,0.002,Michigan State,0.0369
+Utah State,reach_champ,0.002,Tennessee State,0.0
+Utah State,reach_champ,0.002,Wright State,0.0
+Utah State,reach_champ,0.002,UCF,0.0009
+Utah State,reach_champ,0.002,North Dakota State,0.0
+Utah State,reach_champ,0.002,Saint Louis,0.0009
+VCU,r64,1.0,UNC,1.0
+VCU,r32,0.498,Penn,0.029
+VCU,r32,0.498,Illinois,0.971
+VCU,s16,0.103,Idaho,0.004
+VCU,s16,0.103,Texas A&M,0.087
+VCU,s16,0.103,Saint Mary's,0.158
+VCU,s16,0.103,Houston,0.751
+VCU,e8,0.022,Florida,0.601
+VCU,e8,0.022,Vanderbilt,0.188
+VCU,e8,0.022,Nebraska,0.14
+VCU,e8,0.022,Prairie View A&M,0.0
+VCU,e8,0.022,Iowa,0.041
+VCU,e8,0.022,Clemson,0.023
+VCU,e8,0.022,McNeese,0.007
+VCU,e8,0.022,Troy,0.0
+VCU,f4,0.005,LIU,0.0
+VCU,f4,0.005,Utah State,0.01
+VCU,f4,0.005,Wisconsin,0.04
+VCU,f4,0.005,Purdue,0.1818
+VCU,f4,0.005,Gonzaga,0.1339
+VCU,f4,0.005,Hawaii,0.0
+VCU,f4,0.005,Texas,0.007
+VCU,f4,0.005,Missouri,0.005
+VCU,f4,0.005,BYU,0.012
+VCU,f4,0.005,Queens (NC),0.0
+VCU,f4,0.005,Arizona,0.5285
+VCU,f4,0.005,High Point,0.001
+VCU,f4,0.005,Miami (FL),0.011
+VCU,f4,0.005,Kennesaw State,0.0
+VCU,f4,0.005,Arkansas,0.0659
+VCU,f4,0.005,Villanova,0.004
+VCU,reach_champ,0.001,UConn,0.054
+VCU,reach_champ,0.001,Tennessee,0.017
+VCU,reach_champ,0.001,South Florida,0.0009
+VCU,reach_champ,0.001,Hofstra,0.0
+VCU,reach_champ,0.001,Howard,0.0
+VCU,reach_champ,0.001,Furman,0.0
+VCU,reach_champ,0.001,TCU,0.0009
+VCU,reach_champ,0.001,UCLA,0.0076
+VCU,reach_champ,0.001,Louisville,0.0227
+VCU,reach_champ,0.001,Miami (OH),0.0
+VCU,reach_champ,0.001,Georgia,0.0019
+VCU,reach_champ,0.001,Akron,0.0
+VCU,reach_champ,0.001,Santa Clara,0.0009
+VCU,reach_champ,0.001,St. John's (NY),0.0379
+VCU,reach_champ,0.001,Alabama,0.0218
+VCU,reach_champ,0.001,California Baptist,0.0
+VCU,reach_champ,0.001,Kansas,0.0161
+VCU,reach_champ,0.001,Duke,0.3097
+VCU,reach_champ,0.001,Iowa State,0.1184
+VCU,reach_champ,0.001,Siena,0.0
+VCU,reach_champ,0.001,Kentucky,0.0085
+VCU,reach_champ,0.001,Virginia,0.0265
+VCU,reach_champ,0.001,Michigan,0.3049
+VCU,reach_champ,0.001,Ohio State,0.0076
+VCU,reach_champ,0.001,Northern Iowa,0.0
+VCU,reach_champ,0.001,Texas Tech,0.0038
+VCU,reach_champ,0.001,Michigan State,0.0369
+VCU,reach_champ,0.001,Tennessee State,0.0
+VCU,reach_champ,0.001,Wright State,0.0
+VCU,reach_champ,0.001,UCF,0.0009
+VCU,reach_champ,0.001,North Dakota State,0.0
+VCU,reach_champ,0.001,Saint Louis,0.0009
+Vanderbilt,r64,1.0,McNeese,1.0
+Vanderbilt,r32,0.84,Nebraska,0.927
+Vanderbilt,r32,0.84,Troy,0.073
+Vanderbilt,s16,0.501,Florida,0.836
+Vanderbilt,s16,0.501,Prairie View A&M,0.0
+Vanderbilt,s16,0.501,Clemson,0.062
+Vanderbilt,s16,0.501,Iowa,0.102
+Vanderbilt,e8,0.188,Idaho,0.0
+Vanderbilt,e8,0.188,Houston,0.4925
+Vanderbilt,e8,0.188,Penn,0.0
+Vanderbilt,e8,0.188,VCU,0.022
+Vanderbilt,e8,0.188,Texas A&M,0.029
+Vanderbilt,e8,0.188,UNC,0.022
+Vanderbilt,e8,0.188,Saint Mary's,0.0579
+Vanderbilt,e8,0.188,Illinois,0.3766
+Vanderbilt,f4,0.079,LIU,0.0
+Vanderbilt,f4,0.079,Utah State,0.01
+Vanderbilt,f4,0.079,Wisconsin,0.04
+Vanderbilt,f4,0.079,Purdue,0.1818
+Vanderbilt,f4,0.079,Gonzaga,0.1339
+Vanderbilt,f4,0.079,Hawaii,0.0
+Vanderbilt,f4,0.079,Texas,0.007
+Vanderbilt,f4,0.079,Missouri,0.005
+Vanderbilt,f4,0.079,BYU,0.012
+Vanderbilt,f4,0.079,Queens (NC),0.0
+Vanderbilt,f4,0.079,Arizona,0.5285
+Vanderbilt,f4,0.079,High Point,0.001
+Vanderbilt,f4,0.079,Miami (FL),0.011
+Vanderbilt,f4,0.079,Kennesaw State,0.0
+Vanderbilt,f4,0.079,Arkansas,0.0659
+Vanderbilt,f4,0.079,Villanova,0.004
+Vanderbilt,reach_champ,0.031,UConn,0.054
+Vanderbilt,reach_champ,0.031,Tennessee,0.017
+Vanderbilt,reach_champ,0.031,South Florida,0.0009
+Vanderbilt,reach_champ,0.031,Hofstra,0.0
+Vanderbilt,reach_champ,0.031,Howard,0.0
+Vanderbilt,reach_champ,0.031,Furman,0.0
+Vanderbilt,reach_champ,0.031,TCU,0.0009
+Vanderbilt,reach_champ,0.031,UCLA,0.0076
+Vanderbilt,reach_champ,0.031,Louisville,0.0227
+Vanderbilt,reach_champ,0.031,Miami (OH),0.0
+Vanderbilt,reach_champ,0.031,Georgia,0.0019
+Vanderbilt,reach_champ,0.031,Akron,0.0
+Vanderbilt,reach_champ,0.031,Santa Clara,0.0009
+Vanderbilt,reach_champ,0.031,St. John's (NY),0.0379
+Vanderbilt,reach_champ,0.031,Alabama,0.0218
+Vanderbilt,reach_champ,0.031,California Baptist,0.0
+Vanderbilt,reach_champ,0.031,Kansas,0.0161
+Vanderbilt,reach_champ,0.031,Duke,0.3097
+Vanderbilt,reach_champ,0.031,Iowa State,0.1184
+Vanderbilt,reach_champ,0.031,Siena,0.0
+Vanderbilt,reach_champ,0.031,Kentucky,0.0085
+Vanderbilt,reach_champ,0.031,Virginia,0.0265
+Vanderbilt,reach_champ,0.031,Michigan,0.3049
+Vanderbilt,reach_champ,0.031,Ohio State,0.0076
+Vanderbilt,reach_champ,0.031,Northern Iowa,0.0
+Vanderbilt,reach_champ,0.031,Texas Tech,0.0038
+Vanderbilt,reach_champ,0.031,Michigan State,0.0369
+Vanderbilt,reach_champ,0.031,Tennessee State,0.0
+Vanderbilt,reach_champ,0.031,Wright State,0.0
+Vanderbilt,reach_champ,0.031,UCF,0.0009
+Vanderbilt,reach_champ,0.031,North Dakota State,0.0
+Vanderbilt,reach_champ,0.031,Saint Louis,0.0009
+Villanova,r64,1.0,Utah State,1.0
+Villanova,r32,0.409,Arizona,0.99
+Villanova,r32,0.409,LIU,0.01
+Villanova,s16,0.039,Arkansas,0.5526
+Villanova,s16,0.039,Wisconsin,0.4034
+Villanova,s16,0.039,High Point,0.033
+Villanova,s16,0.039,Hawaii,0.011
+Villanova,e8,0.013,Purdue,0.4605
+Villanova,e8,0.013,Gonzaga,0.3684
+Villanova,e8,0.013,Texas,0.036
+Villanova,e8,0.013,Missouri,0.029
+Villanova,e8,0.013,BYU,0.0561
+Villanova,e8,0.013,Queens (NC),0.0
+Villanova,e8,0.013,Miami (FL),0.0501
+Villanova,e8,0.013,Kennesaw State,0.0
+Villanova,f4,0.004,Florida,0.3433
+Villanova,f4,0.004,Idaho,0.0
+Villanova,f4,0.004,Illinois,0.1866
+Villanova,f4,0.004,Vanderbilt,0.0788
+Villanova,f4,0.004,Nebraska,0.0489
+Villanova,f4,0.004,Prairie View A&M,0.0
+Villanova,f4,0.004,Iowa,0.012
+Villanova,f4,0.004,Houston,0.2884
+Villanova,f4,0.004,Penn,0.0
+Villanova,f4,0.004,Clemson,0.006
+Villanova,f4,0.004,VCU,0.005
+Villanova,f4,0.004,McNeese,0.001
+Villanova,f4,0.004,Texas A&M,0.007
+Villanova,f4,0.004,UNC,0.005
+Villanova,f4,0.004,Saint Mary's,0.018
+Villanova,f4,0.004,Troy,0.0
+Villanova,reach_champ,0.001,UConn,0.054
+Villanova,reach_champ,0.001,Tennessee,0.017
+Villanova,reach_champ,0.001,South Florida,0.0009
+Villanova,reach_champ,0.001,Hofstra,0.0
+Villanova,reach_champ,0.001,Howard,0.0
+Villanova,reach_champ,0.001,Furman,0.0
+Villanova,reach_champ,0.001,TCU,0.0009
+Villanova,reach_champ,0.001,UCLA,0.0076
+Villanova,reach_champ,0.001,Louisville,0.0227
+Villanova,reach_champ,0.001,Miami (OH),0.0
+Villanova,reach_champ,0.001,Georgia,0.0019
+Villanova,reach_champ,0.001,Akron,0.0
+Villanova,reach_champ,0.001,Santa Clara,0.0009
+Villanova,reach_champ,0.001,St. John's (NY),0.0379
+Villanova,reach_champ,0.001,Alabama,0.0218
+Villanova,reach_champ,0.001,California Baptist,0.0
+Villanova,reach_champ,0.001,Kansas,0.0161
+Villanova,reach_champ,0.001,Duke,0.3097
+Villanova,reach_champ,0.001,Iowa State,0.1184
+Villanova,reach_champ,0.001,Siena,0.0
+Villanova,reach_champ,0.001,Kentucky,0.0085
+Villanova,reach_champ,0.001,Virginia,0.0265
+Villanova,reach_champ,0.001,Michigan,0.3049
+Villanova,reach_champ,0.001,Ohio State,0.0076
+Villanova,reach_champ,0.001,Northern Iowa,0.0
+Villanova,reach_champ,0.001,Texas Tech,0.0038
+Villanova,reach_champ,0.001,Michigan State,0.0369
+Villanova,reach_champ,0.001,Tennessee State,0.0
+Villanova,reach_champ,0.001,Wright State,0.0
+Villanova,reach_champ,0.001,UCF,0.0009
+Villanova,reach_champ,0.001,North Dakota State,0.0
+Villanova,reach_champ,0.001,Saint Louis,0.0009
+Virginia,r64,1.0,Wright State,1.0
+Virginia,r32,0.944,Tennessee,0.875
+Virginia,r32,0.944,Miami (OH),0.125
+Virginia,s16,0.558,Iowa State,0.749
+Virginia,s16,0.558,Kentucky,0.18
+Virginia,s16,0.558,Tennessee State,0.002
+Virginia,s16,0.558,Santa Clara,0.069
+Virginia,e8,0.222,Hofstra,0.003
+Virginia,e8,0.222,Georgia,0.032
+Virginia,e8,0.222,Texas Tech,0.049
+Virginia,e8,0.222,Akron,0.007
+Virginia,e8,0.222,Michigan,0.7383
+Virginia,e8,0.222,Alabama,0.1518
+Virginia,e8,0.222,Howard,0.0
+Virginia,e8,0.222,Saint Louis,0.019
+Virginia,f4,0.073,Siena,0.0
+Virginia,f4,0.073,UConn,0.1349
+Virginia,f4,0.073,South Florida,0.005
+Virginia,f4,0.073,Furman,0.0
+Virginia,f4,0.073,TCU,0.005
+Virginia,f4,0.073,UCLA,0.026
+Virginia,f4,0.073,Louisville,0.0579
+Virginia,f4,0.073,Ohio State,0.024
+Virginia,f4,0.073,Northern Iowa,0.002
+Virginia,f4,0.073,Michigan State,0.0939
+Virginia,f4,0.073,North Dakota State,0.0
+Virginia,f4,0.073,St. John's (NY),0.0949
+Virginia,f4,0.073,UCF,0.003
+Virginia,f4,0.073,California Baptist,0.0
+Virginia,f4,0.073,Kansas,0.048
+Virginia,f4,0.073,Duke,0.5055
+Virginia,reach_champ,0.028,Idaho,0.0
+Virginia,reach_champ,0.028,LIU,0.0
+Virginia,reach_champ,0.028,Utah State,0.0021
+Virginia,reach_champ,0.028,Vanderbilt,0.0328
+Virginia,reach_champ,0.028,Nebraska,0.018
+Virginia,reach_champ,0.028,Troy,0.0
+Virginia,reach_champ,0.028,Wisconsin,0.0138
+Virginia,reach_champ,0.028,Gonzaga,0.0487
+Virginia,reach_champ,0.028,Prairie View A&M,0.0
+Virginia,reach_champ,0.028,Iowa,0.0032
+Virginia,reach_champ,0.028,Texas,0.0021
+Virginia,reach_champ,0.028,BYU,0.0032
+Virginia,reach_champ,0.028,Queens (NC),0.0
+Virginia,reach_champ,0.028,Arizona,0.3104
+Virginia,reach_champ,0.028,High Point,0.0
+Virginia,reach_champ,0.028,Miami (FL),0.0032
+Virginia,reach_champ,0.028,Clemson,0.0021
+Virginia,reach_champ,0.028,VCU,0.0011
+Virginia,reach_champ,0.028,Kennesaw State,0.0
+Virginia,reach_champ,0.028,Texas A&M,0.0021
+Virginia,reach_champ,0.028,Florida,0.196
+Virginia,reach_champ,0.028,Villanova,0.0011
+Virginia,reach_champ,0.028,Purdue,0.0869
+Virginia,reach_champ,0.028,Hawaii,0.0
+Virginia,reach_champ,0.028,Missouri,0.0011
+Virginia,reach_champ,0.028,Houston,0.1472
+Virginia,reach_champ,0.028,Penn,0.0
+Virginia,reach_champ,0.028,Arkansas,0.0233
+Virginia,reach_champ,0.028,McNeese,0.0
+Virginia,reach_champ,0.028,UNC,0.0011
+Virginia,reach_champ,0.028,Saint Mary's,0.0053
+Virginia,reach_champ,0.028,Illinois,0.0953
+Wisconsin,r64,1.0,High Point,1.0
+Wisconsin,r32,0.831,Arkansas,0.927
+Wisconsin,r32,0.831,Hawaii,0.073
+Wisconsin,s16,0.403,Arizona,0.8891
+Wisconsin,s16,0.403,Villanova,0.039
+Wisconsin,s16,0.403,LIU,0.001
+Wisconsin,s16,0.403,Utah State,0.0709
+Wisconsin,e8,0.094,Purdue,0.4605
+Wisconsin,e8,0.094,Gonzaga,0.3684
+Wisconsin,e8,0.094,Texas,0.036
+Wisconsin,e8,0.094,Missouri,0.029
+Wisconsin,e8,0.094,BYU,0.0561
+Wisconsin,e8,0.094,Queens (NC),0.0
+Wisconsin,e8,0.094,Miami (FL),0.0501
+Wisconsin,e8,0.094,Kennesaw State,0.0
+Wisconsin,f4,0.04,Florida,0.3433
+Wisconsin,f4,0.04,Idaho,0.0
+Wisconsin,f4,0.04,Illinois,0.1866
+Wisconsin,f4,0.04,Vanderbilt,0.0788
+Wisconsin,f4,0.04,Nebraska,0.0489
+Wisconsin,f4,0.04,Prairie View A&M,0.0
+Wisconsin,f4,0.04,Iowa,0.012
+Wisconsin,f4,0.04,Houston,0.2884
+Wisconsin,f4,0.04,Penn,0.0
+Wisconsin,f4,0.04,Clemson,0.006
+Wisconsin,f4,0.04,VCU,0.005
+Wisconsin,f4,0.04,McNeese,0.001
+Wisconsin,f4,0.04,Texas A&M,0.007
+Wisconsin,f4,0.04,UNC,0.005
+Wisconsin,f4,0.04,Saint Mary's,0.018
+Wisconsin,f4,0.04,Troy,0.0
+Wisconsin,reach_champ,0.013,UConn,0.054
+Wisconsin,reach_champ,0.013,Tennessee,0.017
+Wisconsin,reach_champ,0.013,South Florida,0.0009
+Wisconsin,reach_champ,0.013,Hofstra,0.0
+Wisconsin,reach_champ,0.013,Howard,0.0
+Wisconsin,reach_champ,0.013,Furman,0.0
+Wisconsin,reach_champ,0.013,TCU,0.0009
+Wisconsin,reach_champ,0.013,UCLA,0.0076
+Wisconsin,reach_champ,0.013,Louisville,0.0227
+Wisconsin,reach_champ,0.013,Miami (OH),0.0
+Wisconsin,reach_champ,0.013,Georgia,0.0019
+Wisconsin,reach_champ,0.013,Akron,0.0
+Wisconsin,reach_champ,0.013,Santa Clara,0.0009
+Wisconsin,reach_champ,0.013,St. John's (NY),0.0379
+Wisconsin,reach_champ,0.013,Alabama,0.0218
+Wisconsin,reach_champ,0.013,California Baptist,0.0
+Wisconsin,reach_champ,0.013,Kansas,0.0161
+Wisconsin,reach_champ,0.013,Duke,0.3097
+Wisconsin,reach_champ,0.013,Iowa State,0.1184
+Wisconsin,reach_champ,0.013,Siena,0.0
+Wisconsin,reach_champ,0.013,Kentucky,0.0085
+Wisconsin,reach_champ,0.013,Virginia,0.0265
+Wisconsin,reach_champ,0.013,Michigan,0.3049
+Wisconsin,reach_champ,0.013,Ohio State,0.0076
+Wisconsin,reach_champ,0.013,Northern Iowa,0.0
+Wisconsin,reach_champ,0.013,Texas Tech,0.0038
+Wisconsin,reach_champ,0.013,Michigan State,0.0369
+Wisconsin,reach_champ,0.013,Tennessee State,0.0
+Wisconsin,reach_champ,0.013,Wright State,0.0
+Wisconsin,reach_champ,0.013,UCF,0.0009
+Wisconsin,reach_champ,0.013,North Dakota State,0.0
+Wisconsin,reach_champ,0.013,Saint Louis,0.0009
+Wright State,r64,1.0,Virginia,1.0
+Wright State,r32,0.056,Tennessee,0.875
+Wright State,r32,0.056,Miami (OH),0.125
+Wright State,s16,0.006,Iowa State,0.749
+Wright State,s16,0.006,Kentucky,0.18
+Wright State,s16,0.006,Tennessee State,0.002
+Wright State,s16,0.006,Santa Clara,0.069
+Wright State,e8,0.0,Hofstra,0.003
+Wright State,e8,0.0,Georgia,0.032
+Wright State,e8,0.0,Texas Tech,0.049
+Wright State,e8,0.0,Akron,0.007
+Wright State,e8,0.0,Michigan,0.7383
+Wright State,e8,0.0,Alabama,0.1518
+Wright State,e8,0.0,Howard,0.0
+Wright State,e8,0.0,Saint Louis,0.019
+Wright State,f4,0.0,Siena,0.0
+Wright State,f4,0.0,UConn,0.1349
+Wright State,f4,0.0,South Florida,0.005
+Wright State,f4,0.0,Furman,0.0
+Wright State,f4,0.0,TCU,0.005
+Wright State,f4,0.0,UCLA,0.026
+Wright State,f4,0.0,Louisville,0.0579
+Wright State,f4,0.0,Ohio State,0.024
+Wright State,f4,0.0,Northern Iowa,0.002
+Wright State,f4,0.0,Michigan State,0.0939
+Wright State,f4,0.0,North Dakota State,0.0
+Wright State,f4,0.0,St. John's (NY),0.0949
+Wright State,f4,0.0,UCF,0.003
+Wright State,f4,0.0,California Baptist,0.0
+Wright State,f4,0.0,Kansas,0.048
+Wright State,f4,0.0,Duke,0.5055
+Wright State,reach_champ,0.0,Idaho,0.0
+Wright State,reach_champ,0.0,LIU,0.0
+Wright State,reach_champ,0.0,Utah State,0.0021
+Wright State,reach_champ,0.0,Vanderbilt,0.0328
+Wright State,reach_champ,0.0,Nebraska,0.018
+Wright State,reach_champ,0.0,Troy,0.0
+Wright State,reach_champ,0.0,Wisconsin,0.0138
+Wright State,reach_champ,0.0,Gonzaga,0.0487
+Wright State,reach_champ,0.0,Prairie View A&M,0.0
+Wright State,reach_champ,0.0,Iowa,0.0032
+Wright State,reach_champ,0.0,Texas,0.0021
+Wright State,reach_champ,0.0,BYU,0.0032
+Wright State,reach_champ,0.0,Queens (NC),0.0
+Wright State,reach_champ,0.0,Arizona,0.3104
+Wright State,reach_champ,0.0,High Point,0.0
+Wright State,reach_champ,0.0,Miami (FL),0.0032
+Wright State,reach_champ,0.0,Clemson,0.0021
+Wright State,reach_champ,0.0,VCU,0.0011
+Wright State,reach_champ,0.0,Kennesaw State,0.0
+Wright State,reach_champ,0.0,Texas A&M,0.0021
+Wright State,reach_champ,0.0,Florida,0.196
+Wright State,reach_champ,0.0,Villanova,0.0011
+Wright State,reach_champ,0.0,Purdue,0.0869
+Wright State,reach_champ,0.0,Hawaii,0.0
+Wright State,reach_champ,0.0,Missouri,0.0011
+Wright State,reach_champ,0.0,Houston,0.1472
+Wright State,reach_champ,0.0,Penn,0.0
+Wright State,reach_champ,0.0,Arkansas,0.0233
+Wright State,reach_champ,0.0,McNeese,0.0
+Wright State,reach_champ,0.0,UNC,0.0011
+Wright State,reach_champ,0.0,Saint Mary's,0.0053
+Wright State,reach_champ,0.0,Illinois,0.0953

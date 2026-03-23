@@ -23,6 +23,7 @@ from teams_alive import get_teams_alive_mask
 from teams_in_progress import get_team_in_progress_mask
 from werkzeug.security import generate_password_hash, check_password_hash
 
+
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
@@ -369,6 +370,75 @@ def entry_picks():
         return jsonify({"success": True})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+def _build_projection_inputs(pikap=False):
+    player_catalog, team_seed_map = _read_player_catalog()
+    entries_path = PK_ENTRIES_FILE_PATH if pikap else ENTRIES_FILE_PATH
+    entries = _load_entries(entries_path)
+    public_entries = {
+        name: {"picks": entry.get("picks", [])}
+        for name, entry in entries.items()
+    }
+    return {
+        "entries": public_entries,
+        "player_scoring_data": _read_player_scoring_data(),
+        "projection_player_scoring_data": _read_projection_player_scoring_data(),
+        "teams_alive_mask": get_teams_alive_mask(),
+        "player_catalog": player_catalog,
+        "team_seed_map": team_seed_map,
+    }
+
+
+@app.route("/bracket", methods=["GET"])
+@app.route("/pk/bracket", methods=["GET"])
+def bracket():
+    try:
+        pikap = request.path.startswith("/pk/")
+        inputs = _build_projection_inputs(pikap=pikap)
+        from projections.pipeline import build_bracket_snapshot
+        result = build_bracket_snapshot(inputs)
+        return jsonify(result)
+    except Exception as e:
+        print(f"Error in bracket endpoint: {e}")
+        return jsonify({"error": str(e)}), 500
+
+
+WHATIF_DEFAULT_N_SIMS = 500
+
+
+@app.route("/whatif", methods=["POST"])
+@app.route("/pk/whatif", methods=["POST"])
+def whatif():
+    try:
+        pikap = request.path.startswith("/pk/")
+        payload = request.get_json(force=True)
+        forced_winners = payload.get("forced_winners", {})
+        if not forced_winners:
+            return jsonify({"error": "forced_winners is required"}), 400
+
+        model = payload.get("model", "silver")
+        if model not in ("kenpom", "silver"):
+            return jsonify({"error": "model must be 'kenpom' or 'silver'"}), 400
+
+        print(f"What-if request: forced_winners={forced_winners}, model={model}")
+        n_sims = min(int(payload.get("n_sims", WHATIF_DEFAULT_N_SIMS)), 2000)
+        from projections.pipeline import build_projection_snapshot
+        inputs = _build_projection_inputs(pikap=pikap)
+
+        # Run both baseline and what-if with same sim count for apples-to-apples comparison
+        baseline_snapshot = build_projection_snapshot(inputs, n_sims=n_sims, model=model)
+        whatif_snapshot = build_projection_snapshot(
+            inputs,
+            n_sims=n_sims,
+            forced_winners=forced_winners,
+            model=model,
+        )
+        whatif_snapshot["baseline"] = baseline_snapshot.get("entrant_projections", [])
+        return jsonify(whatif_snapshot)
+    except Exception as e:
+        print(f"Error in whatif endpoint: {e}")
+        return jsonify({"error": str(e)}), 500
+
 
 if __name__ == '__main__':
     app.run(debug=True)

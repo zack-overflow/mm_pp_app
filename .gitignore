@@ -1,1 +1,7 @@
 __pycache__/
+local.json
+pk_projections.json
+projection_local.json
+projections.json
+team_in_progress_mask.json
+teams_alive_mask.json
